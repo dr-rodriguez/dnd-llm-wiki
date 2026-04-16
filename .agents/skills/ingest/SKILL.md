@@ -15,5 +15,7 @@ description: Use this skill when a new source document is added to the `raw/` fo
    - Update existing wiki pages to integrate the new knowledge.
    - Create new wiki pages as necessary.
    - Ensure all information is cross-referenced correctly.
-5. **Update Index:** If you created new pages, add them to `wiki/index.md`.
-6. **Log Activity:** Append an entry to `wiki/log.md` detailing the file ingested, the date, and a brief summary of the changes made to the wiki.
+5. **Archive Source:** Move the ingested files from `raw/` to `wiki/sources/`.
+6. **Clean Up:** Ensure the `raw/` directory is empty.
+7. **Update Index:** If you created new pages, add them to `wiki/index.md`.
+8. **Log Activity:** Append an entry to `wiki/log.md` detailing the file ingested, the date, and a brief summary of the changes made to the wiki.
