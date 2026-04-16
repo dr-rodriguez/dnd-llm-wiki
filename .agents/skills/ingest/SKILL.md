@@ -14,6 +14,7 @@ description: Use this skill when a new source document is added to the `raw/` fo
 4. **Execute Updates:** 
    - Update existing wiki pages to integrate the new knowledge.
    - Create new wiki pages as necessary.
+   - **Internal Linking:** Ensure every major character, location, and lore concept is linked to its wiki page (e.g., `[[Characters#Soren|Soren]]`) the first time it is mentioned in a session note or update.
    - **Provenance:** Every update or new page MUST include a link back to the source document in `wiki/sources/`. For session notes, this can be a list at the bottom of the page; for entity pages, add to a "Sources" section.
    - Ensure all information is cross-referenced correctly.
 5. **Archive Source:** Move the ingested files from `raw/` to `wiki/sources/`.
