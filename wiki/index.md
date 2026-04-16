@@ -8,6 +8,7 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 - [[Characters]] - List of PCs and NPCs encountered.
 - [[Locations]] - Key locations in the world of Andore and Drakenweld.
 - [[Lore]] - World history, deities, major projects, and technology.
+- [[Quests]] - Current and past campaign objectives and missions.
 
 ### Major Characters
 - [[Characters/Soren|Soren]] - Aarakocra Bladesinger.
