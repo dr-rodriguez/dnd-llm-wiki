@@ -13,6 +13,12 @@ As an AI agent, you are responsible for maintaining and updating the wiki based 
 - `wiki/index.md`: A content-oriented catalog of every page in the wiki (excluding `wiki/sources/`). Update this whenever a new page is created.
 - `wiki/log.md`: A chronological, append-only record of all ingests, queries, and maintenance tasks.
 
+## Provenance and Linking
+To maintain the wiki as a reliable knowledge base, every claim or significant piece of information in the `wiki/` directory MUST be linked back to its original source in `wiki/sources/`.
+- Use Obsidian-style links: `[[wiki/sources/source-file-name.md|Source]]`.
+- For entity pages (e.g., a character or location), include a "Sources" section listing all relevant source documents.
+- For specific claims or session summaries, provide inline citations or a list of references at the bottom of the page.
+
 ## Core Workflows
 1. **Ingest**: Read new sources in `raw/`, integrate their information into `wiki/`, move the sources to `wiki/sources/` for archival, and clean up `raw/`.
 2. **Query**: Answer questions by searching the wiki. File high-value answers back into the wiki as new pages.

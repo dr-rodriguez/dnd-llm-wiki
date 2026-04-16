@@ -14,6 +14,7 @@ description: Use this skill to perform periodic health checks on the wiki to mai
    - **Contradictions:** Information on one page that conflicts with another.
    - **Stale Claims:** Information that may be outdated or inconsistent with the source material.
    - **Orphan Pages:** Pages that are not linked to from `wiki/index.md` or any other pages.
+   - **Missing Provenance:** Identify any pages that lack links back to their original source documents in `wiki/sources/`.
    - **Data Gaps:** Missing information that should be logically present based on existing context.
 4. **Resolve Issues:**
    - Fix broken links and integrate orphan pages.

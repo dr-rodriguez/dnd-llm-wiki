@@ -14,6 +14,7 @@ description: Use this skill when a new source document is added to the `raw/` fo
 4. **Execute Updates:** 
    - Update existing wiki pages to integrate the new knowledge.
    - Create new wiki pages as necessary.
+   - **Provenance:** Every update or new page MUST include a link back to the source document in `wiki/sources/`. For session notes, this can be a list at the bottom of the page; for entity pages, add to a "Sources" section.
    - Ensure all information is cross-referenced correctly.
 5. **Archive Source:** Move the ingested files from `raw/` to `wiki/sources/`.
 6. **Clean Up:** Ensure the `raw/` directory is empty.
