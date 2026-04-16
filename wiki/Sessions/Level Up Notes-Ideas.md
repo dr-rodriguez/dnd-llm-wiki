@@ -22,15 +22,15 @@ Other spell considerations:
 2: Shatter, Misty Step, Scorching Ray, Warding Wind  
 3: Thunder Step, Hypnotic Pattern, Sending  
 4: Blight, Greater Invisibility, Raulothim's Psychic Lance, Otiluke's Resilient Sphere  
-5: Enervation, Geas, Scrying (requires 1000gp focus), Wall of Force, Bigbyâ€™s Hand  
-6: Tenserâ€™s Transformation (maybe not), Chain Lightning, Disintegrate, Mental Prison, Contingency (requires 1500gp statuette)
+5: Enervation, Geas, Scrying (requires 1000gp focus), Wall of Force, Bigby's Hand  
+6: Tenser's Transformation (maybe not), Chain Lightning, Disintegrate, Mental Prison, Contingency (requires 1500gp statuette)
 
 Trying to focus on wind/lightning magic, self-buffs, mobility
 
-Mordenkainenâ€™s Magnificent Mansion (7th level)
+Mordenkainen's Magnificent Mansion (7th level)
 
 Contingency Options:  
 When an attack hits me, cast Mirror Image  
-When below some health threshold, cast Otilukeâ€™s Resilient Sphere
+When below some health threshold, cast Otiluke's Resilient Sphere
 
 

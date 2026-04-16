@@ -9,13 +9,13 @@ Cleric, Light Domain
 
 ### Appearance
 
-Just under 3â€™ tall, white fur, skin flaps for gliding
+Just under 3' tall, white fur, skin flaps for gliding
 
 ### Backstory
 
 Zinjaro served as a guide for a small community nestled within the mountains, though he never fully embraced the simple life they led. He was fascinated by the tales of adventurers passing through, stories of grand cities and exotic treasures that ignited a strong wanderlust within him. His innate talent for finding safe routes, even in treacherous terrain, and his uncanny ability to predict weather patterns, he came to understand as blessings from his deity, a god of the sun and travel. Zinjaro interpreted these gifts as both a responsibility to guide and a divine endorsement to experience the world's pleasures.
 
-This interpretation led Zinjaro to a unique understanding of his faith. He believes that a god of the sun would want his followers to embrace life's richness, not live in deprivation. He sees "vices" â€“ rich foods, fine wines, vibrant festivals â€“ as gifts to be celebrated, justifying his desires with the belief that "the sun shines on all, the righteous and the sinner alike. Therefore, enjoying the sun's bounty is a form of worship in itself\!" A local prophecy, speaking of a "guide touched by the sun" who would play a key role against a rising darkness, further solidified his belief that he was destined for greater things, with a beach-side villa as the perfect base of operations.
+This interpretation led Zinjaro to a unique understanding of his faith. He believes that a god of the sun would want his followers to embrace life's richness, not live in deprivation. He sees "vices" – rich foods, fine wines, vibrant festivals – as gifts to be celebrated, justifying his desires with the belief that "the sun shines on all, the righteous and the sinner alike. Therefore, enjoying the sun's bounty is a form of worship in itself\!" A local prophecy, speaking of a "guide touched by the sun" who would play a key role against a rising darkness, further solidified his belief that he was destined for greater things, with a beach-side villa as the perfect base of operations.
 
 ### Personality
 

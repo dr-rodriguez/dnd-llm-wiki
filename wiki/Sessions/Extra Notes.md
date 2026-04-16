@@ -20,7 +20,7 @@ Notable Cleric spells needing material components:
 * **Scrying**: a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font  
 * **Summon Celestial**: a reliquary worth 500+ GP  
 * **True Seeing**: 25gp mushroom powder, consumed  
-* **Heroesâ€™ Feast**: 1,000gp bowl, consumed
+* **Heroes' Feast**: 1,000gp bowl, consumed
 
 Notable Items/Gear:
 

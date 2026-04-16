@@ -22,7 +22,7 @@ Determined to regain his freedom and find any lost tribe members, Soren eventual
 I watch over my friends as if they were a litter of newborn pups.  
 I can always find the best fishing spots and lose myself there for hours.  
 **Ideals**  
-Greater Good. It is each personâ€™s responsibility to make the most happiness for the whole tribe. (Good)  
+Greater Good. It is each person's responsibility to make the most happiness for the whole tribe. (Good)  
 **Bonds**  
 I will bring terrible wrath down on the evildoers who enslaved my tribe.  
 **Flaws**  
