@@ -1,3 +1,8 @@
+---
+name: lint
+description: Use this skill to perform periodic health checks on the wiki to maintain its consistency and quality.
+---
+
 # Lint Skill
 
 **Description:** Use this skill to perform periodic health checks on the wiki to maintain its consistency and quality.

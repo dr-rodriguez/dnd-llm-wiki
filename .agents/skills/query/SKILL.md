@@ -1,3 +1,8 @@
+---
+name: query
+description: Use this skill to answer user questions using the knowledge stored in the wiki.
+---
+
 # Query Skill
 
 **Description:** Use this skill to answer user questions using the knowledge stored in the wiki.

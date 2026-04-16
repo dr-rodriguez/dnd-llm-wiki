@@ -1,3 +1,8 @@
+---
+name: ingest
+description: Use this skill when a new source document is added to the `raw/` folder, and you need to integrate its knowledge into the wiki.
+---
+
 # Ingest Skill
 
 **Description:** Use this skill when a new source document is added to the `raw/` folder, and you need to integrate its knowledge into the wiki.
