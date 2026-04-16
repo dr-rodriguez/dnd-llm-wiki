@@ -31,3 +31,8 @@
     * **Athena AI**: Mid-level AI, experienced rampancy.
     * **Odin AI**, **Grecko/Vlad AI**: Other known AI systems.
     * **Nova (Defense Unit 33-Alpha)**: A lower-level AI/Warforged unit designed for individual facilities.
+
+## Sources
+- [[wiki/sources/2024-08-01.md|Session 2024-08-01 (History Lesson)]]
+- [[wiki/sources/Extra Notes.md|Extra Notes]]
+- [[wiki/sources/Level Up Notes-Ideas.md|Level Up Notes]]

@@ -35,3 +35,6 @@ I am claustrophobic and slow to trust after being caged during my imprisonment.
 [Image Reference Removed]
 
 
+
+## Sources
+- [[wiki/sources/Character- Soren.md|Original Bio]]

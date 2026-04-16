@@ -102,3 +102,8 @@
 | Mary | | | | | Mentioned in a journal | |
 | Matilda | | | | | Mentioned in a journal | |
 | Elder Danyel | | Anwey | Scientist | | The original scientist for the clone Danyel | |
+
+## Sources
+- [[wiki/sources/DnD5e Sofia Campaign 2023 Characters_Locations - Characters.csv|Character CSV]]
+- [[wiki/sources/Character- Soren.md|Soren Bio]]
+- [[wiki/sources/Character- Zinjaro.md|Zinjaro Bio]]

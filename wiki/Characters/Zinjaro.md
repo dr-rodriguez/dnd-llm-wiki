@@ -31,3 +31,6 @@ This interpretation led Zinjaro to a unique understanding of his faith. He belie
 [Image Reference Removed]
 
 
+
+## Sources
+- [[wiki/sources/Character- Zinjaro.md|Original Bio]]
