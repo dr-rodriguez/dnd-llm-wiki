@@ -2,7 +2,7 @@
 
 ## Character: Zinjaro
 
-Hadozee  
+Hadozee
 Cleric, Light Domain
 
 [https://www.dndbeyond.com/characters/139871507](https://www.dndbeyond.com/characters/139871507)
@@ -10,8 +10,6 @@ Cleric, Light Domain
 ### Appearance
 
 Just under 3â€™ tall, white fur, skin flaps for gliding
-
-![][image3]
 
 ### Backstory
 
@@ -21,16 +19,12 @@ This interpretation led Zinjaro to a unique understanding of his faith. He belie
 
 ### Personality
 
-* **Optimistic:** Zinjaro tends to see the bright side of things, even in difficult situations. He believes that the sun's light will always guide him.  
-* **Hedonistic (within reason):** He enjoys life's pleasures and doesn't shy away from indulging himself, but he's not necessarily reckless or destructive. He justifies his indulgences as a form of worship.  
-* **Self-Justifying:** Zinjaro has a knack for twisting interpretations of his faith and prophecies to suit his desires. He's not intentionally deceitful, but he's very good at convincing himself (and sometimes others) that what he wants is divinely ordained.  
-* **Slightly Delusional/Misguided:** His interpretation of the prophecy and his own role in it is likely exaggerated, if not completely wrong.   
-* **Devout (in his own way):** Despite his unorthodox interpretations, Zinjaro genuinely believes in his deity and feels a strong connection to the sun's power.  
+* **Optimistic:** Zinjaro tends to see the bright side of things, even in difficult situations. He believes that the sun's light will always guide him.
+* **Hedonistic (within reason):** He enjoys life's pleasures and doesn't shy away from indulging himself, but he's not necessarily reckless or destructive. He justifies his indulgences as a form of worship.
+* **Self-Justifying:** Zinjaro has a knack for twisting interpretations of his faith and prophecies to suit his desires. He's not intentionally deceitful, but he's very good at convincing himself (and sometimes others) that what he wants is divinely ordained.
+* **Slightly Delusional/Misguided:** His interpretation of the prophecy and his own role in it is likely exaggerated, if not completely wrong.
+* **Devout (in his own way):** Despite his unorthodox interpretations, Zinjaro genuinely believes in his deity and feels a strong connection to the sun's power.
 * **Wanderlustful:** He has a deep desire to explore the world and experience all it has to offer.
-
-[Image Reference Removed]
-
-
 
 ## Sources
 - [[wiki/sources/Character- Zinjaro.md|Original Bio]]

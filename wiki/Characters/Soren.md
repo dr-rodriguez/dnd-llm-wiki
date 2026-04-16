@@ -11,9 +11,6 @@ Wizard, Bladesinging
 ### Appearance
 
 Soren is a striking Aarakocra with black and white feathers that resemble those of a penguin. His beak is a contrasting black and orange, giving him a distinctive look. He also sports a set of orange crest feathers that add a touch of color to his otherwise monochrome plumage. To top off his appearance, he always wears a blue scarf, which not only serves a practical purpose but also carries sentimental value.
-
-![][image1]![][image2]
-
 ### Backstory
 
 Soren's life took a dramatic turn when he was a scout for his tribe in the remote mountains. Captured by slavers, he was sold to a traveling circus, a place that would become his prison. The experience of being caged and bound in a confined environment left him scarred with claustrophobia, making him deeply uncomfortable in tight spaces. The circus environment also cultivated a strong distrust of strangers, as he witnessed the cruelty of those who had taken him from his tribe.
@@ -30,10 +27,6 @@ Greater Good. It is each personâ€™s responsibility to make the most happine
 I will bring terrible wrath down on the evildoers who enslaved my tribe.  
 **Flaws**  
 I am claustrophobic and slow to trust after being caged during my imprisonment.
-
-[Image Reference Removed]
-[Image Reference Removed]
-
 
 
 ## Sources
