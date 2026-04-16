@@ -1,5 +1,5 @@
-# Activity Log
+# Ingestion Log
 
-Chronological record of all ingests, queries, and maintenance tasks performed on the wiki.
-
----
+| Date | File(s) Ingested | Summary |
+|------|------------------|---------|
+| 2026-04-16 | `raw/*.md`, `raw/*.csv` | Initial ingestion of campaign notes. Created Characters, Locations, Lore, and Session pages. Cleaned up base64 images from session notes. |
