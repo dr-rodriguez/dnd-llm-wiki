@@ -9,3 +9,4 @@
 | 2026-04-16 | `Characters.md` | Added Villhelm Emberstoke (PC) to Characters.md |
 | 2026-04-16 | `wiki/Characters/Villhelm Emberstoke.md` | Created wiki/Characters/Villhelm Emberstoke.md, added tags and internal links to wiki/Characters.md and wiki/index.md. |
 | 2026-04-16 | `raw/2026-04-11.md` | Ingested `raw/2026-04-11.md`. Created `wiki/Sessions/2026-04-11.md`. Updated `wiki/Characters/Zinjaro.md`, `wiki/Characters/Villhelm Emberstoke.md`, `wiki/Quests.md`, and `wiki/index.md`. |
+| 2026-04-17 | `wiki/Characters/*.md`, `wiki/Characters.md` | Created comprehensive wiki notes for Aolis, Maxim, Brambleberry, Ogra, Thadius, and Wobbles. Populated with session-derived backstories and events. Updated character index and tags. |

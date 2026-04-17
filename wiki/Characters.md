@@ -3,6 +3,12 @@ tags:
   - Soren
   - Zinjaro
   - VillhelmEmberstoke
+  - OgraOaksworn
+  - Aolis
+  - MaximusArkelius
+  - Brambleberry
+  - ThadiusDonOppenheimer
+  - WobblesWibbbles
 ---
 
 # Characters
@@ -20,12 +26,12 @@ tags:
 | Tirin Bronzepride         | PC          | Leonin     | Wild Magic Barbarian             |                                         | Sonja, after Dumo retired, killed in Athena AI fight   | Impatient                                        |          |
 | Nova                      | PC          | Warforged  | Oath of the Crown Paladin        |                                         | Hunter (Derpy), killed in Athena AI fight              |                                                  |          |
 | [[Characters/Zinjaro|Zinjaro]] | PC          | Hadozee    | Light Domain Cleric              |                                         | Strakul                                                |                                                  |          |
-| Maximus Arkelius          | PC          | Changeling | Aberrant Sorcerer                |                                         | Hunter/Derpy                                           | Ancient ([[wiki/Lore#The Anwey                   | anwey]]) |
-| Aolis (born: Arete)       | PC          | Drow       | Shadow Sorcerer                  |                                         | Koi/Altair                                             |                                                  |          |
-| Thadius "Don" Oppenheimer | PC          | Giff       | Armorer Artificer                |                                         | Sonja, died in radioactive pool                        |                                                  |          |
-| Wobbles Wibbbles          | PC          | Kobold     | Way of the Ascendant Dragon Monk |                                         | Nick/Zar, left on a private quest                      |                                                  |          |
-| Brambleberry              | PC          | Centaur    | Soulknife Rogue                  |                                         | Ras                                                    |                                                  |          |
-| Ogra Oaksworn             | PC          | Bear       | Wild Tree Barbarian              |                                         | Nick/Zar                                               |                                                  |          |
+| [[Characters/Maximus Arkelius|Maximus Arkelius]] | PC          | Changeling | Aberrant Sorcerer                |                                         | Hunter/Derpy                                           | Ancient ([[wiki/Lore#The Anwey                   | anwey]]) |
+| [[Characters/Aolis|Aolis (born: Arete)]] | PC          | Drow       | Shadow Sorcerer                  |                                         | Koi/Altair                                             |                                                  |          |
+| [[Characters/Thadius Don Oppenheimer|Thadius "Don" Oppenheimer]] | PC          | Giff       | Armorer Artificer                |                                         | Sonja, died in radioactive pool                        |                                                  |          |
+| [[Characters/Wobbles Wibbbles|Wobbles Wibbbles]] | PC          | Kobold     | Way of the Ascendant Dragon Monk |                                         | Nick/Zar, left on a private quest                      |                                                  |          |
+| [[Characters/Brambleberry|Brambleberry]] | PC          | Centaur    | Soulknife Rogue                  |                                         | Ras                                                    |                                                  |          |
+| [[Characters/Ogra Oaksworn|Ogra Oaksworn]] | PC          | Bear       | Wild Tree Barbarian              |                                         | Nick/Zar                                               |                                                  |          |
 | [[Characters/Villhelm Emberstoke|Villhelm Emberstoke]] | PC          | Dragonborn | Monk                             |                                         | Billy                                                  |                                                  |          |
 | Zarali                    |             | Tiefling   | Rogue                            | [[wiki/Locations#Tessalia               | Tessalia]]                                             | Aka Greed                                        |          |
 | Maggie North              | Quest-giver | Tiefling   | Guild Hall Leader                | [[wiki/Locations#Adventurers Guild Hall | Adventurers Guild Hall]]                               | Guild hall leader                                |          |

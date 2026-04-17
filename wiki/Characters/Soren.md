@@ -1,33 +1,32 @@
-# DnD5e with FoC
+---
+tags:
+  - Soren
+---
 
-## Character: Soren
+# Soren
 
-Aarakocra  
-~~Fighter, Eldritch Knight~~  
-Wizard, Bladesinging
+| Attribute | Detail |
+| --- | --- |
+| Type | PC |
+| Species | Aarakocra |
+| Class | Bladesinger Wizard |
+| Player | Strakul |
+| Link | [D&D Beyond](https://www.dndbeyond.com/characters/110637031/M4fEZD) |
 
-[https://www.dndbeyond.com/characters/110637031/M4fEZD](https://www.dndbeyond.com/characters/110637031/M4fEZD) 
+## Appearance
+Soren is a striking Aarakocra with black and white feathers resembling a penguin. His beak is a contrasting black and orange, and he sports orange crest feathers. He always wears a blue scarf that carries significant sentimental value.
 
-### Appearance
+## Backstory
+Soren's life took a dramatic turn when he was a scout for his tribe in the remote mountains. Captured by slavers, he was sold to a traveling circus, which became his prison. This experience left him with severe claustrophobia and a deep distrust of strangers.
 
-Soren is a striking Aarakocra with black and white feathers that resemble those of a penguin. His beak is a contrasting black and orange, giving him a distinctive look. He also sports a set of orange crest feathers that add a touch of color to his otherwise monochrome plumage. To top off his appearance, he always wears a blue scarf, which not only serves a practical purpose but also carries sentimental value.
-### Backstory
+Eventually escaping his captors, Soren embarked on a journey through the wilderness to hone his skills. He carries a deep sense of purpose, seeking revenge against the slavers and hoping to reunite with his lost tribe members.
 
-Soren's life took a dramatic turn when he was a scout for his tribe in the remote mountains. Captured by slavers, he was sold to a traveling circus, a place that would become his prison. The experience of being caged and bound in a confined environment left him scarred with claustrophobia, making him deeply uncomfortable in tight spaces. The circus environment also cultivated a strong distrust of strangers, as he witnessed the cruelty of those who had taken him from his tribe.
-
-Determined to regain his freedom and find any lost tribe members, Soren eventually managed to escape his captors. He then embarked on a journey, roaming the wilderness and honing his skills as a fighter. He carries a deep sense of purpose, not only seeking revenge against the slavers but also hoping to reunite with his tribe or find any clues about their whereabouts.
-
-### Personality Traits
-
-I watch over my friends as if they were a litter of newborn pups.  
-I can always find the best fishing spots and lose myself there for hours.  
-**Ideals**  
-Greater Good. It is each person's responsibility to make the most happiness for the whole tribe. (Good)  
-**Bonds**  
-I will bring terrible wrath down on the evildoers who enslaved my tribe.  
-**Flaws**  
-I am claustrophobic and slow to trust after being caged during my imprisonment.
-
+## Personality Traits
+- **Watchful:** He watches over his friends like a litter of newborn pups.
+- **Nature-loving:** He can lose himself for hours at the best fishing spots.
+- **Ideals:** Greater Good. It is each person's responsibility to make the most happiness for the whole tribe.
+- **Bonds:** He seeks to bring terrible wrath down on the evildoers who enslaved his tribe.
+- **Flaws:** He is claustrophobic and slow to trust after his imprisonment.
 
 ## Sources
 - [[wiki/sources/Character- Soren.md|Original Bio]]
