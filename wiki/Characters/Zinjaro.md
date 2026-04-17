@@ -15,9 +15,12 @@ Just under 3' tall, white fur, skin flaps for gliding
 
 Zinjaro served as a guide for a small community nestled within the mountains, though he never fully embraced the simple life they led. He was fascinated by the tales of adventurers passing through, stories of grand cities and exotic treasures that ignited a strong wanderlust within him. His innate talent for finding safe routes, even in treacherous terrain, and his uncanny ability to predict weather patterns, he came to understand as blessings from his deity, a god of the sun and travel. Zinjaro interpreted these gifts as both a responsibility to guide and a divine endorsement to experience the world's pleasures.
 
-This interpretation led Zinjaro to a unique understanding of his faith. He believes that a god of the sun would want his followers to embrace life's richness, not live in deprivation. He sees "vices" – rich foods, fine wines, vibrant festivals – as gifts to be celebrated, justifying his desires with the belief that "the sun shines on all, the righteous and the sinner alike. Therefore, enjoying the sun's bounty is a form of worship in itself\!" A local prophecy, speaking of a "guide touched by the sun" who would play a key role against a rising darkness, further solidified his belief that he was destined for greater things, with a beach-side villa as the perfect base of operations.
+This interpretation led Zinjaro to a unique understanding of his faith. He believes that a god of the sun would want his followers to embrace life's richness, not live in deprivation. He sees "vices" – rich foods, fine wines, vibrant festivals – as gifts to be celebrated, justifying his desires with the belief that "the sun shines on all, the righteous and the sinner alike. Therefore, enjoying the sun's bounty is a form of worship in itself!" A local prophecy, speaking of a "guide touched by the sun" who would play a key role against a rising darkness, further solidified his belief that he was destined for greater things, with a beach-side villa as the perfect base of operations.
+
+During the **Siege of Tessalia** in April 2026, Zinjaro was identified as a **"known dissident"** by the automaton occupation forces. After providing a false identity (claiming to be Maggie North), he was engaged in combat, grappled, and placed under arrest.
 
 ### Personality
+
 
 * **Optimistic:** Zinjaro tends to see the bright side of things, even in difficult situations. He believes that the sun's light will always guide him.
 * **Hedonistic (within reason):** He enjoys life's pleasures and doesn't shy away from indulging himself, but he's not necessarily reckless or destructive. He justifies his indulgences as a form of worship.
@@ -28,3 +31,4 @@ This interpretation led Zinjaro to a unique understanding of his faith. He belie
 
 ## Sources
 - [[wiki/sources/Character- Zinjaro.md|Original Bio]]
+- [[wiki/sources/2026-04-11.md|Session: 2026-04-11]]

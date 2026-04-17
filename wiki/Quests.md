@@ -6,7 +6,8 @@ This page tracks the major objectives and current missions of the party.
 Following their successful mission to the Drakenweld volcano to clear "the rot" and defeat a radioactive dragon, the party has returned to **Tessalia** to find it under siege by **automatons** from a massive **Tower Island** carrier-ship. 
 
 ### Current Tasks:
-- [ ] **Guild Briefing:** Report to the **Adventurer’s Guild** and Maggie to understand the nature of the invasion.
+- [x] **Guild Briefing:** Report to the **Adventurer’s Guild** and Maggie to understand the nature of the invasion.
+- [ ] **Rescue mission:** Find and rescue small groups around the city that have gone missing during the automaton sweep.
 - [ ] **Protect the Royalty:** Locate and protect **Queen Tessalia**, who is currently hiding underground.
 - [ ] **Counter-Attack:** Address the automaton threat and investigate the connection to the **Tower Island** and its rogue technology.
 
