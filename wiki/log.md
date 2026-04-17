@@ -11,3 +11,4 @@
 | 2026-04-16 | `raw/2026-04-11.md` | Ingested `raw/2026-04-11.md`. Created `wiki/Sessions/2026-04-11.md`. Updated `wiki/Characters/Zinjaro.md`, `wiki/Characters/Villhelm Emberstoke.md`, `wiki/Quests.md`, and `wiki/index.md`. |
 | 2026-04-17 | `wiki/Characters/*.md`, `wiki/Characters.md` | Created comprehensive wiki notes for Aolis, Maxim, Brambleberry, Ogra, Thadius, and Wobbles. Populated with session-derived backstories and events. Updated character index and tags. |
 | 2026-04-17 | `wiki/Characters/*.md`, `wiki/Characters.md` | Created character wiki notes for Juneberry, Dumo, Idecca, Gnash, Soten, Shar, Tsuki, Tirin Bronzepride, and Nova. Populated from session notes and updated Characters.md index. |
+| 2026-04-17 | (Query) | Why is the party journeying north from Helines? Answered and created [[Drakenweld Quest]]. |

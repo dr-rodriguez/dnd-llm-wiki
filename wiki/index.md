@@ -8,7 +8,9 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 - [[Characters]] - List of PCs and NPCs encountered.
 - [[Locations]] - Key locations in the world of Andore and Drakenweld.
 - [[Lore]] - World history, deities, major projects, and technology.
+- [[The Invention of Christmas]] - How the party created a new holiday tradition.
 - [[Quests]] - Current and past campaign objectives and missions.
+- [[Drakenweld Quest]] - Detailed overview of the party's journey north.
 
 ### Major Characters
 - [[Characters/Soren|Soren]] - Aarakocra Bladesinger.
