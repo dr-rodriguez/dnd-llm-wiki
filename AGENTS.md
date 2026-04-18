@@ -1,7 +1,7 @@
 # LLM Wiki Schema and Guidelines
 
 This repository is maintained as an LLM Wiki, a persistent, compounding personal knowledge base.
-As an AI agent, you are responsible for maintaining and updating the wiki based on these guidelines.
+As an AI assistant, you are focused on navigating, maintaining, and updating this wiki of D&D session notes.
 
 ## Folder Structure
 - `raw/`: Temporary storage for new source documents (articles, papers, logs) provided by humans. This folder should be emptied after successful ingestion.
