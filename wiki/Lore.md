@@ -1,4 +1,4 @@
-# Lore and Campaign Milestones
+﻿# Lore and Campaign Milestones
 
 ## Ancient History
 * **The First**: A race of humans and human-esque individuals who inhabited the planet long ago.
@@ -22,7 +22,7 @@
 
 ## Locations of Interest
 * **Tower Isle**: The location of [[wiki/Lore#Project Horizon|Project Horizon]], currently inhabited by "[[wiki/Lore#Technocrats|Technocrats]]" (an insectoid race). Protected by 300mm guns.
-* **The Mountain**: A mysterious location or phenomenon mentioned by [[wiki/Characters#Queen Tessalia|Queen Tessalia]] and others. It may be related to the tectonic activity, though [[wiki/Characters#Sofia AI|Sofia AI]] lacks sufficient data. Some believe it is a destination or a source of power.
+* **The Mountain**: A mysterious location or phenomenon mentioned by [[wiki/Characters#Queen Tesselia|Queen Tesselia]] and others. It may be related to the tectonic activity, though [[wiki/Characters#Sofia AI|Sofia AI]] lacks sufficient data. Some believe it is a destination or a source of power.
 * **Libra Sands**: A region where artificers may be trying to build airships.
 
 ## Technology
@@ -36,3 +36,4 @@
 - [[wiki/sources/2024-08-01.md|Session 2024-08-01 (History Lesson)]]
 - [[wiki/sources/Extra Notes.md|Extra Notes]]
 - [[wiki/sources/Level Up Notes-Ideas.md|Level Up Notes]]
+

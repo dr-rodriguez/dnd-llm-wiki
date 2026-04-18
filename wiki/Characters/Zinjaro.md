@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - Zinjaro
 ---
@@ -19,10 +19,10 @@ Just under 3' tall with white fur and skin flaps for gliding.
 ## Backstory
 Zinjaro served as a guide for a mountain community but was always fascinated by the grand tales of adventurers. He views his innate talent for navigation and weather prediction as divine blessings from his deity, a god of the sun and travel. 
 
-He practices a unique, hedonistic interpretation of his faith, believing that enjoying life's "vices"—fine wine, rich food, and festivals—is a form of worship, as "the sun shines on all." A local prophecy regarding a "guide touched by the sun" has further fueled his belief in a grand destiny, which he hopes involves a beach-side villa as a base of operations.
+He practices a unique, hedonistic interpretation of his faith, believing that enjoying life's "vices"â€”fine wine, rich food, and festivalsâ€”is a form of worship, as "the sun shines on all." A local prophecy regarding a "guide touched by the sun" has further fueled his belief in a grand destiny, which he hopes involves a beach-side villa as a base of operations.
 
 ### Key Events
-- **Siege of Tessalia:** In April 2026, Zinjaro was identified as a "known dissident" by automaton occupation forces. After unsuccessfully attempting to use **Maggie North** as a false identity, he was engaged in combat, grappled, and arrested.
+- **Siege of Tesselia:** In April 2026, Zinjaro was identified as a "known dissident" by automaton occupation forces. After unsuccessfully attempting to use **Maggie North** as a false identity, he was engaged in combat, grappled, and arrested.
 
 ## Personality
 - **Optimistic:** Believes the sun's light will always guide him.
@@ -34,3 +34,4 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 ## Sources
 - [[wiki/sources/Character- Zinjaro.md|Original Bio]]
 - [[wiki/sources/2026-04-11.md|Session: 2026-04-11]]
+

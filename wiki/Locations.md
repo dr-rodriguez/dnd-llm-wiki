@@ -2,21 +2,21 @@
 
 | Name | Type | Located In | Notes |
 |------|------|------------|-------|
-| Tessalia | City | Andore | |
+| Tesselia | City | Andore | |
 | Andore | Kingdom | Northern Andore | Frequent civil wars |
 | North Andore | Region | | |
 | South Andore | Region | | |
 | The Divide | Sea | | Sea that divides North and South Andore |
-| Adventurers Guild Hall | Quest Hall | Tessalia | Can get quests and rest here |
-| Magisters Magical Managerie | Shop | Tessalia | Aka "The M". Also accepts item commissions |
-| Guard Station, Lower City | Guard Station | Tessalia | Contact location for banditry quest |
-| Ridge Mountains | | Andore | Mountains north of Tessalia |
+| Adventurers Guild Hall | Quest Hall | Tesselia | Can get quests and rest here |
+| Magisters Magical Managerie | Shop | Tesselia | Aka "The M". Also accepts item commissions |
+| Guard Station, Lower City | Guard Station | Tesselia | Contact location for banditry quest |
+| Ridge Mountains | | Andore | Mountains north of Tesselia |
 | Hollow Mountain (aka Nagor) | Settlement | Andore | Dwarven settlement, formerly known as Nagor |
-| The First Frost | Tavern | Tessalia | Bandit gathering in Inner City |
-| The Raven’s Den | Gambling Den | Tessalia | Nevermore's parlor |
+| The First Frost | Tavern | Tesselia | Bandit gathering in Inner City |
+| The Raven’s Den | Gambling Den | Tesselia | Nevermore's parlor |
 | Castle in the Deep | | Hollow Mountain | Implied as home of merpeople |
-| Lordling's Bordello | Brothel | Tessalia | Next door to North Shire Inn, location of a murder |
-| North Shire Inn | Inn | Tessalia | Inn in the Upper City |
+| Lordling's Bordello | Brothel | Tesselia | Next door to North Shire Inn, location of a murder |
+| North Shire Inn | Inn | Tesselia | Inn in the Upper City |
 | Themus Geysers | | Northern Andore | Did not exist prior to The Divide |
 | Forest of Bone | | Northern Andore | Home of carnivorous elves, also cannibals |
 | Riverden | City | Northern Andore | |
@@ -27,7 +27,7 @@
 | The Bear Den | Shop | Port Altarall | Food shop run by werebear |
 | The Drowned Nexus | | The Divide | Maelstrom at center of The Divide |
 | The Voyage | Ship | The Divide | Ship taken across The Divide |
-| Little Tess | Village | Southern Andore | Small treaty port controlled by Tessalia |
+| Little Tess | Village | Southern Andore | Small treaty port controlled by Tesselia |
 | White Mane Tribe | | Southern Andore | Nomadic tribe in Southern Andore |
 | Helines | City | Testro Plains | Gateway to the Testro Plains |
 | Testro Plains | Region | | Between Topographical Error and Libra Sands |

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - Aolis
 ---
@@ -22,7 +22,7 @@ Aolis arrived at the Adventurer's Guild via boat alongside **Zinjaro**, **Brambl
 ### Key Events
 - **Soul Emptiness:** During an encounter with a demon named **Brimstone** at the Mandrake tavern, Aolis was paralyzed and had something (possibly his soul) drawn out, leaving him feeling "emptier" and struggling with memory (2025-04-10).
 - **Bonding with Maxim:** Aolis shared a romantic connection with **Maximus Arkelius**, which included sharing damage through magical bonding rings. However, their relationship was severely strained when Aolis broke his ring during a battle with a radioactive dragon to avoid sharing damage with a near-death Maxim (2026-04-03).
-- **Tessalia Branding:** During an automaton siege in Tessalia, Aolis was captured and branded with an "Identity Profile" chip on his hand by cybernetic robots (2026-04-11).
+- **Tesselia Branding:** During an automaton siege in Tesselia, Aolis was captured and branded with an "Identity Profile" chip on his hand by cybernetic robots (2026-04-11).
 
 ## Sources
 - [[wiki/sources/2026-04-11.md|Session: 2026-04-11]]
@@ -36,3 +36,4 @@ Aolis arrived at the Adventurer's Guild via boat alongside **Zinjaro**, **Brambl
 - [[wiki/sources/2025-01-30.md|Session: 2025-01-30]]
 - [[wiki/sources/2025-04-10.md|Session: 2025-04-10]]
 - [[wiki/sources/2025-06-05.md|Session: 2025-06-05]]
+
