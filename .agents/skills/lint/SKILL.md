@@ -20,4 +20,4 @@ description: Use this skill to perform periodic health checks on the wiki to mai
    - Fix broken links and integrate orphan pages.
    - Update or flag contradictory and stale information.
    - Suggest areas for future ingestion to fill data gaps.
-5. **Log Activity:** Append an entry to `wiki/log.md` recording the date of the linting operation and a summary of the issues fixed.
+5. **Log Activity:** Append a new row to the table in `wiki/log.md` recording the date of the linting operation and a summary of the issues fixed. Use the `replace` tool to append the new row to ensure the table structure and UTF-8 encoding are maintained.

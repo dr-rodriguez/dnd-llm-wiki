@@ -29,4 +29,4 @@ description: Use this skill when a new source document is added to the `raw/` fo
 6. **Archive Source:** Move the ingested files from `raw/` to `wiki/sources/`.
 7. **Clean Up:** Ensure the `raw/` directory is empty.
 8. **Update Index:** If you created new pages, add them to `wiki/index.md`.
-9. **Log Activity:** Append an entry to `wiki/log.md` detailing the file ingested, the date, and a brief summary of the changes made to the wiki.
+9. **Log Activity:** Append a new row to the table in `wiki/log.md` detailing the file ingested, the date, and a brief summary of the changes made to the wiki. Use the `replace` tool to append the new row to ensure the table structure and UTF-8 encoding are maintained.
