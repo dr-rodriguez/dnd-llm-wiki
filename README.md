@@ -2,7 +2,8 @@
 
 This repository contains a collection of Dungeons & Dragons session notes, character details, and world-building lore, organized as an Obsidian vault. This will likely continue to grow as I refine my approach and ingest new notes.
 
-See [this blog post](https://strakul.blogspot.com/2026/04/data-science-ai-llm-wiki-for-dnd.html) describing some tests with this wiki.
+See [this blog post](https://strakul.blogspot.com/2026/04/data-science-ai-llm-wiki-for-dnd.html) describing some tests with this wiki. 
+Or this [Google Sheet](https://docs.google.com/spreadsheets/d/1unSs8YxWY2jRTZMvRPP7FuDpClfSJeqn6wjAfq5foK4/edit?usp=sharing) with query comparisons across various models and setups.
 
 ## Structure
 
