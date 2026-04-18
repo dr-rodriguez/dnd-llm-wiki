@@ -17,6 +17,14 @@ description: Use this skill when a new source document is added to the `raw/` fo
    - `â€”` → `—`
    - `â€¦` → `...`
    - `â¡` → `!`
+   - `Ã¢â‚¬â„¢` → `'`
+   - `Ã¢â‚¬Å“` → `"`
+   - `Ã¢â‚¬Â` → `"`
+   - `Ã¢â‚¬â€œ` → `–`
+   - `Ã¢â‚¬â€` → `—`
+   - `Â¾` → `¾`
+   - `Â½` → `½`
+   - `Â¼` → `¼`
 3. **Identify Key Information:** Extract the main entities, concepts, claims, and takeaways from the document.
 4. **Plan Updates:** Identify which existing pages in the `wiki/` directory need to be updated with this new information. If new concepts are introduced, plan to create new pages for them.
 5. **Execute Updates:** 
