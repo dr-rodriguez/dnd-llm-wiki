@@ -22,7 +22,8 @@ All campaign sessions are logged in the [[Sessions/|Sessions directory]].
 - [[Sessions/2023-10-18|First Session (2023-10-18)]]
 - ... (many more) ...
 - [[Sessions/2026-04-09|Previous Session (2026-04-09)]]
-- [[Sessions/2026-04-11|Latest Session (2026-04-11)]]
+- [[Sessions/2026-04-11|Session (2026-04-11)]]
+- [[Sessions/2026-04-23|Latest Session (2026-04-23)]]
 
 ## Maintenance
 - [[log|Ingestion Log]]

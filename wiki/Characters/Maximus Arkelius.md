@@ -17,9 +17,10 @@ Maximus Arkelius, also known as **Maxim**, is an **Ancient Anwey** from a distan
 
 Maxim is a **Changeling**, a fact he was initially surprised to learn meant he was considered fey. As an **Aberrant Sorcerer**, he possesses knowledge of advanced and forgotten technologies, including radiation and nuclear weaponry, and can read ancient Anwey script. He often travels with a homunculus servant and a kobold companion named **Wobbles**.
 
-During his adventures, Maxim formed a close bond with **Aolis**, with whom he shared damage through a pair of bonding rings. This bond was eventually broken in April 2026 during a near-death encounter with a dragon to prevent Aolis from taking further shared damage. He has been instrumental in navigating ancient Anwey structures, using his magic to scout invisibly, summon otherworldly help, and identify hazardous radioactive materials.
+During his adventures, Maxim formed a close bond with **Aolis**, with whom he shared damage through a pair of bonding rings. This bond was eventually broken in April 2026 during a near-death encounter with a dragon to prevent Aolis from taking further shared damage. He has been instrumental in navigating ancient Anwey structures, using his magic to scout invisibly, summon otherworldly help, and identify hazardous radioactive materials. In April 2026, during a fight against automatons, Maxim was reunited with another changeling survivor from the "pods" named **[[Characters/Amber Lyre|Amber Lyre]]**.
 
 ## Sources
+- [[wiki/sources/2026-04-23.md|Session: 2026-04-23]]
 - [[wiki/sources/2026-04-11.md|Session: 2026-04-11]]
 - [[wiki/sources/2026-04-09.md|Session: 2026-04-09]]
 - [[wiki/sources/2026-04-03.md|Session: 2026-04-03]]
