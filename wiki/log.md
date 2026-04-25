@@ -1,4 +1,4 @@
-﻿# Ingestion Log
+# Ingestion Log
 
 | Date | File(s) Ingested | Summary |
 |------|------------------|---------|
