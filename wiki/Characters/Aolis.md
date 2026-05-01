@@ -23,8 +23,10 @@ Aolis arrived at the Adventurer's Guild via boat alongside **Zinjaro**, **Brambl
 - **Soul Emptiness:** During an encounter with a demon named **Brimstone** at the Mandrake tavern, Aolis was paralyzed and had something (possibly his soul) drawn out, leaving him feeling "emptier" and struggling with memory (2025-04-10).
 - **Bonding with Maxim:** Aolis shared a romantic connection with **Maximus Arkelius**, which included sharing damage through magical bonding rings. However, their relationship was severely strained when Aolis broke his ring during a battle with a radioactive dragon to avoid sharing damage with a near-death Maxim (2026-04-03).
 - **Tesselia Branding:** During an automaton siege in Tesselia, Aolis was captured and branded with an "Identity Profile" chip on his hand by cybernetic robots (2026-04-11).
+- **Yellow Madness:** Explored a strange store untouched by the automaton violence in Tesselia, run by a yellow-cloaked individual. Aolis attuned to a Teleportation Circle in the Guild. At the strange store, Aolis was beckoned by the yellow figure and handed a yellow book, causing a "Yellow Madness" charm compulsion among the party. After Zinjaro stole the book, Aolis attempted to steal it back while invisible (2026-04-30).
 
 ## Sources
+- [[wiki/sources/2026-04-30.md|Session: 2026-04-30]]
 - [[wiki/sources/2026-04-11.md|Session: 2026-04-11]]
 - [[wiki/sources/2026-04-03.md|Session: 2026-04-03]]
 - [[wiki/sources/2026-03-19.md|Session: 2026-03-19]]

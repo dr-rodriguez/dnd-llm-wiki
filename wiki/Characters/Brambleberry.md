@@ -20,8 +20,10 @@ As a centaur, Brambleberry often found herself at a disadvantage in urban enviro
 In September 2025, after hearing whispers in the wind during a watch shift, Brambleberry underwent a magical transformation. She changed from a four-legged centaur into a two-legged **Uma** (Umamusume).
 
 Throughout her adventures, Brambleberry has demonstrated both roguish and ranger-like instincts. She is proficient in **Thieves' Cant** and **Common Sign Language**. In early 2026, she received a task from a dryad known as "**Mother**." She has been involved in several major conflicts, including a battle with wizards where she identified a pockmarked adult dragon scale, and an encounter with a breath-weapon-using creature where she took photographs of a magical white flower. She has also been known to "liberate" items from dead bodies found in taverns. Following a battle with automatons in April 2026, she obtained **Soul Leather armor** (+1 leather armor granting Invisibility as an action) from a PortaFab.
+- **April 2026:** Encountered a mysterious yellow-cloaked individual. Bramble tried to communicate with him via sign language; shaking his hand caused her to suffer exhaustion, and he replied "Filling a need." When Zinjaro was charmed by the "Yellow madness" and ran with a yellow book, Bramble managed to force it out of his hands. The book strangely reappeared in her bag when she tried to give it back.
 
 ## Sources
+- [[wiki/sources/2026-04-30.md|Session: 2026-04-30]]
 - [[wiki/sources/2026-04-23.md|Session: 2026-04-23]]
 - [[wiki/sources/2025-01-23.md|Session: 2025-01-23]]
 - [[wiki/sources/2025-01-30.md|Session: 2025-01-30]]

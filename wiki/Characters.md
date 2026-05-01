@@ -117,6 +117,7 @@ tags:
 | Mary                                                                |             |            |                                  |                                                                     | Mentioned in a journal                                                 |                                            |
 | Matilda                                                             |             |            |                                  |                                                                     | Mentioned in a journal                                                 |                                            |
 | Elder Danyel                                                        |             | Anwey      | Scientist                        |                                                                     | The original scientist for the clone Danyel                            |                                            |
+| [[Characters#Brumrak Darkbreath \| Brumrak Darkbreath]]             | NPC         | Dwarf      |                                  | [[wiki/Locations#Tesselia               \| Tesselia]]               | Missing after investigating the yellow-cloaked individual              |                                            |
 
 ## Sources
 - [[wiki/sources/DnD5e Sofia Campaign 2023 Characters_Locations - Characters.csv|Character CSV]]

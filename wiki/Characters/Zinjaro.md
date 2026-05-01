@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - Zinjaro
 ---
@@ -23,6 +23,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 
 ### Key Events
 - **Siege of Tesselia:** In April 2026, Zinjaro was identified as a "known dissident" by automaton occupation forces. After unsuccessfully attempting to use **Maggie North** as a false identity, he was engaged in combat, grappled, and arrested.
+- **Yellow Madness (April 2026):** While investigating a yellow-cloaked individual in a pristine store in Tesselia, Zinjaro attempted to cast Geas on the entity but failed, receiving a burning mark on his shoulder. He fell under "Yellow madness" after a yellow book was presented, desperately wanting the book to the point of commanding Aolis to give it to him and fleeing.
 
 ## Personality
 - **Optimistic:** Believes the sun's light will always guide him.

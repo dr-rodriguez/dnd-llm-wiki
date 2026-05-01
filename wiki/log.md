@@ -15,4 +15,5 @@
 | 2026-04-17 | (Query) | Answered query regarding the two Maggies (Maggie North and Margaret). Fixed 'crossed notes' where Maggie North was incorrectly identified as Anwey. Updated Lore.md and Session tags (2025-06-12, 2025-09-25, 2025-10-02, 2025-10-09) to correctly attribute the Anwey background and session presence to Margaret (The Gates). Created Margaret Tower entry in Characters.md. |
 | 2026-04-17 | `wiki/**/*.md` | Performed global spelling update: corrected "Tessalia" to "Tesselia" and updated tags to distinguish between the location (`Tesselia`) and the person (`QueenTesselia`). Excluded `wiki/sources/`. |
 | 2026-04-23 | `raw/2026-04-23.md` | Ingested `raw/2026-04-23.md`. Created `wiki/Sessions/2026-04-23.md` and `wiki/Characters/Amber Lyre.md`. Updated `wiki/Characters/Maximus Arkelius.md`, `wiki/Characters/Villhelm Emberstoke.md`, `wiki/Characters/Brambleberry.md`, and `wiki/index.md`. |
+| 2026-04-30 | `raw/2026-04-30.md`, `raw/Copilot_20260430_174010.png` | Ingested session notes and an image. Updated Character pages for Maxim, Aolis, Brambleberry, Zinjaro, Villhelm, Amber, and Ogra. Added Brumrak Darkbreath to Characters table. |
 
