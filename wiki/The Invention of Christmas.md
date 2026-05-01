@@ -7,7 +7,7 @@ While [[wiki/Characters#Cherish Day|Cherish Day]] was already an established hol
 
 ### Roles in the First "Christmas"
 *   **Storyteller:** **Nova**, with assistance from **Shar**, explained the legends of Santa to the townspeople.
-*   **Helper Elves:** **Soten** and **Soren** were dressed as elves by **Tirin**.
+*   **Helper Elves:** **Soten** and **Soren** were dressed as elves by **Tririn**.
 *   **The Reindeer:** **Juneberry** used polymorph to transform into a reindeer.
 *   **The Sleigh:** **Soren** provided a *Floating Disk* to serve as a magical sleigh for the gift-giving procession.
 
