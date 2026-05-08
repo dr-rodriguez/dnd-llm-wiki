@@ -23,7 +23,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 
 ### Key Events
 - **Siege of Tesselia:** In April 2026, Zinjaro was identified as a "known dissident" by automaton occupation forces. After unsuccessfully attempting to use **Maggie North** as a false identity, he was engaged in combat, grappled, and arrested.
-- **Yellow Madness (April 2026):** While investigating a yellow-cloaked individual in a pristine store in Tesselia, Zinjaro attempted to cast Geas on the entity but failed, receiving a burning mark on his shoulder. He fell under "Yellow madness" after a yellow book was presented, desperately wanting the book to the point of commanding Aolis to give it to him and fleeing.
+- **Yellow Madness (April/May 2026):** While investigating a yellow-cloaked individual in a pristine store in Tesselia, Zinjaro fell under "Yellow madness" and was restrained by [[Characters/Ogra Oaksworn|Ogra]]. By May 7, 2026, he was cured of the madness. He later discovered a secret door in the shop's backroom and attempted to **Banish** two **Gibbering Mouthers** that appeared from a mysterious book, but failed as they were anchored to the plane by the book itself.
 
 ## Personality
 - **Optimistic:** Believes the sun's light will always guide him.
@@ -33,6 +33,8 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **Wanderlustful:** Deeply desires to explore and experience the world.
 
 ## Sources
+- [[wiki/sources/2026-05-07.md|Session: 2026-05-07]]
+- [[wiki/sources/2026-04-30.md|Session: 2026-04-30]]
 - [[wiki/sources/Character- Zinjaro.md|Original Bio]]
 - [[wiki/sources/2026-04-11.md|Session: 2026-04-11]]
 

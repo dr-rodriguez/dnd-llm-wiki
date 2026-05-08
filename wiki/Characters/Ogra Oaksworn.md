@@ -22,9 +22,10 @@ Key events:
 - **Combat Prowess:** He has demonstrated great strength in battle, such as walking through walls of cold fire and delivering decapitating blows to enemies while enraged.
 - **Equipment:** He was gifted the **Frost Iron Blade** by Alisha in September 2025.
 - **Diplomacy and Language:** Despite a "terrible" persuasion attempt once, he successfully used his knowledge of the Primordial dialect (Ingan) to communicate with entities in the depths of a constructed corridor.
-- **Yellow Madness (April 2026):** Restrained Zinjaro when he fell victim to the "Yellow madness" over a mysterious book, carrying him outside to recover.
+- **Yellow Madness (April/May 2026):** Restrained Zinjaro when he fell victim to the "Yellow madness" over a mysterious book. On May 7, 2026, he realized Zinjaro was cured and released him. He also attempted to break through a handleless door in the mysterious shop's backroom but was launched back by a protective force.
 
 ## Sources
+- [[wiki/sources/2026-05-07.md|Session: 2026-05-07]]
 - [[wiki/sources/2026-04-30.md|Session: 2026-04-30]]
 - [[wiki/sources/2026-04-11.md|Session: 2026-04-11]]
 - [[wiki/sources/2026-04-09.md|Session: 2026-04-09]]

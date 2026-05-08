@@ -19,6 +19,8 @@
 * **Natu'ra**: [[wiki/Characters#Natu'ra|Natu'ra]], Goddess of nature.
 * **Luna**: [[wiki/Characters#Luna|Luna]], Childer god of the Moon. Lore reveals it is actually a full god with a **dual aspect** (the child aspect and a more mature/vengeful aspect).
 * **The Net**: A wall or barrier that separates the world from the "Planar" realm.
+* **Outer Planes**: A realm whose study is considered illegal. Symbols related to the Outer Planes have been found in a mysterious shop in Tesselia, associated with knowledge and a "Yellow Man."
+* **Yellow Madness**: A phenomenon or charm effect caused by a mysterious yellow book. It causes an intense compulsion to possess the book and can lead to madness, evidenced by ramblings in yellow ink.
 
 ## Locations of Interest
 * **Tower Isle**: The location of [[wiki/Lore#Project Horizon|Project Horizon]], currently inhabited by "[[wiki/Lore#Technocrats|Technocrats]]" (an insectoid race). Protected by 300mm guns.
@@ -33,6 +35,8 @@
     * **Nova (Defense Unit 33-Alpha)**: A lower-level AI/Warforged unit designed for individual facilities.
 
 ## Sources
+- [[wiki/sources/2026-05-07.md|Session: 2026-05-07]]
+- [[wiki/sources/2026-04-30.md|Session: 2026-04-30]]
 - [[wiki/sources/2024-08-01.md|Session 2024-08-01 (History Lesson)]]
 - [[wiki/sources/Extra Notes.md|Extra Notes]]
 - [[wiki/sources/Level Up Notes-Ideas.md|Level Up Notes]]

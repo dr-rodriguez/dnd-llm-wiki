@@ -47,6 +47,7 @@
 | The Fork | Waystation | Drakenweld | Small waystation with 4 buildings and an inn |
 | Tower Isle | Island | | Location of Project Horizon |
 | Strange Island | Island | | Home to Nixie |
+| Mysterious Shop | Shop | Tesselia | Pristine shop run by the Yellow Man; contains symbols of the Outer Planes and a secret sitting room/bedroom. |
 
 ## Sources
 - [[wiki/sources/DnD5e Sofia Campaign 2023 Characters_Locations - Locations.csv|Locations CSV]]

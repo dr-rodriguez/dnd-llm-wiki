@@ -118,6 +118,7 @@ tags:
 | Matilda                                                             |             |            |                                  |                                                                     | Mentioned in a journal                                                 |                                            |
 | Elder Danyel                                                        |             | Anwey      | Scientist                        |                                                                     | The original scientist for the clone Danyel                            |                                            |
 | [[Characters#Brumrak Darkbreath \| Brumrak Darkbreath]]             | NPC         | Dwarf      |                                  | [[wiki/Locations#Tesselia               \| Tesselia]]               | Missing after investigating the yellow-cloaked individual              |                                            |
+| The Yellow Man                                                      | Unknown     | Unknown    |                                  | [[wiki/Locations#Tesselia               \| Tesselia]]               | Mysterious figure in yellow robes; associated with "Yellow Madness" and Outer Planes symbols. |                                            |
 
 ## Sources
 - [[wiki/sources/DnD5e Sofia Campaign 2023 Characters_Locations - Characters.csv|Character CSV]]
