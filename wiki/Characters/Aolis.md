@@ -23,9 +23,10 @@ Aolis arrived at the Adventurer's Guild via boat alongside **Zinjaro**, **Brambl
 - **Soul Emptiness:** During an encounter with a demon named **Brimstone** at the Mandrake tavern, Aolis was paralyzed and had something (possibly his soul) drawn out, leaving him feeling "emptier" and struggling with memory (2025-04-10).
 - **Bonding with Maxim:** Aolis shared a romantic connection with **Maximus Arkelius**, which included sharing damage through magical bonding rings. However, their relationship was severely strained when Aolis broke his ring during a battle with a radioactive dragon to avoid sharing damage with a near-death Maxim (2026-04-03).
 - **Tesselia Branding:** During an automaton siege in Tesselia, Aolis was captured and branded with an "Identity Profile" chip on his hand by cybernetic robots (2026-04-11).
-- **Yellow Madness (April/May 2026):** Explored a strange store in Tesselia run by a yellow-cloaked individual. After falling under the "Yellow Madness" charm, he was persuaded to break free by [[Characters/Maximus Arkelius|Maxim]] on May 7, 2026. He copied a rune from a handleless door which he identified as being from the **Outer Planes**. He later cast **Hold Person** on [[Characters/Villhelm Emberstoke|Villhelm]] and realized that **Gibbering Mouthers** were immune to being knocked down due to their amorphous forms.
+- **May 14, 2026:** While exploring a tower, Aolis touched a [[Lore#Sticky Slime|Sticky Slime]], getting his hand stuck and covered in a tingly clear film until freed by [[Characters#Ogra Oaksworn|Ogra]]. During a battle with [[Lore#Grell|Grell]], a **Wild Magic Surge** triggered by his *Inflict Wounds* spell made him 3 years younger. Later, he used **Dimension Door** to teleport himself and [[Characters/Maximus Arkelius|Maxim]] away from a dangerous [[Lore#Death Kiss|Death Kiss]].
 
 ## Sources
+- [[wiki/sources/2026-05-14.md|Session: 2026-05-14]]
 - [[wiki/sources/2026-05-07.md|Session: 2026-05-07]]
 - [[wiki/sources/2026-04-30.md|Session: 2026-04-30]]
 - [[wiki/sources/2026-04-11.md|Session: 2026-04-11]]

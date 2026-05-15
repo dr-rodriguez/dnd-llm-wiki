@@ -19,7 +19,9 @@
 * **Natu'ra**: [[wiki/Characters#Natu'ra|Natu'ra]], Goddess of nature.
 * **Luna**: [[wiki/Characters#Luna|Luna]], Childer god of the Moon. Lore reveals it is actually a full god with a **dual aspect** (the child aspect and a more mature/vengeful aspect).
 * **The Net**: A wall or barrier that separates the world from the "Planar" realm.
-* **Outer Planes**: A realm whose study is considered illegal. Symbols related to the Outer Planes have been found in a mysterious shop in Tesselia, associated with knowledge and a "Yellow Man."
+* **Outer Planes**: A realm whose study is considered illegal. Symbols related to the Outer Planes have been found in a mysterious shop in Tesselia, associated with knowledge and a "Yellow Man." Recent discoveries in a tower revealed **dual anchor points**—conjuration circles that exist simultaneously in the Material and one of the Outer Planes.
+* **Astral Plane**: A plane of existence described as a star ocean with floating fish. [[Characters/Maximus Arkelius|Maxim]] briefly visited this plane during a wild magic surge.
+* **True Sight**: A magical sense that allows one to see creatures and objects normally hidden or existing on overlapping planes.
 * **Yellow Madness**: A phenomenon or charm effect caused by a mysterious yellow book. It causes an intense compulsion to possess the book and can lead to madness, evidenced by ramblings in yellow ink.
 
 ## Locations of Interest
@@ -34,7 +36,18 @@
     * **Odin AI**, **Grecko/Vlad AI**: [[wiki/Characters#Odin AI|Odin AI]], [[wiki/Characters#Grecko/Vlad AI|Grecko/Vlad AI]]: other known AI systems.
     * **Nova (Defense Unit 33-Alpha)**: A lower-level AI/Warforged unit designed for individual facilities.
 
+## Bestiary
+* **Flumph**: Docile, jellyfish-like aberrations from the Outer Planes. They are typically room-temperature jelly with a mucus coating and have multiple eye stalks. They are known to protect jewels and communicate through bioluminescence or touch.
+* **Sticky Slime**: A sewer-dwelling creature that dissolves organic matter (like pencils) on contact.
+* **Goon Balloon**: Cactus-eyed, chaotic evil creatures from other planes.
+* **Grell**: Aberrations resembling floating brains with bird-like beaks and numerous tentacles.
+* **Neh-thalggu (Brain Collector)**: Crab-like aberrations that collect brains to increase their magical power. They possess a lethal "Extract Brain" ability.
+* **Eye Monger**: A one-eyed stone aberration.
+* **Cranium Rats**: Rats with exposed, glowing brains that gain telepathic abilities and increased intelligence when in a swarm.
+* **Death Kiss**: A beholder-kin with blood-draining tentacles instead of eye stalks.
+
 ## Sources
+- [[wiki/sources/2026-05-14.md|Session: 2026-05-14]]
 - [[wiki/sources/2026-05-07.md|Session: 2026-05-07]]
 - [[wiki/sources/2026-04-30.md|Session: 2026-04-30]]
 - [[wiki/sources/2024-08-01.md|Session 2024-08-01 (History Lesson)]]
