@@ -18,9 +18,9 @@ Shar is a Vulpin warlock who joined the party following the death of **Gnash**. 
 In addition to his magical abilities, Shar demonstrated a unique linguistic skill by understanding Portuguese during an encounter with a group of gunners. He also helped organize a successful spectacle with **Nova** and **Juneberry** to raise funds for the party. 
 
 ## Sources
-- [[wiki/sources/2024-04-11.md|Session: 2024-04-11]]
-- [[wiki/sources/2024-08-22.md|Session: 2024-08-22]]
-- [[wiki/sources/2024-08-29.md|Session: 2024-08-29]]
-- [[wiki/sources/2024-11-07.md|Session: 2024-11-07]]
-- [[wiki/sources/2026-04-09.md|Session: 2026-04-09]]
+- [[raw/2024/2024-04-11.md|Session: 2024-04-11]]
+- [[raw/2024/2024-08-22.md|Session: 2024-08-22]]
+- [[raw/2024/2024-08-29.md|Session: 2024-08-29]]
+- [[raw/2024/2024-11-07.md|Session: 2024-11-07]]
+- [[raw/2026/2026-04-09.md|Session: 2026-04-09]]
 ---

@@ -16,5 +16,5 @@ Amber Lyre is a changeling bard who was discovered by the party in April 2026 du
 - **April 2026:** Amber revealed she crash-landed from the orbital station. She successfully repaired a communicator and contacted the Odin AI, receiving instructions from him.
 
 ## Sources
-- [[wiki/sources/2026-04-30.md|Session: 2026-04-30]]
-- [[wiki/sources/2026-04-23.md|Session: 2026-04-23]]
+- [[raw/2026/2026-04-30.md|Session: 2026-04-30]]
+- [[raw/2026/2026-04-23.md|Session: 2026-04-23]]

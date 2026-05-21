@@ -50,4 +50,4 @@
 | Mysterious Shop | Shop | Tesselia | Pristine shop run by the Yellow Man; contains symbols of the Outer Planes and a secret sitting room/bedroom. |
 
 ## Sources
-- [[wiki/sources/DnD5e Sofia Campaign 2023 Characters_Locations - Locations.csv|Locations CSV]]
+- [[raw/DnD5e Sofia Campaign 2023 Characters_Locations - Locations.csv|Locations CSV]]

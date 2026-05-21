@@ -29,4 +29,4 @@ Eventually escaping his captors, Soren embarked on a journey through the wildern
 - **Flaws:** He is claustrophobic and slow to trust after his imprisonment.
 
 ## Sources
-- [[wiki/sources/Character- Soren.md|Original Bio]]
+- [[raw/Character- Soren.md|Original Bio]]

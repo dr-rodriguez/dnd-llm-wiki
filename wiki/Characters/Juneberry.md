@@ -18,10 +18,10 @@ Juneberry is a Harengon thief with a notorious reputation for kleptomania. Durin
 Her penchant for stealing occasionally caused friction within the group, notably when she stole donuts from **Soten**, leading to a physical altercation. She was also the victim of theft herself when her **Wand of Magic Detection** was stolen by Jerbeen and Mapach bandits. One of her more lucrative finds was a bag of gems worth 350g discovered in a stump. 
 
 ## Sources
-- [[wiki/sources/2024-08-22.md|Session: 2024-08-22]]
-- [[wiki/sources/2024-09-19.md|Session: 2024-09-19]]
-- [[wiki/sources/2024-10-03.md|Session: 2024-10-03]]
-- [[wiki/sources/2024-10-10.md|Session: 2024-10-10]]
-- [[wiki/sources/2024-10-17.md|Session: 2024-10-17]]
-- [[wiki/sources/2024-12-05.md|Session: 2024-12-05]]
-- [[wiki/sources/2025-01-16.md|Session: 2025-01-16]]
+- [[raw/2024/2024-08-22.md|Session: 2024-08-22]]
+- [[raw/2024/2024-09-19.md|Session: 2024-09-19]]
+- [[raw/2024/2024-10-03.md|Session: 2024-10-03]]
+- [[raw/2024/2024-10-10.md|Session: 2024-10-10]]
+- [[raw/2024/2024-10-17.md|Session: 2024-10-17]]
+- [[raw/2024/2024-12-05.md|Session: 2024-12-05]]
+- [[raw/2025/2025-01-16.md|Session: 2025-01-16]]

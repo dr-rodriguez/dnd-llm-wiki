@@ -34,9 +34,9 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **Wanderlustful:** Deeply desires to explore and experience the world.
 
 ## Sources
-- [[wiki/sources/2026-05-14.md|Session: 2026-05-14]]
-- [[wiki/sources/2026-05-07.md|Session: 2026-05-07]]
-- [[wiki/sources/2026-04-30.md|Session: 2026-04-30]]
-- [[wiki/sources/Character- Zinjaro.md|Original Bio]]
-- [[wiki/sources/2026-04-11.md|Session: 2026-04-11]]
+- [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
+- [[raw/2026/2026-05-07.md|Session: 2026-05-07]]
+- [[raw/2026/2026-04-30.md|Session: 2026-04-30]]
+- [[raw/Character- Zinjaro.md|Original Bio]]
+- [[raw/2026/2026-04-11.md|Session: 2026-04-11]]
 

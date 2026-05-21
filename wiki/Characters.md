@@ -121,6 +121,6 @@ tags:
 | The Yellow Man                                                      | Unknown     | Unknown    |                                  | [[wiki/Locations#Tesselia               \| Tesselia]]               | Mysterious figure in yellow robes; associated with "Yellow Madness" and Outer Planes symbols. |                                            |
 
 ## Sources
-- [[wiki/sources/DnD5e Sofia Campaign 2023 Characters_Locations - Characters.csv|Character CSV]]
-- [[wiki/sources/Character- Soren.md|Soren Bio]]
-- [[wiki/sources/Character- Zinjaro.md|Zinjaro Bio]]
+- [[raw/DnD5e Sofia Campaign 2023 Characters_Locations - Characters.csv|Character CSV]]
+- [[raw/Character- Soren.md|Soren Bio]]
+- [[raw/Character- Zinjaro.md|Zinjaro Bio]]

@@ -17,10 +17,10 @@ Villhelm joined the party in April 2026 at the **Adventurer's Guild Hall** in **
 - **May 14, 2026:** While exploring a tower, Villhelm was followed and eventually wrapped by a [[Lore#Flumph|Flumph]], which emitted a strange odor he had to resist.
 
 ## Sources
-- [[wiki/sources/2026-05-14.md|Session: 2026-05-14]]
-- [[wiki/sources/2026-05-07.md|Session: 2026-05-07]]
-- [[wiki/sources/2026-04-30.md|Session: 2026-04-30]]
-- [[wiki/sources/2026-04-23.md|Session: 2026-04-23]]
+- [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
+- [[raw/2026/2026-05-07.md|Session: 2026-05-07]]
+- [[raw/2026/2026-04-30.md|Session: 2026-04-30]]
+- [[raw/2026/2026-04-23.md|Session: 2026-04-23]]
 - User prompt: 2026-04-16
-- [[wiki/sources/2026-04-11.md|Session: 2026-04-11]]
+- [[raw/2026/2026-04-11.md|Session: 2026-04-11]]
 

@@ -1,11 +1,11 @@
 ---
 name: ingest
-description: Use this skill when a new source document is added to the `raw/` folder, and you need to integrate its knowledge into the wiki.
+description: Use this skill when a new source document is added to the `raw/` folder, and you need to integrate its knowledge into the wiki. `raw/` is the permanent, immutable source of truth for these documents.
 ---
 
 # Ingest Skill
 
-**Description:** Use this skill when a new source document is added to the `raw/` folder, and you need to integrate its knowledge into the wiki.
+**Description:** Use this skill when a new source document is added to the `raw/` folder, and you need to integrate its knowledge into the wiki. `raw/` is the permanent, immutable source of truth for these documents.
 
 ## Workflow
 1. **Read the Source:** Carefully read the new document in the `raw/` directory.
@@ -32,9 +32,7 @@ description: Use this skill when a new source document is added to the `raw/` fo
    - Create new wiki pages as necessary.
    - **Internal Linking:** Ensure every major character, location, and lore concept is linked to its wiki page (e.g., `[[Characters#Soren|Soren]]`) the first time it is mentioned in a session note or update.
    - **Tagging:** Add a `tags` field to the YAML frontmatter. Tags should be character and location names mentioned in the document. Tags MUST be single words in PascalCase with no spaces or special characters (e.g., `MaggieNorth`, `LordlingsBordello`).
-   - **Provenance:** Every update or new page MUST include a link back to the source document in `wiki/sources/`. For session notes, this can be a list at the bottom of the page; for entity pages, add to a "Sources" section.
+   - **Provenance:** Every update or new page MUST include a link back to the source document in `raw/`. For session notes, ensure you use the correct year-based subdirectory (e.g., `[[raw/2024/2024-01-01.md|Source]]`).
    - Ensure all information is cross-referenced correctly.
-6. **Archive Source:** Move the ingested files from `raw/` to `wiki/sources/`.
-7. **Clean Up:** Ensure the `raw/` directory is empty.
-8. **Update Index:** If you created new pages, add them to `wiki/index.md`.
-9. **Log Activity:** Append a new row to the table in `wiki/log.md` detailing the file ingested, the date, and a brief summary of the changes made to the wiki. Use the `replace` tool to append the new row to ensure the table structure and UTF-8 encoding are maintained.
+6. **Update Index:** If you created new pages, add them to `wiki/index.md`.
+7. **Log Activity:** Append a new row to the table in `wiki/log.md` detailing the file ingested, the date, and a brief summary of the changes made to the wiki. Use the `replace` tool to append the new row to ensure the table structure and UTF-8 encoding are maintained.
