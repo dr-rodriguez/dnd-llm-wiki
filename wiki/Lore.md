@@ -1,4 +1,4 @@
-﻿# Lore and Campaign Milestones
+# Lore and Campaign Milestones
 
 ## Ancient History
 * **The First**: A race of humans and human-esque individuals who inhabited the planet long ago.
@@ -20,9 +20,12 @@
 * **Luna**: [[wiki/Characters#Luna|Luna]], Childer god of the Moon. Lore reveals it is actually a full god with a **dual aspect** (the child aspect and a more mature/vengeful aspect).
 * **The Net**: A wall or barrier that separates the world from the "Planar" realm.
 * **Outer Planes**: A realm whose study is considered illegal. Symbols related to the Outer Planes have been found in a mysterious shop in Tesselia, associated with knowledge and a "Yellow Man." Recent discoveries in a tower revealed **dual anchor points**—conjuration circles that exist simultaneously in the Material and one of the Outer Planes.
+    * **Green Stone**: A stone discovered in May 2026 that is very hot to the touch but non-radioactive. It is believed to be a "warming stone" from the Outer Planes that has absorbed strange energy.
+    * **Outer Plane Flora**: Bizarre plants, such as fluorescent blue and purple vegetation, have been seen in environments influenced by the Outer Planes.
 * **Astral Plane**: A plane of existence described as a star ocean with floating fish. [[Characters/Maximus Arkelius|Maxim]] briefly visited this plane during a wild magic surge.
 * **True Sight**: A magical sense that allows one to see creatures and objects normally hidden or existing on overlapping planes.
-* **Yellow Madness**: A phenomenon or charm effect caused by a mysterious yellow book. It causes an intense compulsion to possess the book and can lead to madness, evidenced by ramblings in yellow ink.
+* **Yellow Madness**: A phenomenon or charm effect caused by a mysterious yellow book. It causes an intense compulsion to possess the book and can lead to madness, evidenced by ramblings in yellow ink. In May 2026, the book spoke to [[Characters/Maximus Arkelius|Maxim]], displaying phrases such as "**Ad Astra**" (To the stars) and "**Mors Imperii**" (Death of the empire).
+* **The Prophecy**: A figure in a yellow cloak delivered a prophecy in May 2026: *"In morte imperii deus noster de caelo descendet"* (In the death of the empire, our god will descend from space).
 
 ## Locations of Interest
 * **Tower Isle**: The location of [[wiki/Lore#Project Horizon|Project Horizon]], currently inhabited by "[[wiki/Lore#Technocrats|Technocrats]]" (an insectoid race). Protected by 300mm guns.
@@ -45,8 +48,10 @@
 * **Eye Monger**: A one-eyed stone aberration.
 * **Cranium Rats**: Rats with exposed, glowing brains that gain telepathic abilities and increased intelligence when in a swarm.
 * **Death Kiss**: A beholder-kin with blood-draining tentacles instead of eye stalks.
+* **Yellow Cloak (Figure)**: A mysterious entity that speaks with three discordant voices. It delivered a prophecy regarding the death of the empire and a descending god before transforming into a tentacled creature.
 
 ## Sources
+- [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
 - [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
 - [[raw/2026/2026-05-07.md|Session: 2026-05-07]]
 - [[raw/2026/2026-04-30.md|Session: 2026-04-30]]

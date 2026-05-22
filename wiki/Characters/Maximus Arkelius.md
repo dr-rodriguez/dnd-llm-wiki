@@ -19,8 +19,10 @@ Maxim is a **Changeling**, a fact he was initially surprised to learn meant he w
 
 During his adventures, Maxim formed a close bond with **Aolis**, with whom he shared damage through a pair of bonding rings. This bond was eventually broken in April 2026 during a near-death encounter with a dragon to prevent Aolis from taking further shared damage. He has been instrumental in navigating ancient Anwey structures, using his magic to scout invisibly, summon otherworldly help, and identify hazardous radioactive materials. In April 2026, during a fight against automatons, Maxim was reunited with another changeling survivor from the "pods" named **[[Characters/Amber Lyre|Amber Lyre]]**.
 - **May 14, 2026:** Identified several strange creatures including [[Lore#Flumph|Flumphs]] and [[Lore#Goon Balloon|Goon Balloons]]. During a battle in a tower, his magic triggered a **Wild Magic Surge**, granting him the potential for reincarnation. He also briefly vanished to the **[[Lore#Astral Plane|Astral Plane]]**, where he witnessed floating fish in a star ocean.
+- **May 21, 2026:** Cast **Wall of Fire** during a battle in a tower, later using **Control Flames** to extinguish the spreading fire. He heard whispers from his yellow book, which revealed the phrases "**Ad Astra**" (To the stars) and "**Mors Imperii**" (Death of the empire) before finally displaying "**UP**" to direct the party to a teleportation point. When encountering the [[Lore#Yellow Cloak (Figure)|figure in the yellow cloak]], the entity's discordant voices sounded like generic voices to him.
 
 ## Sources
+- [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
 - [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
 - [[raw/2026/2026-05-07.md|Session: 2026-05-07]]
 - [[raw/2026/2026-04-30.md|Session: 2026-04-30]]

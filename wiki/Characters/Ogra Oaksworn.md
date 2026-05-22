@@ -23,8 +23,10 @@ Key events:
 - **Equipment:** He was gifted the **Frost Iron Blade** by Alisha in September 2025.
 - **Diplomacy and Language:** Despite a "terrible" persuasion attempt once, he successfully used his knowledge of the Primordial dialect (Ingan) to communicate with entities in the depths of a constructed corridor.
 - **May 14, 2026:** Helped [[Characters#Aolis|Aolis]] free his hand from a [[Lore#Sticky Slime|Sticky Slime]]. Later, he rushed into a room humming with magic, falling over crates but initiating the party's investigation of the tower's dual anchor points.
+- **May 21, 2026:** Took significant damage from swarms of [[Lore#Cranium Rats|cranium rats]] during a tower battle. When encountering a mysterious [[Lore#Yellow Cloak (Figure)|figure in a yellow cloak]], he heard its discordant voices as the sound of a crackling fire.
 
 ## Sources
+- [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
 - [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
 - [[raw/2026/2026-05-07.md|Session: 2026-05-07]]
 - [[raw/2026/2026-04-30.md|Session: 2026-04-30]]

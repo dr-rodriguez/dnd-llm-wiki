@@ -26,7 +26,8 @@ All campaign sessions are logged in the [[Sessions/|Sessions directory]].
 - [[Sessions/2026-04-23|Session (2026-04-23)]]
 - [[Sessions/2026-04-30|Session (2026-04-30)]]
 - [[Sessions/2026-05-07|Session (2026-05-07)]]
-- [[Sessions/2026-05-14|Latest Session (2026-05-14)]]
+- [[Sessions/2026-05-14|Session (2026-05-14)]]
+- [[Sessions/2026-05-21|Latest Session (2026-05-21)]]
 
 ## Maintenance
 - [[log|Ingestion Log]]

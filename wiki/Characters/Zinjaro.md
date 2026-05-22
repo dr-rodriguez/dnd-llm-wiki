@@ -25,6 +25,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **Siege of Tesselia:** In April 2026, Zinjaro was identified as a "known dissident" by automaton occupation forces. After unsuccessfully attempting to use **Maggie North** as a false identity, he was engaged in combat, grappled, and arrested.
 - **Yellow Madness (April/May 2026):** While investigating a yellow-cloaked individual in a pristine store in Tesselia, Zinjaro fell under "Yellow madness" and was restrained by [[Characters/Ogra Oaksworn|Ogra]]. By May 7, 2026, he was cured of the madness. He later discovered a secret door in the shop's backroom and attempted to **Banish** two **Gibbering Mouthers** that appeared from a mysterious book, but failed as they were anchored to the plane by the book itself.
 - **May 14, 2026:** During a battle with a [[Lore#Neh-thalggu|Neh-thalggu]], Zinjaro cast **Fireball**, which triggered a **Wild Magic Surge**, causing him to leave a trail of moss, fungi, and flowers as he walked for the next hour. He also successfully used his **Warding Flare** to protect [[Characters#Aolis|Aolis]] from the creature's lethal **Extract Brain** ability.
+- **May 21, 2026:** Provided extensive healing (*Aura of Vitality*, *Divine Spark*, *Healing Word*) to [[Characters/Villhelm Emberstoke|Villhelm]] during a tower battle. Following the fight, he and Villhelm observed "Outer Plane food" on a table, including fluorescent blue and purple vegetation.
 
 ## Personality
 - **Optimistic:** Believes the sun's light will always guide him.

@@ -18,5 +18,6 @@
 | 2026-04-30 | `raw/2026/2026-04-30.md`, `raw/Copilot_20260430_174010.png` | Ingested session notes and an image. Updated Character pages for Maxim, Aolis, Brambleberry, Zinjaro, Villhelm, Amber, and Ogra. Added Brumrak Darkbreath to Characters table. |
 | 2026-05-07 | `raw/2026/2026-05-07.md`, `raw/GibberingMouths.png` | Ingested session notes and an image. Created `wiki/Sessions/2026-05-07.md`. Updated character pages (Ogra, Zinjaro, Villhelm, Maxim, Aolis, Brambleberry), `Lore.md`, `Characters.md`, `Locations.md`, and `index.md`. |
 | 2026-05-14 | `raw/2026/2026-05-14.md` | Ingested session notes. Created `wiki/Sessions/2026-05-14.md`. Updated character pages (Brambleberry, Aolis, Ogra, Maxim, Villhelm, Zinjaro), `Lore.md`, and `index.md`. Added Bestiary to Lore. |
+| 2026-05-21 | `raw/2026/2026-05-21.md` | Ingested session notes. Created `wiki/Sessions/2026-05-21.md`. Updated character pages (Ogra, Aolis, Zinjaro, Maxim, Villhelm, Brambleberry), `Lore.md`, and `index.md`. Added prophecy and yellow-cloaked figure details. |
 
 
