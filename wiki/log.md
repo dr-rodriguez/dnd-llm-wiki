@@ -19,5 +19,6 @@
 | 2026-05-07 | `raw/2026/2026-05-07.md`, `raw/GibberingMouths.png` | Ingested session notes and an image. Created `wiki/Sessions/2026-05-07.md`. Updated character pages (Ogra, Zinjaro, Villhelm, Maxim, Aolis, Brambleberry), `Lore.md`, `Characters.md`, `Locations.md`, and `index.md`. |
 | 2026-05-14 | `raw/2026/2026-05-14.md` | Ingested session notes. Created `wiki/Sessions/2026-05-14.md`. Updated character pages (Brambleberry, Aolis, Ogra, Maxim, Villhelm, Zinjaro), `Lore.md`, and `index.md`. Added Bestiary to Lore. |
 | 2026-05-21 | `raw/2026/2026-05-21.md` | Ingested session notes. Created `wiki/Sessions/2026-05-21.md`. Updated character pages (Ogra, Aolis, Zinjaro, Maxim, Villhelm, Brambleberry), `Lore.md`, and `index.md`. Added prophecy and yellow-cloaked figure details. |
+| 2026-05-28 | `raw/2026/2026-05-28.md` | Ingested session notes. Created `wiki/Sessions/2026-05-28.md`. Updated character pages (Maxim, Ogra, Zinjaro, Villhelm, Aolis, Brambleberry), `Lore.md`, and `index.md`. Documented boss fight against Scion in Yellow, the Transcendent plane, and Maxim's victory. |
 
 

@@ -49,8 +49,10 @@
 * **Cranium Rats**: Rats with exposed, glowing brains that gain telepathic abilities and increased intelligence when in a swarm.
 * **Death Kiss**: A beholder-kin with blood-draining tentacles instead of eye stalks.
 * **Yellow Cloak (Figure)**: A mysterious entity that speaks with three discordant voices. It delivered a prophecy regarding the death of the empire and a descending god before transforming into a tentacled creature.
+* **Blue Slaad**: Large, toad-like aberrations from the Outer Planes. They are formidable combatants and can be summoned by powerful entities like the [[Lore#Scion in Yellow|Scion in Yellow]].
 
 ## Sources
+- [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
 - [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
 - [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
 - [[raw/2026/2026-05-07.md|Session: 2026-05-07]]

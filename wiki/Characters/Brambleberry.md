@@ -22,8 +22,10 @@ In September 2025, after hearing whispers in the wind during a watch shift, Bram
 Throughout her adventures, Brambleberry has demonstrated both roguish and ranger-like instincts. She is proficient in **Thieves' Cant** and **Common Sign Language**. In early 2026, she received a task from a dryad known as "**Mother**." She has been involved in several major conflicts, including a battle with wizards where she identified a pockmarked adult dragon scale, and an encounter with a breath-weapon-using creature where she took photographs of a magical white flower. She has also been known to "liberate" items from dead bodies found in taverns. Following a battle with automatons in April 2026, she obtained **Soul Leather armor** (+1 leather armor granting Invisibility as an action) from a PortaFab.
 - **May 14, 2026:** While exploring a tower with [[Lore#True Sight|True Sight]] active, Bramble encountered several strange creatures. She fed a [[Lore#Flumph|Flumph]], which then observed her with a single eye stalk. Later, the flumph touched her, allowing her to see a hidden exit; she braved a "stank square" to open the door from the other side for the party.
 - **May 21, 2026:** Successfully killed an [[Lore#Eye Monger|Eye Monger]] with her psychic daggers during a tower battle. She also opened a locked coffin, which she found to be empty.
+- **May 28, 2026:** During the battle in the Transcendent plane, Brambleberry was hit by **Wild Magic**-induced confusion. At one point, the [[Lore#ScionInYellow|Scion in Yellow]] dragged her beyond the edge of the platform, causing her to fall indefinitely before landing back on the platform.
 
 ## Sources
+- [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
 - [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
 - [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
 - [[raw/2026/2026-05-07.md|Session: 2026-05-07]]

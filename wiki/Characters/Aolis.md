@@ -25,8 +25,10 @@ Aolis arrived at the Adventurer's Guild via boat alongside **Zinjaro**, **Brambl
 - **Tesselia Branding:** During an automaton siege in Tesselia, Aolis was captured and branded with an "Identity Profile" chip on his hand by cybernetic robots (2026-04-11).
 - **May 14, 2026:** While exploring a tower, Aolis touched a [[Lore#Sticky Slime|Sticky Slime]], getting his hand stuck and covered in a tingly clear film until freed by [[Characters#Ogra Oaksworn|Ogra]]. During a battle with [[Lore#Grell|Grell]], a **Wild Magic Surge** triggered by his *Inflict Wounds* spell made him 3 years younger. Later, he used **Dimension Door** to teleport himself and [[Characters/Maximus Arkelius|Maxim]] away from a dangerous [[Lore#Death Kiss|Death Kiss]].
 - **May 21, 2026:** Assisted in the battle against a [[Lore#Death Kiss|Death Kiss]] from outside a tower room. He used **Comprehend Languages** to help [[Characters/Maximus Arkelius|Maxim]] interpret the changing text in his yellow book. When encountering the [[Lore#Yellow Cloak (Figure)|figure in the yellow cloak]], the entity's discordant voices sounded to him like his mother and sisters screaming.
+- **May 28, 2026:** Engaged the [[Lore#ScionInYellow|Scion in Yellow]] and summoned Slaads with a *Circle of Death*. This triggered a **Wild Magic Surge** that granted him resistance to all damage for a minute. During the battle, he was hit by a confused [[Characters#Villhelm Emberstoke|Villhelm]].
 
 ## Sources
+- [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
 - [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
 - [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
 - [[raw/2026/2026-05-07.md|Session: 2026-05-07]]
