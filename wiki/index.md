@@ -11,6 +11,7 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 - [[The Invention of Christmas]] - How the party created a new holiday tradition.
 - [[Quests]] - Current and past campaign objectives and missions.
 - [[Drakenweld Quest]] - Detailed overview of the party's journey north.
+- [[Tesselia Mission]] - Details on Lady Poomf's orders and the automaton siege.
 
 ### Major Characters
 - [[Characters/Soren|Soren]] - Aarakocra Bladesinger.
@@ -28,7 +29,8 @@ All campaign sessions are logged in the [[Sessions/|Sessions directory]].
 - [[Sessions/2026-05-07|Session (2026-05-07)]]
 - [[Sessions/2026-05-14|Session (2026-05-14)]]
 - [[Sessions/2026-05-21|Session (2026-05-21)]]
-- [[Sessions/2026-05-28|Latest Session (2026-05-28)]]
+- [[Sessions/2026-05-28|Session (2026-05-28)]]
+- [[Sessions/2026-06-04|Latest Session (2026-06-04)]]
 
 ## Maintenance
 - [[log|Ingestion Log]]

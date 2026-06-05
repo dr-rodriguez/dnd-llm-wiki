@@ -1,9 +1,9 @@
-﻿# Quests
+# Quests
 
 This page tracks the major objectives and current missions of the party.
 
 ## Current Objective: The Siege of Tesselia (April 2026)
-Following their successful mission to the Drakenweld volcano to clear "the rot" and defeat a radioactive dragon, the party has returned to **Tesselia** to find it under siege by **automatons** from a massive **Tower Island** carrier-ship. 
+Following their detour crashing on an island with a volcano and defeating a radioactive dragon, the party has arrived at **Tesselia** to fulfill their **[[Tesselia Mission]]** only to find the city under siege by **automatons** from a massive **Tower Island** carrier-ship.
 
 ### Current Tasks:
 - [x] **Guild Briefing:** Report to the **Adventurer's Guild** and Maggie to understand the nature of the invasion.
@@ -19,8 +19,8 @@ Following their successful mission to the Drakenweld volcano to clear "the rot" 
 - **Key Contacts:** Met **Danyel** (a clone of an ancient scientist) and **Tick/Screeck** (insectoid technical specialists).
 
 ### The Guild Mission to Tesselia (January 2025)
-- **Objective:** Initial mission to check the status of the **Tesselia Guild** and protect the young monarch, **Queen Tesselia**.
-- **Key Outcome:** Successfully established themselves as reliable adventurers in the city.
+- **Objective:** See **[[Tesselia Mission]]**. Initial mission assigned by Lady Poomf to check the status of the **Tesselia Guild** and protect the young monarch, **Queen Tesselia**.
+- **Key Outcome:** The party finally arrived in April 2026 to find the city under siege by automatons.
 
 ## Recurring & Secondary Goals
 - **Sofia AI:** Investigate the ancient **Sofia AI** and its relationship with the royal line of Tesselia.

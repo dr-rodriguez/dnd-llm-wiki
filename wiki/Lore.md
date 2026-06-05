@@ -34,9 +34,9 @@
 
 ## Technology
 * **AI Systems**: 
-    * **Sofia AI**: [[wiki/Characters#Sofia AI|Sofia AI]], top-level AI controlling a continent (Andore).
+    * **Sofia AI**: [[wiki/Characters#Sofia AI|Sofia AI]], top-level AI controlling a continent (Andore). She is Odin's counterpart, having headed the facilities project to protect humanity to escape to space. Currently shackled and being cyberattacked by Odin.
     * **Athena AI**: [[wiki/Characters#Athena AI|Athena AI]], mid-level AI, experienced rampancy.
-    * **Odin AI**, **Grecko/Vlad AI**: [[wiki/Characters#Odin AI|Odin AI]], [[wiki/Characters#Grecko/Vlad AI|Grecko/Vlad AI]]: other known AI systems.
+    * **Odin AI**, **Grecko/Vlad AI**: [[wiki/Characters#Odin AI|Odin AI]], [[wiki/Characters#Grecko/Vlad AI|Grecko/Vlad AI]]: other known AI systems. Odin headed [[wiki/Lore#Project Horizon|Project Horizon]] and is currently trying to harvest Sofia's AI Core.
     * **Nova (Defense Unit 33-Alpha)**: A lower-level AI/Warforged unit designed for individual facilities.
 
 ## Bestiary
@@ -52,6 +52,7 @@
 * **Blue Slaad**: Large, toad-like aberrations from the Outer Planes. They are formidable combatants and can be summoned by powerful entities like the [[Lore#Scion in Yellow|Scion in Yellow]].
 
 ## Sources
+- [[raw/2026/2026-06-04.md|Session: 2026-06-04]]
 - [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
 - [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
 - [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
