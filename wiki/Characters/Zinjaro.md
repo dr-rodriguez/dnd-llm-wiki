@@ -27,6 +27,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **May 14, 2026:** During a battle with a [[Lore#Neh-thalggu|Neh-thalggu]], Zinjaro cast **Fireball**, which triggered a **Wild Magic Surge**, causing him to leave a trail of moss, fungi, and flowers as he walked for the next hour. He also successfully used his **Warding Flare** to protect [[Characters#Aolis|Aolis]] from the creature's lethal **Extract Brain** ability.
 - **May 21, 2026:** Provided extensive healing (*Aura of Vitality*, *Divine Spark*, *Healing Word*) to [[Characters/Villhelm Emberstoke|Villhelm]] during a tower battle. Following the fight, he and Villhelm observed "Outer Plane food" on a table, including fluorescent blue and purple vegetation.
 - **May 28, 2026:** Protected the party from the [[Lore#ScionInYellow|Scion in Yellow]]'s charms and fears with an **Aura of Purity**. He later saved the party from the brink of defeat with a **Mass Cure Wounds**, reviving a fallen Villhelm.
+- **June 11, 2026:** Received a **Potion of Climbing** from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission, and wondered if it was an insult or if [[wiki/Characters#Sofia AI|Sofia AI]] knows something.
 
 ## Personality
 - **Optimistic:** Believes the sun's light will always guide him.
@@ -36,6 +37,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **Wanderlustful:** Deeply desires to explore and experience the world.
 
 ## Sources
+- [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
 - [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
 - [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
 - [[raw/2026/2026-05-07.md|Session: 2026-05-07]]

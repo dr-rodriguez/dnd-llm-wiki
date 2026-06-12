@@ -23,8 +23,10 @@ Throughout her adventures, Brambleberry has demonstrated both roguish and ranger
 - **May 14, 2026:** While exploring a tower with [[Lore#True Sight|True Sight]] active, Bramble encountered several strange creatures. She fed a [[Lore#Flumph|Flumph]], which then observed her with a single eye stalk. Later, the flumph touched her, allowing her to see a hidden exit; she braved a "stank square" to open the door from the other side for the party.
 - **May 21, 2026:** Successfully killed an [[Lore#Eye Monger|Eye Monger]] with her psychic daggers during a tower battle. She also opened a locked coffin, which she found to be empty.
 - **May 28, 2026:** During the battle in the Transcendent plane, Brambleberry was hit by **Wild Magic**-induced confusion. At one point, the [[Lore#ScionInYellow|Scion in Yellow]] dragged her beyond the edge of the platform, causing her to fall indefinitely before landing back on the platform.
+- **June 11, 2026:** During the long rest, [[Characters/Aolis|Aolis]] napped in her room (a cuddle pile). Received a **Potion of Flying** from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission.
 
 ## Sources
+- [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
 - [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
 - [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
 - [[raw/2026/2026-05-14.md|Session: 2026-05-14]]

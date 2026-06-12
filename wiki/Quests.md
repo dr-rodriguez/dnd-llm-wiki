@@ -8,8 +8,9 @@ Following their detour crashing on an island with a volcano and defeating a radi
 ### Current Tasks:
 - [x] **Guild Briefing:** Report to the **Adventurer's Guild** and Maggie to understand the nature of the invasion.
 - [ ] **Rescue mission:** Find and rescue small groups around the city that have gone missing during the automaton sweep.
-- [ ] **Protect the Royalty:** Locate and protect **Queen Tesselia**, who is currently hiding underground.
+- [x] **Protect the Royalty:** Locate and protect **Queen Tesselia**, who is hiding underground with [[wiki/Characters#Sofia AI|Sofia AI]].
 - [ ] **Counter-Attack:** Address the automaton threat and investigate the connection to the **Tower Island** and its rogue technology.
+- [ ] **Clear Anti-Air Guns:** As requested by [[wiki/Characters#Sofia AI|Sofia AI]] (June 2026), clear out Anti-Air gun sites to the northwest, near the party's original landing spot, so a construction crew can move in. Bonus: check on Tick and the Technocrats.
 
 ## Past Major Objectives
 

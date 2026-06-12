@@ -1,1 +1,5 @@
 .obsidian
+
+# Claude config (see .agents and AGENTS.md instead)
+.claude/
+CLAUDE.md

@@ -22,5 +22,6 @@
 | 2026-05-28 | `raw/2026/2026-05-28.md` | Ingested session notes. Created `wiki/Sessions/2026-05-28.md`. Updated character pages (Maxim, Ogra, Zinjaro, Villhelm, Aolis, Brambleberry), `Lore.md`, and `index.md`. Documented boss fight against Scion in Yellow, the Transcendent plane, and Maxim's victory. |
 | 2026-06-04 | (Query) | Answered query about why the party was sent to Tesselia. Created `wiki/Tesselia Mission.md` and updated `wiki/index.md`. |
 | 2026-06-04 | `raw/2026/2026-06-04.md` | Ingested session notes. Created `wiki/Sessions/2026-06-04.md`. Updated `wiki/Lore.md`, `wiki/Characters.md`, `wiki/Tesselia Mission.md`, and `wiki/index.md`. Added details about Odin AI and Sofia AI, Tesselia's age, and the nature of the saturation bombardment. |
+| 2026-06-11 | `raw/2026/2026-06-11.md`, `raw/images/SofiaAI.png` | Ingested session notes and an image. Created `wiki/Sessions/2026-06-11.md`. Updated character pages (Maxim, Amber Lyre, Aolis, Brambleberry, Ogra, Zinjaro, Villhelm), `wiki/Quests.md`, and `wiki/index.md`. Documented the rest at Sofia AI's facility, party potions, and the new Anti-Air gun mission. |
 
 

@@ -25,8 +25,10 @@ Key events:
 - **May 14, 2026:** Helped [[Characters#Aolis|Aolis]] free his hand from a [[Lore#Sticky Slime|Sticky Slime]]. Later, he rushed into a room humming with magic, falling over crates but initiating the party's investigation of the tower's dual anchor points.
 - **May 21, 2026:** Took significant damage from swarms of [[Lore#Cranium Rats|cranium rats]] during a tower battle. When encountering a mysterious [[Lore#Yellow Cloak (Figure)|figure in a yellow cloak]], he heard its discordant voices as the sound of a crackling fire.
 - **May 28, 2026:** Resisted an attempt by the [[Lore#ScionInYellow|Scion in Yellow]] to cast *Dominate Person*. During the chaotic battle in the Transcendent plane, he successfully took out a summoned **Blue Slaad**.
+- **June 11, 2026:** While wandering the halls of [[wiki/Characters#Sofia AI|Sofia AI]]'s facility, received a set of potions from [[Characters#Angela Nevermore|Nevermore]] to distribute to the party as advance payment for the next mission (clearing Anti-Air gun sites): a **Superior Healing Potion** for everyone, plus one additional potion each (Ogra gets **Potion of Resistance**).
 
 ## Sources
+- [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
 - [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
 - [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
 - [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
