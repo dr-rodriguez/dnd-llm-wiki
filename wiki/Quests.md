@@ -28,7 +28,16 @@ Following their detour crashing on an island with a volcano and defeating a radi
 - **Zinjaro's Worship:** Zinjaro seeks to worship **Sol'Ar** through life's pleasures and the fulfillment of his divine "sun-touched" role.
 - **Maxim's Origins:** Explore Maxim's history as a changeling and his connection to the ancient **Anwey** infiltrators.
 
+## Sources
+- [[wiki/Sessions/2025-01-15|Session: 2025-01-15]] (Tesselia Mission briefing)
+- [[wiki/Sessions/2025-10-02|Session: 2025-10-02]] (Drakenweld Excursion)
+- [[wiki/Sessions/2026-04-09|Session: 2026-04-09]] (Arrival at the Siege of Tesselia)
+- [[wiki/Sessions/2026-04-11|Session: 2026-04-11]] (Guild briefing on the invasion)
+- [[wiki/Sessions/2026-06-11|Session: 2026-06-11]] (Anti-Air gun mission assigned by Sofia AI)
+- [[wiki/Sessions/2026-06-18|Session: 2026-06-18]] (Assault on the Anti-Air gun site)
+- [[Tesselia Mission]], [[Drakenweld Quest]]
+
 ***
 
-*Last Updated: April 16, 2026*
+*Last Updated: June 18, 2026*
 

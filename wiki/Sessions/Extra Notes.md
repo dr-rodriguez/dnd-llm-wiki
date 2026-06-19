@@ -31,4 +31,6 @@ Notable Items/Gear:
 * **Amulet of the Devout**, uncommon is \+1, attunement (+1 spell attack, \+1 spell DC, 1 free channel divinity/day)  
 * **The Solar Gift**, immune to Frighten, can use Daylight 1/day
 
+## Sources
+- [[raw/Extra Notes.md|Original Notes]]
 

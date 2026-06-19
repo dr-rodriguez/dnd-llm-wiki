@@ -33,4 +33,6 @@ Contingency Options:
 When an attack hits me, cast Mirror Image  
 When below some health threshold, cast Otiluke's Resilient Sphere
 
+## Sources
+- [[raw/Level Up Notes-Ideas.md|Original Notes]]
 
