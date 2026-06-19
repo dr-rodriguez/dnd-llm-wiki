@@ -23,5 +23,7 @@
 | 2026-06-04 | (Query) | Answered query about why the party was sent to Tesselia. Created `wiki/Tesselia Mission.md` and updated `wiki/index.md`. |
 | 2026-06-04 | `raw/2026/2026-06-04.md` | Ingested session notes. Created `wiki/Sessions/2026-06-04.md`. Updated `wiki/Lore.md`, `wiki/Characters.md`, `wiki/Tesselia Mission.md`, and `wiki/index.md`. Added details about Odin AI and Sofia AI, Tesselia's age, and the nature of the saturation bombardment. |
 | 2026-06-11 | `raw/2026/2026-06-11.md`, `raw/images/SofiaAI.png` | Ingested session notes and an image. Created `wiki/Sessions/2026-06-11.md`. Updated character pages (Maxim, Amber Lyre, Aolis, Brambleberry, Ogra, Zinjaro, Villhelm), `wiki/Quests.md`, and `wiki/index.md`. Documented the rest at Sofia AI's facility, party potions, and the new Anti-Air gun mission. |
+| 2026-06-18 | (Query) | Did Zinjaro ever use the Potion of Fire Breathing? Yes — used in 2026-03-19 to melt through an Ice Wall; purchased in 2025-03-13. No new page created. |
+| 2026-06-18 | `raw/2026/2026-06-18.md` | Ingested session notes. Created `wiki/Sessions/2026-06-18.md` and updated `wiki/index.md`. Documented the assault on the Anti-Air gun site at a ruined church (chimera/hippocampus fountain) and the ongoing combat against robot troops and a wall-breaking large robot. |
 
 
