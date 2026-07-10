@@ -23,8 +23,10 @@ During his adventures, Maxim formed a close bond with **Aolis**, with whom he sh
 - **May 28, 2026:** Delivered the killing blow to the [[Lore#ScionInYellow|Scion in Yellow]] using a **Psychic Lance**. During the battle, a **Wild Magic Surge** caused him to grow a third eye for an hour. He was the one who opened the Scion's trembling yellow book, which triggered the party's teleportation back and revealed a final message: "*He has seen you. You have been noted.*"
 - **June 11, 2026:** Caught up with [[Characters/Amber Lyre|Amber Lyre]] about their shared past; he remembers waking to an unrecognizable world after his time in cryo, and admits he no longer trusts the AIs. He stated he has no allegiance to Tesselia, Drakenweld, or any AI - he likes his old modern society but won't give up his mind to advance it, and just wants a comfortable life with his friends, having fully adopted the "Maxim" identity. Received a **Potion of Heroism** from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission: clearing out Anti-Air gun sites near the party's original landing spot.
 - **June 25, 2026:** During the robot fight, countered a robot that targeted [[Characters/Zinjaro|Zinjaro]] (to grant attackers advantage) by dropping darkness over the area with a **Hunger of Hadar** spell. After the fight, he melted the door to the central area, opening a new room of enemies.
+- **July 9, 2026:** Fought the central-area room from outside cover with the spellcasters, summoning **Hunger of Hadar** again to control the area as enemy reinforcements poured in from side rooms.
 
 ## Sources
+- [[raw/2026/2026-07-09.md|Session: 2026-07-09]]
 - [[raw/2026/2026-06-25.md|Session: 2026-06-25]]
 - [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
 - [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
