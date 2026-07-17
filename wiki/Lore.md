@@ -38,6 +38,8 @@
     * **Athena AI**: [[wiki/Characters#Athena AI|Athena AI]], mid-level AI, experienced rampancy.
     * **Odin AI**, **Grecko/Vlad AI**: [[wiki/Characters#Odin AI|Odin AI]], [[wiki/Characters#Grecko/Vlad AI|Grecko/Vlad AI]]: other known AI systems. Odin headed [[wiki/Lore#Project Horizon|Project Horizon]] and is currently trying to harvest Sofia's AI Core.
     * **Nova (Defense Unit 33-Alpha)**: A lower-level AI/Warforged unit designed for individual facilities.
+* **Slave Drives**: Outdated, clockwork-like robots discovered in July 2026 at the Anti-Air gun emplacement in the church site near Tesselia. Their chief robot commands them (disciplining one with a lightning shock) and was observed programming a "failsafe" at a terminal to keep itself alive, planning to leave with the others once the task is done. Notably, the chief recognized [[wiki/Characters#Maximus Arkelius|Maxim]] as being from the past and probed his allegiance to [[wiki/Characters#Odin AI|Odin AI]] (relieved when Maxim denied it), yet the Slave Drives do not know [[wiki/Characters#Sofia AI|Sofia AI]] — suggesting they may belong to another faction entirely.
+* **Nanotrasen Virus**: A virus (nicknamed "Novid") delivered via gas canister trap, encountered in July 2026. It is only mildly effective on organic matter — [[wiki/Characters/Brambleberry|Brambleberry]] contracted it and vomited a tar-like substance with glittering, starry-sky specks — but it is **lethal to inorganic matter** such as robots.
 
 ## Bestiary
 * **Flumph**: Docile, jellyfish-like aberrations from the Outer Planes. They are typically room-temperature jelly with a mucus coating and have multiple eye stalks. They are known to protect jewels and communicate through bioluminescence or touch.
@@ -52,6 +54,7 @@
 * **Blue Slaad**: Large, toad-like aberrations from the Outer Planes. They are formidable combatants and can be summoned by powerful entities like the [[Lore#Scion in Yellow|Scion in Yellow]].
 
 ## Sources
+- [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
 - [[raw/2026/2026-06-04.md|Session: 2026-06-04]]
 - [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
 - [[raw/2026/2026-05-21.md|Session: 2026-05-21]]

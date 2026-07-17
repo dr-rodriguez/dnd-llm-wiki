@@ -20,8 +20,10 @@ Villhelm joined the party in April 2026 at the **Adventurer's Guild Hall** in **
 - **June 11, 2026:** Received a **Potion of Speed** from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission.
 - **June 25, 2026:** Was among the badly wounded during the robot fight at the Anti-Air gun church site, and went down right at the end of combat as [[Characters/Ogra Oaksworn|Ogra]] killed the last robot. [[Characters/Zinjaro|Zinjaro]] revived him with a handful of bananas (**Goodberries**).
 - **July 9, 2026:** Rushed into the central-area room with the melee fighters, taking cover behind fallen pillars. He went down during the fight but was brought back up by [[Characters/Zinjaro|Zinjaro]].
+- **July 16, 2026:** Fought through the end of the central-area battle while very low on health. Afterwards, explored a side room with [[Characters/Brambleberry|Brambleberry]] (where she triggered a poison trap) and spent time investigating the room; a neighboring room held some bodies.
 
 ## Sources
+- [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
 - [[raw/2026/2026-07-09.md|Session: 2026-07-09]]
 - [[raw/2026/2026-06-25.md|Session: 2026-06-25]]
 - [[raw/2026/2026-06-11.md|Session: 2026-06-11]]

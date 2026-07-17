@@ -30,6 +30,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **June 11, 2026:** Received a **Potion of Climbing** from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission, and wondered if it was an insult or if [[wiki/Characters#Sofia AI|Sofia AI]] knows something.
 - **June 25, 2026:** During the robot fight at the Anti-Air gun church site, cast **Bless** on the party and provided heavy healing as several allies were badly wounded, including a **Mass Cure Wounds**. After [[Characters/Villhelm Emberstoke|Villhelm]] went down at the end of combat, Zinjaro revived him by feeding him a handful of bananas (**Goodberries**).
 - **July 9, 2026:** In the central-area fight at the church site, summoned a **Spiritual Weapon** to fight while he stayed behind cover, and brought [[Characters/Villhelm Emberstoke|Villhelm]] back up after he went down.
+- **July 16, 2026:** Though nearly out of spell slots, tipped the fight with a well-placed **Banishment** that removed two robots from the battlefield (they strangely never returned). Upstairs, cast **Comprehend Languages** to read a [[Lore#Slave Drives|Slave Drive]]'s terminal — fragments of a program ("function", "signify when", "use library") he couldn't fully parse without Maxim's background. Cast **Lesser Restoration** on [[Characters/Brambleberry|Brambleberry]] after she contracted the [[Lore#Nanotrasen Virus|Nanotrasen virus]], though he couldn't diagnose it.
 
 ## Personality
 - **Optimistic:** Believes the sun's light will always guide him.
@@ -39,6 +40,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **Wanderlustful:** Deeply desires to explore and experience the world.
 
 ## Sources
+- [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
 - [[raw/2026/2026-07-09.md|Session: 2026-07-09]]
 - [[raw/2026/2026-06-25.md|Session: 2026-06-25]]
 - [[raw/2026/2026-06-11.md|Session: 2026-06-11]]

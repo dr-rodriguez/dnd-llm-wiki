@@ -27,8 +27,10 @@ Aolis arrived at the Adventurer's Guild via boat alongside **Zinjaro**, **Brambl
 - **May 21, 2026:** Assisted in the battle against a [[Lore#Death Kiss|Death Kiss]] from outside a tower room. He used **Comprehend Languages** to help [[Characters/Maximus Arkelius|Maxim]] interpret the changing text in his yellow book. When encountering the [[Lore#Yellow Cloak (Figure)|figure in the yellow cloak]], the entity's discordant voices sounded to him like his mother and sisters screaming.
 - **May 28, 2026:** Engaged the [[Lore#ScionInYellow|Scion in Yellow]] and summoned Slaads with a *Circle of Death*. This triggered a **Wild Magic Surge** that granted him resistance to all damage for a minute. During the battle, he was hit by a confused [[Characters#Villhelm Emberstoke|Villhelm]].
 - **June 11, 2026:** A drow woman in [[wiki/Characters#Sofia AI|Sofia AI]]'s facility recognized Aolis but avoided eye contact - possibly tied to his mother's agents tracking him. During the rest, he was found napping in [[Characters/Brambleberry|Bramble]]'s room (a cuddle pile), then left with [[Characters/Maximus Arkelius|Maxim]] to discuss allegiances and the AIs. Received a **Potion of Growth** (enlarge effect) from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission.
+- **July 16, 2026:** Helped turn the tide of the central-area fight at the Anti-Air gun church site with several high-level **Witch Bolts**.
 
 ## Sources
+- [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
 - [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
 - [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
 - [[raw/2026/2026-05-21.md|Session: 2026-05-21]]

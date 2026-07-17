@@ -11,6 +11,7 @@ Following their detour crashing on an island with a volcano and defeating a radi
 - [x] **Protect the Royalty:** Locate and protect **Queen Tesselia**, who is hiding underground with [[wiki/Characters#Sofia AI|Sofia AI]].
 - [ ] **Counter-Attack:** Address the automaton threat and investigate the connection to the **Tower Island** and its rogue technology.
 - [ ] **Clear Anti-Air Guns:** As requested by [[wiki/Characters#Sofia AI|Sofia AI]] (June 2026), clear out Anti-Air gun sites to the northwest, near the party's original landing spot, so a construction crew can move in. Bonus: check on Tick and the Technocrats.
+  - *Progress (July 2026):* The robot defenders at the church site are defeated. Upstairs, the party found the AA gun emplacement in a room occupied by clockwork **[[Lore#Slave Drives|Slave Drives]]**, whose chief is building a "failsafe" and claims it will leave once done. The Slave Drives don't know Sofia AI, hinting at a third faction.
 
 ## Past Major Objectives
 
@@ -39,5 +40,5 @@ Following their detour crashing on an island with a volcano and defeating a radi
 
 ***
 
-*Last Updated: June 18, 2026*
+*Last Updated: July 16, 2026*
 

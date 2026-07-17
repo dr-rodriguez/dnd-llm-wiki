@@ -28,8 +28,10 @@ Key events:
 - **June 11, 2026:** While wandering the halls of [[wiki/Characters#Sofia AI|Sofia AI]]'s facility, received a set of potions from [[Characters#Angela Nevermore|Nevermore]] to distribute to the party as advance payment for the next mission (clearing Anti-Air gun sites): a **Superior Healing Potion** for everyone, plus one additional potion each (Ogra gets **Potion of Resistance**).
 - **June 25, 2026:** Took heavy damage during the robot fight at the Anti-Air gun church site, but delivered the killing blow to the last robot, ending the combat.
 - **July 9, 2026:** Charged into the central-area room with the melee fighters, taking cover behind fallen pillars. Took heavy damage during the fight, prompting the party to consider a **Mass Cure Wounds**.
+- **July 16, 2026:** Fought through the end of the central-area battle while very low on health, helping finish off the remaining robots.
 
 ## Sources
+- [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
 - [[raw/2026/2026-07-09.md|Session: 2026-07-09]]
 - [[raw/2026/2026-06-25.md|Session: 2026-06-25]]
 - [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
