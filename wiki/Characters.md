@@ -119,8 +119,11 @@ tags:
 | Elder Danyel                                                        |             | Anwey      | Scientist                        |                                                                     | The original scientist for the clone Danyel                                                   |                                            |
 | [[Characters#Brumrak Darkbreath \| Brumrak Darkbreath]]             | NPC         | Dwarf      |                                  | [[wiki/Locations#Tesselia               \| Tesselia]]               | Missing after investigating the yellow-cloaked individual                                     |                                            |
 | The Scion in Yellow                                                 | Enemy       | Unknown    |                                  | [[wiki/Locations#Tesselia               \| Tesselia]]               | Mysterious figure in yellow robes; associated with "Yellow Madness" and Outer Planes symbols. |                                            |
+| Overseer (VI)                                                       |             | VI/AI      | Chief Slave Drive                | [[wiki/Locations#Tesselia               \| Tesselia]]               | Between VI and AI; commands the [[wiki/Lore#Slave Drives \| Slave Drives]], claims independence from all factions |                          |
+| Lady Ellen                                                          | Ally        | Merfolk?   |                                  | Tesselia                                                            | Lady in a glass fish tank; pledges to protect the sea lanes, opposes the Arkelius family's water pollution |              |
 
 ## Sources
+- [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
 - [[raw/DnD5e Sofia Campaign 2023 Characters_Locations - Characters.csv|Character CSV]]
 - [[raw/Character- Soren.md|Soren Bio]]
 - [[raw/Character- Zinjaro.md|Zinjaro Bio]]
