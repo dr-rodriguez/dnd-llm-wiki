@@ -32,6 +32,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **July 9, 2026:** In the central-area fight at the church site, summoned a **Spiritual Weapon** to fight while he stayed behind cover, and brought [[Characters/Villhelm Emberstoke|Villhelm]] back up after he went down.
 - **July 16, 2026:** Though nearly out of spell slots, tipped the fight with a well-placed **Banishment** that removed two robots from the battlefield (they strangely never returned). Upstairs, cast **Comprehend Languages** to read a [[Lore#Slave Drives|Slave Drive]]'s terminal — fragments of a program ("function", "signify when", "use library") he couldn't fully parse without Maxim's background. Cast **Lesser Restoration** on [[Characters/Brambleberry|Brambleberry]] after she contracted the [[Lore#Nanotrasen Virus|Nanotrasen virus]], though he couldn't diagnose it.
 - **July 23, 2026:** His religion check on the church basement came back confusing — the obsidian plinth implies a **draconic cult**, but the statues are of **angels**; he suggested a [[Lore#Multi-Faith Shrines|minor multi-faith place of worship]], common in slums where people worship whichever god they choose. During the rest he received mango pastries from [[Characters/Amber Lyre|Amber Lyre]] and cast **Goodberry** (bananas) to supplement her supply.
+- **August 6, 2026:** Out of spell slots when the wave struck, he tried to feed the leftover banana **Goodberries** to the stricken [[Characters/Maximus Arkelius|Maxim]] and [[Characters/Amber Lyre|Amber]]. After Maxim was pulled back by the [[Lore#Cognitive Retriever|Cognitive Retriever]], Zinjaro used **Channel Divinity** to ease his pain a little. **Leveled up to 13.**
 
 ## Personality
 - **Optimistic:** Believes the sun's light will always guide him.
@@ -41,6 +42,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **Wanderlustful:** Deeply desires to explore and experience the world.
 
 ## Sources
+- [[raw/2026/2026-08-06.md|Session: 2026-08-06]]
 - [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
 - [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
 - [[raw/2026/2026-07-09.md|Session: 2026-07-09]]

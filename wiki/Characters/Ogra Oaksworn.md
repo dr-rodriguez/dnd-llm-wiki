@@ -31,7 +31,10 @@ Key events:
 - **July 16, 2026:** Fought through the end of the central-area battle while very low on health, helping finish off the remaining robots.
 - **July 23, 2026:** Gave [[Characters/Aolis|Aolis]] a boost onto the polished obsidian plinth in the church basement so he could read the Draconic scripture around it.
 
+- **August 6, 2026:** Helped [[Characters/Amber Lyre|Amber Lyre]] crawl back inside after she collapsed from the wave; moments later she touched her head and fell unconscious. **Leveled up to 13.**
+
 ## Sources
+- [[raw/2026/2026-08-06.md|Session: 2026-08-06]]
 - [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
 - [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
 - [[raw/2026/2026-07-09.md|Session: 2026-07-09]]

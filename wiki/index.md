@@ -139,7 +139,8 @@ All campaign sessions are logged in the [[Sessions/|Sessions directory]]. Comple
 - [[Sessions/2026-06-25|2026-06-25]]
 - [[Sessions/2026-07-09|2026-07-09]]
 - [[Sessions/2026-07-16|2026-07-16]]
-- [[Sessions/2026-07-23|2026-07-23]] *(Latest Session)*
+- [[Sessions/2026-07-23|2026-07-23]]
+- [[Sessions/2026-08-06|2026-08-06]] *(Latest Session)*
 
 ### Reference Notes
 - [[Sessions/Extra Notes|Extra Notes]] - Scroll costs, material components, and notable gear.
