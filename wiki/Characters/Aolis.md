@@ -31,8 +31,10 @@ Aolis arrived at the Adventurer's Guild via boat alongside **Zinjaro**, **Brambl
 - **July 23, 2026:** Boosted onto the obsidian plinth by [[Characters/Ogra Oaksworn|Ogra]], he cast **Comprehend Languages** to read the text ringing it — Draconic holy scripture naming no god. He then asked [[Characters/Maximus Arkelius|Maxim]] to catch him and jumped, only to be lowered gently by **Telekinesis**. He ran upstairs to warn Maxim of the incoming ship and **Dimension Doored** them both out as Odin's bombardment began.
 
 - **August 6, 2026:** Panicked when the wave dropped [[Characters/Maximus Arkelius|Maxim]] and [[Characters/Amber Lyre|Amber]], and ran to fetch help. The next morning he and Maxim stayed in their room and talked it through: Maxim said he is **happy here, with Aolis**, and neither of them wants power — Aolis ran from his inheritance, Maxim impersonated a middle child. He was present when [[Characters#Maxwella|Maxwella]] arrived and when she handed over the **Wand of Wonder**. **Leveled up to 13.**
+- **August 13, 2026:** Threw down bananas (**Goodberries**) from upstairs for [[Characters/Zinjaro|Zinjaro]] to distribute among the wounded [[B-Team]]. Summed up the party's approach to the alerted airship: *"Let's try not to keel over."*
 
 ## Sources
+- [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
 - [[raw/2026/2026-08-06.md|Session: 2026-08-06]]
 - [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
 - [[raw/2026/2026-07-16.md|Session: 2026-07-16]]

@@ -11,6 +11,7 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 - [[The Invention of Christmas]] - How the party created a new holiday tradition.
 - [[Quests]] - Current and past campaign objectives and missions.
 - [[Drakenweld Quest]] - Detailed overview of the party's journey north.
+- [[B-Team]] - The rival/allied band of five women met at The Gates.
 - [[Tesselia Mission]] - Details on Lady Poomf's orders and the automaton siege.
 
 ### Major Characters
@@ -140,7 +141,8 @@ All campaign sessions are logged in the [[Sessions/|Sessions directory]]. Comple
 - [[Sessions/2026-07-09|2026-07-09]]
 - [[Sessions/2026-07-16|2026-07-16]]
 - [[Sessions/2026-07-23|2026-07-23]]
-- [[Sessions/2026-08-06|2026-08-06]] *(Latest Session)*
+- [[Sessions/2026-08-06|2026-08-06]]
+- [[Sessions/2026-08-13|2026-08-13]] *(Latest Session)*
 
 ### Reference Notes
 - [[Sessions/Extra Notes|Extra Notes]] - Scroll costs, material components, and notable gear.

@@ -26,8 +26,10 @@ Throughout her adventures, Brambleberry has demonstrated both roguish and ranger
 - **June 11, 2026:** During the long rest, [[Characters/Aolis|Aolis]] napped in her room (a cuddle pile). Received a **Potion of Flying** from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission.
 - **July 16, 2026:** While exploring a side room at the Anti-Air gun church site, triggered a trap and was hit by a poison gas from a canister, contracting the **[[Lore#Nanotrasen Virus|Nanotrasen virus]]** ("Novid"). After [[wiki/Characters/Zinjaro|Zinjaro]]'s Lesser Restoration, she stopped coughing but began vomiting a tar-like substance with glittering, starry-sky specks. She agreed to a medical exam by the chief [[Lore#Slave Drives|Slave Drive]] robot, which identified the virus as barely harmful to organics but lethal to robots.
 - **July 23, 2026:** Carefully extracted a paper cartridge of powder (a likely explosive) that had been used to gum up the locked office drawer, then picked the lock — revealing an envelope of old currency and the [[Lore#The Past and Future, Running Free|embezzlement ledger]]. Later, upstairs, she watched the [[Lore#The Overseer (VI)|Overseer]] and its drones exit through the roof; they advised her to vacate the premises "unless she is explosion-proof."
+- **August 13, 2026:** Received the notification of **coordinates in the docks** that set the rescue in motion. At the docks she spotted **weird ripples** in the air — the cloaked [[Lore#Slave Drives|Slave Drives]] escorting the [[Lore#The Overseer (VI)|Overseer]] — moments before one clamped onto [[Characters/Maximus Arkelius|Maxim]]'s neck.
 
 ## Sources
+- [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
 - [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
 - [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
 - [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
