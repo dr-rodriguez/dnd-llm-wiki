@@ -34,6 +34,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **July 23, 2026:** His religion check on the church basement came back confusing — the obsidian plinth implies a **draconic cult**, but the statues are of **angels**; he suggested a [[Lore#Multi-Faith Shrines|minor multi-faith place of worship]], common in slums where people worship whichever god they choose. During the rest he received mango pastries from [[Characters/Amber Lyre|Amber Lyre]] and cast **Goodberry** (bananas) to supplement her supply.
 - **August 6, 2026:** Out of spell slots when the wave struck, he tried to feed the leftover banana **Goodberries** to the stricken [[Characters/Maximus Arkelius|Maxim]] and [[Characters/Amber Lyre|Amber]]. After Maxim was pulled back by the [[Lore#Cognitive Retriever|Cognitive Retriever]], Zinjaro used **Channel Divinity** to ease his pain a little. **Leveled up to 13.**
 - **August 13, 2026:** Spent considerable time healing the wounded [[B-Team]] after they staggered in without Maggie, distributing banana **Goodberries** thrown down by [[Characters/Aolis|Aolis]]. **Melody** entrusted him with the **[[Lore#The Mechanical Slate|mechanical slate]]** that summons B-Team on two clicks. While the others shopped for potions, he cast **Scrying** as a ritual to locate Maggie — finding her tied to a chair aboard a massive airship in the city's southeast, watched by two sleek fully-articulated androids, before one of them severed the connection with a handheld device.
+- **August 20, 2026:** Nearly caught by the first enemy **flashbang**. Cast **Conjure Celestial**, summoning the light of [[wiki/Characters#Sol'Ar|Sol'Ar]] as a moving cylinder that healed allies and harmed enemies. **Took a critical hit and still held concentration**, only for a second flashbang to stun him and end the spell.
 
 ## Personality
 - **Optimistic:** Believes the sun's light will always guide him.
@@ -42,6 +43,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **Slightly Misguided:** Likely exaggerates his role in the "sun-touched guide" prophecy.
 - **Wanderlustful:** Deeply desires to explore and experience the world.
 
+- [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
 ## Sources
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
 - [[raw/2026/2026-08-06.md|Session: 2026-08-06]]
