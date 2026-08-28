@@ -16,4 +16,4 @@ description: Use this skill to answer user questions using the knowledge stored 
 4. **Compound Knowledge:** If the answer is of high value or introduces a new conceptual grouping:
    - Create a new page in the `wiki/` directory containing this synthesized answer.
    - Update `wiki/index.md` with the new page.
-5. **Log Activity:** Append a new row to the table in `wiki/log.md` recording the query, the date, and whether a new page was generated from the answer. Use the `replace` tool to append the new row to ensure the table structure and UTF-8 encoding are maintained.
+5. **Log Activity (only if a page was created):** Do **not** log ordinary queries — a question answered from existing wiki content needs no row in `wiki/log.md`. Only if the previous step created a new wiki page, append a new row to the table in `wiki/log.md` recording the query, the date, and the page that was generated. Use the `replace` tool to append the new row to ensure the table structure and UTF-8 encoding are maintained.

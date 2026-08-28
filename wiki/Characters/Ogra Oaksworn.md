@@ -34,9 +34,11 @@ Key events:
 - **August 6, 2026:** Helped [[Characters/Amber Lyre|Amber Lyre]] crawl back inside after she collapsed from the wave; moments later she touched her head and fell unconscious. **Leveled up to 13.**
 - **August 13, 2026:** Bought all **3 greater healing potions** available before the docks raid. When the [[Lore#The Overseer (VI)|Overseer]] described the **[[Lore#The Ancient Core Fragment|ancient core fragment]]** in its heavy compartment case, Ogra was the one deemed large enough to carry it. Contributed the session's summary of party sentiment: *"Why kill Ogra? Let's not kill Ogra."*
 - **August 20, 2026:** Sustained [[Characters/Villhelm Emberstoke|Villhelm]] through heavy incoming fire with **Vitality of the Tree** as the boarding fight ground on.
+- **August 27, 2026:** On the [[Lore#The Overseer (VI)|Overseer]]'s recommendation, **forced the locked quiet door** open with brute strength. In the fight beyond, entered **Rage**, **picked up [[Characters/Aolis|Aolis]] and threw him**, then **grabbed hold of a turret to stop it from turning**.
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
 ## Sources
+- [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
 - [[raw/2026/2026-08-06.md|Session: 2026-08-06]]
 - [[raw/2026/2026-07-23.md|Session: 2026-07-23]]

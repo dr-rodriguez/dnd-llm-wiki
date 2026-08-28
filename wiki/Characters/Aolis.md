@@ -33,9 +33,11 @@ Aolis arrived at the Adventurer's Guild via boat alongside **Zinjaro**, **Brambl
 - **August 6, 2026:** Panicked when the wave dropped [[Characters/Maximus Arkelius|Maxim]] and [[Characters/Amber Lyre|Amber]], and ran to fetch help. The next morning he and Maxim stayed in their room and talked it through: Maxim said he is **happy here, with Aolis**, and neither of them wants power — Aolis ran from his inheritance, Maxim impersonated a middle child. He was present when [[Characters#Maxwella|Maxwella]] arrived and when she handed over the **Wand of Wonder**. **Leveled up to 13.**
 - **August 13, 2026:** Threw down bananas (**Goodberries**) from upstairs for [[Characters/Zinjaro|Zinjaro]] to distribute among the wounded [[B-Team]]. Summed up the party's approach to the alerted airship: *"Let's try not to keel over."*
 - **August 20, 2026:** **Stunned and blinded for a turn** by an enemy flashbang alongside [[Characters/Maximus Arkelius|Maxim]], then hit hard; retreated to hide under the ramp with Maxim.
+- **August 27, 2026:** Kept pace with the fleeing [[Lore#The Overseer (VI)|Overseer]] via **Misty Step**. Stepped on a hallway trap door and was shot by a deploying gun (a small, non-lethal wound). In the turret room fight his **lightning-tuned Sorcerous Burst** proved unusually **ineffective against the older robot models**. Was **picked up and thrown by a raging [[Characters/Ogra Oaksworn|Ogra]]**. Cast **Tidal Wave** to knock over the tank robot, and summoned his **Hound of Ill Omen** — now marked with **dark spots** from when he was shot.
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
 ## Sources
+- [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
 - [[raw/2026/2026-08-06.md|Session: 2026-08-06]]
 - [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
