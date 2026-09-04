@@ -28,8 +28,10 @@ Throughout her adventures, Brambleberry has demonstrated both roguish and ranger
 - **July 23, 2026:** Carefully extracted a paper cartridge of powder (a likely explosive) that had been used to gum up the locked office drawer, then picked the lock — revealing an envelope of old currency and the [[Lore#The Past and Future, Running Free|embezzlement ledger]]. Later, upstairs, she watched the [[Lore#The Overseer (VI)|Overseer]] and its drones exit through the roof; they advised her to vacate the premises "unless she is explosion-proof."
 - **August 13, 2026:** Received the notification of **coordinates in the docks** that set the rescue in motion. At the docks she spotted **weird ripples** in the air — the cloaked [[Lore#Slave Drives|Slave Drives]] escorting the [[Lore#The Overseer (VI)|Overseer]] — moments before one clamped onto [[Characters/Maximus Arkelius|Maxim]]'s neck.
 - **August 27, 2026:** In the airship's trapped hallway, investigated the wall protrusion that had fired flames and, using her **psionic knack**, succeeded in **disarming it**. Could not work out how to open the level's locked doors.
+- **September 3, 2026:** **Unlocked the palm-scanner terminal outside the interrogation room on a natural 20**, before [[Characters/Zinjaro|Zinjaro]]'s Resilient Friendship could even land. Used **psionic teleportation** to close on one of the [[Lore#Interrogator Units|interrogators]] and was simply **shoved back**. Was out ahead with [[Characters/Aolis|Aolis]] when combat started and **Dashed back** to shelter.
 
 ## Sources
+- [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
 - [[raw/2026/2026-07-23.md|Session: 2026-07-23]]

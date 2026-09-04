@@ -36,6 +36,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **August 13, 2026:** Spent considerable time healing the wounded [[B-Team]] after they staggered in without Maggie, distributing banana **Goodberries** thrown down by [[Characters/Aolis|Aolis]]. **Melody** entrusted him with the **[[Lore#The Mechanical Slate|mechanical slate]]** that summons B-Team on two clicks. While the others shopped for potions, he cast **Scrying** as a ritual to locate Maggie — finding her tied to a chair aboard a massive airship in the city's southeast, watched by two sleek fully-articulated androids, before one of them severed the connection with a handheld device.
 - **August 20, 2026:** Nearly caught by the first enemy **flashbang**. Cast **Conjure Celestial**, summoning the light of [[wiki/Characters#Sol'Ar|Sol'Ar]] as a moving cylinder that healed allies and harmed enemies. **Took a critical hit and still held concentration**, only for a second flashbang to stun him and end the spell.
 - **August 27, 2026:** Bought the party's escape by pinning the **[[Lore#Super Heavy Chassis|Super Heavy Chassis]]** for a turn with a **Light Snare**. Was **short enough to duck under** the hallway's side-mounted flame jets. Tried and failed to open one of the upper-level locked doors. Cast **Mass Healing Word** in the turret room fight — it healed the party, but **had no effect on the Overseer**, establishing that magical healing does not work on the machine.
+- **September 3, 2026:** Recognized the upper-deck **lounge from his own Scrying**, confirming Maggie was close. Cast **Resilient Friendship** to help [[Characters/Brambleberry|Brambleberry]] with the palm scanner — she rolled a natural 20 before he finished. Cast **Healing Word** on the tortured Maggie under the bargain Maxim struck. During the escape he spent **Divine Intervention** to place a **Death Ward** on [[Characters/Aolis|Aolis]], so a drop to 0 HP would return him at 1.
 
 ## Personality
 - **Optimistic:** Believes the sun's light will always guide him.
@@ -46,6 +47,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
 ## Sources
+- [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
 - [[raw/2026/2026-08-06.md|Session: 2026-08-06]]

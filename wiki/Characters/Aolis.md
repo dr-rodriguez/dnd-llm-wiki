@@ -34,9 +34,11 @@ Aolis arrived at the Adventurer's Guild via boat alongside **Zinjaro**, **Brambl
 - **August 13, 2026:** Threw down bananas (**Goodberries**) from upstairs for [[Characters/Zinjaro|Zinjaro]] to distribute among the wounded [[B-Team]]. Summed up the party's approach to the alerted airship: *"Let's try not to keel over."*
 - **August 20, 2026:** **Stunned and blinded for a turn** by an enemy flashbang alongside [[Characters/Maximus Arkelius|Maxim]], then hit hard; retreated to hide under the ramp with Maxim.
 - **August 27, 2026:** Kept pace with the fleeing [[Lore#The Overseer (VI)|Overseer]] via **Misty Step**. Stepped on a hallway trap door and was shot by a deploying gun (a small, non-lethal wound). In the turret room fight his **lightning-tuned Sorcerous Burst** proved unusually **ineffective against the older robot models**. Was **picked up and thrown by a raging [[Characters/Ogra Oaksworn|Ogra]]**. Cast **Tidal Wave** to knock over the tank robot, and summoned his **Hound of Ill Omen** — now marked with **dark spots** from when he was shot.
+- **September 3, 2026:** Used his **Sentinel's Flask** to help patch up [[B-Team|Maggie]] after the [[Lore#Interrogator Units|interrogators]] released her. Was out ahead with [[Characters/Brambleberry|Brambleberry]] when an active chassis triggered combat and had to **Dash back** to shelter. [[Characters/Zinjaro|Zinjaro]] then spent **Divine Intervention** on a **Death Ward** for him.
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
 ## Sources
+- [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
 - [[raw/2026/2026-08-06.md|Session: 2026-08-06]]

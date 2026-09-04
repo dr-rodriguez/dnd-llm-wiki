@@ -24,9 +24,11 @@ Villhelm joined the party in April 2026 at the **Adventurer's Guild Hall** in **
 - **July 23, 2026:** Completed his investigation of the church office, turning up donation records, notices of strange people in the congregation, and the head priest's note about a large sum of funding that vanished into a project he never approved — plus the locked, pried-at drawer that held the [[Lore#The Past and Future, Running Free|embezzlement ledger]].
 - **August 20, 2026:** Took several hits during the airship boarding fight, kept up by [[Characters/Ogra Oaksworn|Ogra]]'s **Vitality of the Tree**.
 - **August 27, 2026:** **Walked straight into the robot room and triggered the fight** that [[Characters/Maximus Arkelius|Maxim]] had been sneaking past. A modern robot then **clamped manacles on him**: he can still move and attack, but **auto-fails anything requiring hands**.
+- **September 3, 2026:** Still **manacled** from the previous fight and unable to break free — the cuffs are **smooth like portafab with no visible keyholes**. The **[[Lore#The Overseer (VI)|Overseer]]** finally got them off. When the ship took off and the party was cut off, he **ran upstairs for the elevator**, gambling that it leads to the cockpit and the sentinel core.
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
 ## Sources
+- [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
 - [[raw/2026/2026-07-16.md|Session: 2026-07-16]]

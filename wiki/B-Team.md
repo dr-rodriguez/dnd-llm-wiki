@@ -52,8 +52,14 @@ This Maggie is **not** [[wiki/Characters#Maggie North|Maggie North]], the tiefli
 - **Melody** hands Zinjaro a **[[wiki/Lore#The Mechanical Slate|mechanical slate]]** — click twice and B-Team will arrive. A last resort, with an unknown number of uses.
 - Zinjaro's Scrying locates Maggie **tied to a chair** aboard a massive airship in the southeast of the city, guarded by **two sleek androids with fully articulating faces**. One of them severs the scry with a handheld device.
 
+### Maggie's Rescue (September 2026)
+- **[[wiki/Sessions/2026-09-03|2026-09-03]]:** The party finds Maggie on an upper deck of the freight airship, **screaming and heavily tortured**, blood everywhere, held by two **[[wiki/Lore#Interrogator Units|interrogator units]]** — **Riley** and **Madasin** — who are trying to extract the location of the **[[Tesselia Mission|Tesselia]] bunker** from her. Madasin puts a gun to her head the moment the party enters.
+- **[[Characters/Maximus Arkelius|Maxim]] offers himself in her place**, "for [[wiki/Characters#Odin AI|Odin]]", and the interrogators take the trade: he wears a **memory-scanning circlet** in exchange for Maggie being released and healed. [[Characters/Zinjaro|Zinjaro]] casts **Healing Word** on her and [[Characters/Aolis|Aolis]] uses his **Sentinel's Flask**; [[Characters/Ogra Oaksworn|Ogra]] carries her out.
+- When the ship **lifts off**, Maxim **Dimension Doors away with Maggie** and turns them both **Invisible**, watching the airship leave with the rest of the party still aboard. **Maggie is out** — the party is not.
+
 ## Open Threads
-- **Maggie is a prisoner** aboard the freight airship at the Tesselia docks. Rescue in progress.
+- **Maggie is free** as of 2026-09-03 — badly hurt, partly healed, on the ground outside Tesselia with an invisible Maxim, while the airship flies off with the rest of the party.
+- **How much the interrogators got out of her** about the Tesselia bunker before the party arrived.
 - The **[[wiki/Lore#The Mechanical Slate|mechanical slate]]** is unspent — one summon, unknown charges.
 - What B-Team wanted from **Danyel**, and whether they are still with her.
 - **Maggie's Anwey background** — she was grown for organ replacement, unlike Maxim's infiltrator line. Whether she is one of the surviving five is unaddressed.
@@ -70,4 +76,5 @@ This Maggie is **not** [[wiki/Characters#Maggie North|Maggie North]], the tiefli
 - [[raw/2025/2025-10-09.md|Session: 2025-10-09]] (rescue, diamond dust, departure)
 - [[raw/2026/2026-06-04.md|Session: 2026-06-04]] (seen in the Tesselia facility)
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]] (Maggie captured; the mechanical slate)
+- [[raw/2026/2026-09-03.md|Session: 2026-09-03]] (Maggie found under torture and freed by Maxim's bargain)
 - [[raw/DnD5e Sofia Campaign 2023 Characters_Locations - Characters.csv|Campaign Character Roster]] (band of five at The Gates)
