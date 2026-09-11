@@ -56,9 +56,12 @@ This Maggie is **not** [[wiki/Characters#Maggie North|Maggie North]], the tiefli
 - **[[wiki/Sessions/2026-09-03|2026-09-03]]:** The party finds Maggie on an upper deck of the freight airship, **screaming and heavily tortured**, blood everywhere, held by two **[[wiki/Lore#Interrogator Units|interrogator units]]** — **Riley** and **Madasin** — who are trying to extract the location of the **[[Tesselia Mission|Tesselia]] bunker** from her. Madasin puts a gun to her head the moment the party enters.
 - **[[Characters/Maximus Arkelius|Maxim]] offers himself in her place**, "for [[wiki/Characters#Odin AI|Odin]]", and the interrogators take the trade: he wears a **memory-scanning circlet** in exchange for Maggie being released and healed. [[Characters/Zinjaro|Zinjaro]] casts **Healing Word** on her and [[Characters/Aolis|Aolis]] uses his **Sentinel's Flask**; [[Characters/Ogra Oaksworn|Ogra]] carries her out.
 - When the ship **lifts off**, Maxim **Dimension Doors away with Maggie** and turns them both **Invisible**, watching the airship leave with the rest of the party still aboard. **Maggie is out** — the party is not.
+- **[[wiki/Sessions/2026-09-10|2026-09-10]]:** B-Team is seen **rushing toward the departing ship**, panicking that it is taking off. Maxim **drops invisibility and hands Maggie over to them**; in exchange they **give him a bomb to take to the ship**. The **[[wiki/Lore#The Mechanical Slate|mechanical slate]]** — which beeped and told [[Characters/Zinjaro|Zinjaro]] to place it on the ground — then **teleports Maxim back up to the party** and delivers **seeking needles that heal the whole party to full**. **Maggie is now in B-Team's hands**, and the slate is confirmed to be a **two-way link**, not just a summon.
 
 ## Open Threads
-- **Maggie is free** as of 2026-09-03 — badly hurt, partly healed, on the ground outside Tesselia with an invisible Maxim, while the airship flies off with the rest of the party.
+- **Maggie is with B-Team** as of 2026-09-10, on the ground outside Tesselia; the party is airborne and still fighting.
+- **The bomb B-Team handed Maxim** — what it is for, and whether they intend the airship itself to come down with the party aboard.
+- **Remaining slate charges** after the 2026-09-10 use.
 - **How much the interrogators got out of her** about the Tesselia bunker before the party arrived.
 - The **[[wiki/Lore#The Mechanical Slate|mechanical slate]]** is unspent — one summon, unknown charges.
 - What B-Team wanted from **Danyel**, and whether they are still with her.
@@ -77,4 +80,5 @@ This Maggie is **not** [[wiki/Characters#Maggie North|Maggie North]], the tiefli
 - [[raw/2026/2026-06-04.md|Session: 2026-06-04]] (seen in the Tesselia facility)
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]] (Maggie captured; the mechanical slate)
 - [[raw/2026/2026-09-03.md|Session: 2026-09-03]] (Maggie found under torture and freed by Maxim's bargain)
+- [[raw/2026/2026-09-10.md|Session: 2026-09-10]] (Maggie handed to B-Team; the bomb and the slate summon)
 - [[raw/DnD5e Sofia Campaign 2023 Characters_Locations - Characters.csv|Campaign Character Roster]] (band of five at The Gates)

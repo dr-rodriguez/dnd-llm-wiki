@@ -25,9 +25,11 @@ Villhelm joined the party in April 2026 at the **Adventurer's Guild Hall** in **
 - **August 20, 2026:** Took several hits during the airship boarding fight, kept up by [[Characters/Ogra Oaksworn|Ogra]]'s **Vitality of the Tree**.
 - **August 27, 2026:** **Walked straight into the robot room and triggered the fight** that [[Characters/Maximus Arkelius|Maxim]] had been sneaking past. A modern robot then **clamped manacles on him**: he can still move and attack, but **auto-fails anything requiring hands**.
 - **September 3, 2026:** Still **manacled** from the previous fight and unable to break free — the cuffs are **smooth like portafab with no visible keyholes**. The **[[Lore#The Overseer (VI)|Overseer]]** finally got them off. When the ship took off and the party was cut off, he **ran upstairs for the elevator**, gambling that it leads to the cockpit and the sentinel core.
+- **September 10, 2026:** Took **severe damage from [[Lore#Interrogator Units|Madasin]]'s blade dance** inside the gas cloud, then drank a **Haste potion** and answered with a long string of attacks. When she stimmed into Haste herself she **struck him down and threw his body aside** — the second of the party to fall.
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
 ## Sources
+- [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
 - [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
