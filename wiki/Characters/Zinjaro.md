@@ -38,6 +38,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **August 27, 2026:** Bought the party's escape by pinning the **[[Lore#Super Heavy Chassis|Super Heavy Chassis]]** for a turn with a **Light Snare**. Was **short enough to duck under** the hallway's side-mounted flame jets. Tried and failed to open one of the upper-level locked doors. Cast **Mass Healing Word** in the turret room fight — it healed the party, but **had no effect on the Overseer**, establishing that magical healing does not work on the machine.
 - **September 3, 2026:** Recognized the upper-deck **lounge from his own Scrying**, confirming Maggie was close. Cast **Resilient Friendship** to help [[Characters/Brambleberry|Brambleberry]] with the palm scanner — she rolled a natural 20 before he finished. Cast **Healing Word** on the tortured Maggie under the bargain Maxim struck. During the escape he spent **Divine Intervention** to place a **Death Ward** on [[Characters/Aolis|Aolis]], so a drop to 0 HP would return him at 1.
 - **September 10, 2026:** Tried to **Banish [[Lore#Interrogator Units|Madasin]]** and **failed**; she answered by **mind-controlling [[Characters/Ogra Oaksworn|Ogra]] to attack him**. His **[[Lore#The Mechanical Slate|mechanical slate]] beeped and told him to place it on the ground** — he did, and it pulled [[Characters/Maximus Arkelius|Maxim]] back to the party and delivered full healing. Madasin then hunted him down: he drank a **superior healing potion**, took more hits, and **went down unconscious**. Maxim **Thunder Stepped him out** and revived him with a **greater healing potion**.
+- **September 24, 2026:** Brought [[Characters/Brambleberry|Brambleberry]] and [[Characters/Villhelm Emberstoke|Villhelm]] back up with **Mass Cure Wounds**, used **Hadozee Dodge** to blunt a pistol shot from [[Lore#Interrogator Units|Madasin]], and after the fight revived them again with **Healing Word**. Talked the [[Lore#The Overseer (VI)|Overseer]] into opening the cockpit door. Had [[Characters/Ogra Oaksworn|Ogra]] carry off a **fine rug** from the airship estate rooms for his **future beach house**, over Bramble's objections. At the Tesselia Guild Hall bar he outlasted everyone and was **cut off at 26 drinks** when the bartender noticed his **Sol'Ar symbol**. [[wiki/Sessions/2026-09-24|Session]]
 
 ## Personality
 - **Optimistic:** Believes the sun's light will always guide him.
@@ -49,6 +50,7 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
 ## Sources
 - [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
+- [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
 - [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]

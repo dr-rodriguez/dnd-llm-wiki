@@ -30,9 +30,11 @@ Throughout her adventures, Brambleberry has demonstrated both roguish and ranger
 - **August 27, 2026:** In the airship's trapped hallway, investigated the wall protrusion that had fired flames and, using her **psionic knack**, succeeded in **disarming it**. Could not work out how to open the level's locked doors.
 - **September 3, 2026:** **Unlocked the palm-scanner terminal outside the interrogation room on a natural 20**, before [[Characters/Zinjaro|Zinjaro]]'s Resilient Friendship could even land. Used **psionic teleportation** to close on one of the [[Lore#Interrogator Units|interrogators]] and was simply **shoved back**. Was out ahead with [[Characters/Aolis|Aolis]] when combat started and **Dashed back** to shelter.
 - **September 10, 2026:** Badly hurt by [[Lore#Interrogator Units|Madasin]]'s **blade dance** in the gas cloud, healed to full by [[B-Team]]'s **seeking needles**, then struck again once Madasin gained Haste. **Went down unconscious** late in the fight — the third of the party to fall.
+- **September 24, 2026:** Revived by Mass Cure Wounds, knocked down again by [[Lore#Interrogator Units|Madasin]]'s blade dance, and revived once more with Healing Word. Argued against [[Characters/Zinjaro|Zinjaro]] stealing a rug from the airship. Passed out after **5 drinks** at the Tesselia Guild Hall. [[wiki/Sessions/2026-09-24|Session]]
 
 ## Sources
 - [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
+- [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
 - [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]

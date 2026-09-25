@@ -37,10 +37,12 @@ Key events:
 - **August 27, 2026:** On the [[Lore#The Overseer (VI)|Overseer]]'s recommendation, **forced the locked quiet door** open with brute strength. In the fight beyond, entered **Rage**, **picked up [[Characters/Aolis|Aolis]] and threw him**, then **grabbed hold of a turret to stop it from turning**.
 - **September 3, 2026:** Worked at [[Characters/Villhelm Emberstoke|Villhelm]]'s keyless manacles for a long while without success — the **[[Lore#The Overseer (VI)|Overseer]]** eventually removed them. **Walked into a target-practice chassis's line of sight and was hit by flames.** **Charged in raging** on hearing Maggie scream; his **tree roots failed to hold** one of the [[Lore#Interrogator Units|interrogators]], who broke straight through them. **Carried Maggie out** of the room afterward.
 - **September 10, 2026:** **Raged and charged straight into [[Lore#Interrogator Units|Madasin]]'s riot control gas** while the rest of the party was blinded by it. She **attached a mind-control device to him**, turning him on [[Characters/Zinjaro|Zinjaro]] — he swung to hit and topple the cleric, **missed**, then **recovered and apologized**.
+- **September 24, 2026:** **Cut [[Lore#Interrogator Units|Madasin]] in half**, ending the airship fight. Carried off a fine rug for [[Characters/Zinjaro|Zinjaro]]. Passed out after **16 drinks** at the Tesselia Guild Hall. [[wiki/Sessions/2026-09-24|Session]]
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
 ## Sources
 - [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
+- [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
 - [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
