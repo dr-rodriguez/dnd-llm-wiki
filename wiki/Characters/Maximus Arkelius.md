@@ -36,9 +36,12 @@ During his adventures, Maxim formed a close bond with **Aolis**, with whom he sh
 - **September 24, 2026:** Dragged the halved [[Lore#Interrogator Units|Madasin]] to the elevator to **unlock it with her body**. In the cockpit the dying [[Lore#The Overseer (VI)|Overseer]] asked if it could trust him. He said yes, and it gave him its **auxiliary Tier 4 core housing** (holding a small core) before going unresponsive. At the controls he **nearly got locked out**, learning that guidance is locked to **"permission level Odin"** and that the ship is returning to **[[wiki/Locations#Tower Isle|Tower Isle]]**. After teleporting to Tesselia he **messaged [[B-Team|Wendy]]** and studied [[Characters/Aolis|Aolis]]'s tablet with him. [[wiki/Sessions/2026-09-24|Session]]
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
+- **October 1, 2026:** Was caught in his underwear by [[wiki/Characters#Maxwella|Maxwella]], who refused to dress him. Recognized [[wiki/Characters#Angela Nevermore|Nevermore]]'s device as an **anti-espionage device**. Learned from [[wiki/Characters#Sofia AI|Sofia AI]] that the [[Lore#The Overseer (VI)|Overseer]] is a **Gen 3**, ancient even in his time, and that the new core is a **Gen 4**. Doubted that scouting [[Lore#The Mountain|The Mountain]] is as pressing as the Odin situation, and doubts the dragon can be talked to. [[wiki/Sessions/2026-10-01|Session]]
+
 ## Sources
 - [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
 - [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
+- [[raw/2026/2026-10-01.md|Session: 2026-10-01]]
 - [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]

@@ -48,9 +48,12 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **Wanderlustful:** Deeply desires to explore and experience the world.
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
+- **October 1, 2026:** Recalled **[[Lore#The Mountain|The Mountain]]** from folklore as an ancient entity worshiped by subterranean creatures. [[wiki/Sessions/2026-10-01|Session]]
+
 ## Sources
 - [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
 - [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
+- [[raw/2026/2026-10-01.md|Session: 2026-10-01]]
 - [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]

@@ -29,9 +29,12 @@ Villhelm joined the party in April 2026 at the **Adventurer's Guild Hall** in **
 - **September 24, 2026:** Revived by [[Characters/Zinjaro|Zinjaro]]'s Mass Cure Wounds, dropped again by [[Lore#Interrogator Units|Madasin]]'s blade dance, then revived with Healing Word after [[Characters/Ogra Oaksworn|Ogra]] cut her down. At the Tesselia Guild Hall he passed out after **21 drinks**, and the barkeep took **100 gold** from him for the party's tab. [[wiki/Sessions/2026-09-24|Session]]
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
+- **October 1, 2026:** Is convinced the party can **talk to the adult dragon** near [[Lore#The Mountain|The Mountain]]. [[wiki/Sessions/2026-10-01|Session]]
+
 ## Sources
 - [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
 - [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
+- [[raw/2026/2026-10-01.md|Session: 2026-10-01]]
 - [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-07-23.md|Session: 2026-07-23]]

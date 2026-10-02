@@ -39,9 +39,12 @@ Aolis arrived at the Adventurer's Guild via boat alongside **Zinjaro**, **Brambl
 - **September 24, 2026:** Took a **tablet** from an estate room aboard the airship. Cast **Teleportation Circle** to bring the party to the Tesselia Guild Hall. His known destinations are the Helines and Tesselia Guild Halls, Maxim's House, and the "Home" and "His House" runes from [[B-Team|Lavelor]]. Studied the tablet with [[Characters/Maximus Arkelius|Maxim]]. [[wiki/Sessions/2026-09-24|Session]]
 
 - [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
+- **October 1, 2026:** Shared a room with [[Characters/Maximus Arkelius|Maxim]]; [[wiki/Characters#Maxwella|Maxwella]] suggested he **whip Maxim** to get him up earlier. Asked [[wiki/Characters#Angela Nevermore|Nevermore]] and Maggie why the siege ended, and about [[Characters/Amber Lyre|Amber]] (stable). [[wiki/Sessions/2026-10-01|Session]]
+
 ## Sources
 - [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
 - [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
+- [[raw/2026/2026-10-01.md|Session: 2026-10-01]]
 - [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
 - [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
 - [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
