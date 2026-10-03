@@ -6,8 +6,15 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 
 ### Core Information
 - [[Characters]] - List of PCs and NPCs encountered.
-- [[Locations]] - Key locations in the world of Andore and Drakenweld.
-- [[Lore]] - World history, deities, major projects, and technology.
+- [[wiki/Locations/Locations|Locations]] - Key locations in the world of Andore and Drakenweld.
+- [[wiki/Lore/Lore|Lore]] - World history, deities, major projects, and technology.
+  - [[wiki/Lore/Ancient History|Ancient History]]
+  - [[wiki/Lore/Major Projects|Major Projects]]
+  - [[wiki/Lore/Deities and Religions|Deities and Religions]]
+  - [[wiki/Lore/Locations of Interest|Locations of Interest]]
+  - [[wiki/Lore/Technology|Technology]]
+  - [[wiki/Lore/Factions and Organizations|Factions and Organizations]]
+  - [[wiki/Lore/Bestiary|Bestiary]]
 - [[wiki/Quests/The Invention of Christmas|The Invention of Christmas]] - How the party created a new holiday tradition.
 - [[wiki/Quests/Quests|Quests]] - Current and past campaign objectives and missions.
 - [[wiki/Quests/Drakenweld Quest|Drakenweld Quest]] - Detailed overview of the party's journey north.
@@ -18,6 +25,24 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 - [[Characters/Soren|Soren]] - Aarakocra Bladesinger.
 - [[Characters/Zinjaro|Zinjaro]] - Hadozee Cleric.
 - [[Characters/Villhelm Emberstoke|Villhelm Emberstoke]] - Dragonborn Monk.
+
+### Other Character Pages
+- [[wiki/Characters/Amber Lyre|Amber Lyre]] - Changeling Bard (NPC).
+- [[wiki/Characters/Aolis|Aolis]] - Drow Shadow Sorcerer (PC).
+- [[wiki/Characters/Brambleberry|Brambleberry]] - Centaur (now Uma) Soulknife Rogue (PC).
+- [[wiki/Characters/Dumo|Dumo]] - Tortle Circle of Stars Druid (PC).
+- [[wiki/Characters/Gnash|Gnash]] - Lizardfolk Path of the Giant Barbarian (PC).
+- [[wiki/Characters/Idecca|Idecca]] - Raccling Wild Magic Sorcerer (PC).
+- [[wiki/Characters/Juneberry|Juneberry]] - Harengon Thief Rogue (PC).
+- [[wiki/Characters/Maximus Arkelius|Maximus Arkelius]] - Changeling Aberrant Sorcerer (PC).
+- [[wiki/Characters/Nova|Nova]] - Warforged Oath of the Crown Paladin (PC).
+- [[wiki/Characters/Ogra Oaksworn|Ogra Oaksworn]] - Bear Wild Tree Barbarian (PC).
+- [[wiki/Characters/Shar|Shar]] - Vulpin Hexblade Warlock (PC).
+- [[wiki/Characters/Soten|Soten]] - Raccling Radiant Soul Monk (PC).
+- [[wiki/Characters/Thadius Don Oppenheimer|Thadius Don Oppenheimer]] - Giff Armorer Artificer (PC).
+- [[wiki/Characters/Tririn Bronzepride|Tririn Bronzepride]] - Leonin Wild Magic Barbarian (PC).
+- [[wiki/Characters/Tsuki|Tsuki]] - Tabaxi College of Creation Bard (PC).
+- [[wiki/Characters/Wobbles Wibbbles|Wobbles Wibbbles]] - Kobold Way of the Ascendant Dragon Monk (PC).
 
 ### Session Logs
 All campaign sessions are logged in the `wiki/Sessions/` directory (one subfolder per year). Complete chronological list (earliest first):
@@ -153,6 +178,12 @@ All campaign sessions are logged in the `wiki/Sessions/` directory (one subfolde
 ### Reference Notes
 - [[wiki/Sessions/Extra Notes|Extra Notes]] - Scroll costs, material components, and notable gear.
 - [[wiki/Sessions/Level Up Notes-Ideas|Level Up Notes/Ideas]] - Character progression planning.
+
+### Base Tables
+- [[wiki/Base Tables/Characters.base|Characters]] - All characters by species, class, PC/NPC, player.
+- [[wiki/Base Tables/Sessions.base|Sessions]] - Session notes by date and year.
+- [[wiki/Base Tables/Quests.base|Quests]] - Quest notes.
+- [[wiki/Base Tables/Lore.base|Lore]] - Lore topic notes.
 
 ## Maintenance
 - [[log|Ingestion Log]]

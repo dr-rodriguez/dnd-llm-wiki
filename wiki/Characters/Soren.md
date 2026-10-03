@@ -1,4 +1,11 @@
 ---
+type: character
+name: "Soren"
+species: "Aarakocra"
+class: "Bladesinger Wizard"
+character-type: "PC"
+player: "Strakul"
+link:
 tags:
   - Soren
 ---

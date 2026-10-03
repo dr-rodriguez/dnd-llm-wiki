@@ -1,4 +1,11 @@
 ---
+type: character
+name: "Soten"
+species: "Raccling"
+class: "Radiant Soul Monk"
+character-type: "PC"
+player: "Koi/Altair"
+link:
 tags:
   - Soten
 ---

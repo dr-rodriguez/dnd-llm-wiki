@@ -1,4 +1,11 @@
 ---
+type: character
+name: "Wobbles Wibbbles"
+species: "Kobold"
+class: "Way of the Ascendant Dragon Monk"
+character-type: "PC"
+player: "Nick/Zar"
+link:
 tags:
   - WobblesWibbbles
 ---
@@ -13,7 +20,7 @@ tags:
 | Player | Nick/Zar |
 
 ## Backstory/Events
-Wobbles Wibbbles is a kobold monk from **[[wiki/Locations#Drakenweld|Drakenweld]]**. He arrived in the region by boat along with **[[wiki/Characters/Zinjaro|Zinjaro]]**, **[[wiki/Characters#Aolis|Aolis]]**, and **Brambleberry**. Early in his journey, he insisted on participating in a horse race despite being a kobold; during the race, he famously chose to help the fallen Brambleberry instead of pursuing a win.
+Wobbles Wibbbles is a kobold monk from **[[wiki/Locations/Locations#Drakenweld|Drakenweld]]**. He arrived in the region by boat along with **[[wiki/Characters/Zinjaro|Zinjaro]]**, **[[Characters#Aolis|Aolis]]**, and **Brambleberry**. Early in his journey, he insisted on participating in a horse race despite being a kobold; during the race, he famously chose to help the fallen Brambleberry instead of pursuing a win.
 
 During his adventures, Wobbles was briefly petrified by a Medusa in a dungeon but was restored by Zinjaro. He has mentioned a dark past, including a comment that his mother once tried to eat him. He also possesses knowledge of dragon lore, specifically remembering "The Signing of the Last Clutch," an ancient pact between humans and dragons.
 
@@ -33,3 +40,5 @@ In May 2025, while exploring a chateau, Wobbles discovered a **crystalline drago
 - [[wiki/Sessions/2025/2025-05-01|Session: 2025-05-01]]
 - [[wiki/Sessions/2025/2025-05-08|Session: 2025-05-08]]
 - [[wiki/Sessions/2025/2025-05-15|Session: 2025-05-15]]
+
+*Raw sources: [[raw/2025/2025-01-23.md|2025-01-23]], [[raw/2025/2025-01-30.md|2025-01-30]], [[raw/2025/2025-02-06.md|2025-02-06]], [[raw/2025/2025-02-13.md|2025-02-13]], [[raw/2025/2025-02-27.md|2025-02-27]], [[raw/2025/2025-03-06.md|2025-03-06]], [[raw/2025/2025-03-13.md|2025-03-13]], [[raw/2025/2025-04-10.md|2025-04-10]], [[raw/2025/2025-04-17.md|2025-04-17]], [[raw/2025/2025-04-24.md|2025-04-24]], [[raw/2025/2025-05-01.md|2025-05-01]], [[raw/2025/2025-05-08.md|2025-05-08]], [[raw/2025/2025-05-15.md|2025-05-15]]*

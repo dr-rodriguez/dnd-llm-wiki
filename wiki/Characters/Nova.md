@@ -1,4 +1,11 @@
 ---
+type: character
+name: "Nova"
+species: "Warforged"
+class: "Oath of the Crown Paladin"
+character-type: "PC"
+player: "Hunter/Derpy"
+link:
 tags:
   - Nova
 ---

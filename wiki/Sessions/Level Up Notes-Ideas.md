@@ -1,3 +1,7 @@
+---
+type: reference
+---
+
 # DnD5e with FoC
 
 ## Level Up Notes/Ideas

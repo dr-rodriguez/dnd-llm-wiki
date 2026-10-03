@@ -1,4 +1,11 @@
 ---
+type: character
+name: "Idecca"
+species: "Raccling"
+class: "Wild Magic Sorcerer"
+character-type: "PC"
+player: "Zaz"
+link:
 tags:
   - Idecca
 ---

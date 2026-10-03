@@ -1,0 +1,55 @@
+filters:
+  and:
+    - type == "character"
+    - file.name != "Characters"
+properties:
+  note.name:
+    displayName: Name
+  note.species:
+    displayName: Species
+  note.class:
+    displayName: Class
+  note.character-type:
+    displayName: PC/NPC
+  note.player:
+    displayName: Player
+  note.link:
+    displayName: Link
+views:
+  - type: table
+    name: All Characters
+    order:
+      - file.name
+      - name
+      - species
+      - class
+      - character-type
+      - player
+      - link
+    sort:
+      - property: name
+        direction: ASC
+  - type: table
+    name: Player Characters
+    filters:
+      and:
+        - note["character-type"] == "PC"
+    groupBy:
+      property: player
+      direction: ASC
+    order:
+      - file.name
+      - species
+      - class
+      - player
+      - link
+  - type: table
+    name: NPCs
+    filters:
+      and:
+        - note["character-type"] == "NPC"
+    order:
+      - file.name
+      - species
+      - class
+      - link

@@ -1,3 +1,7 @@
+---
+type: location
+---
+
 # Locations
 
 | Name | Type | Located In | Notes |

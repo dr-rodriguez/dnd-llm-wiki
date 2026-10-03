@@ -1,4 +1,11 @@
 ---
+type: character
+name: "Tririn Bronzepride"
+species: "Leonin"
+class: "Wild Magic Barbarian"
+character-type: "PC"
+player: "Sonja"
+link:
 tags:
   - TririnBronzepride
 aliases:

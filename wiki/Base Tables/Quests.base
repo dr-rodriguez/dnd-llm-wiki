@@ -1,0 +1,13 @@
+filters:
+  and:
+    - type == "quest"
+views:
+  - type: table
+    name: Quests
+    order:
+      - file.name
+      - file.backlinks
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC

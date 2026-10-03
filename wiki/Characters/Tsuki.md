@@ -1,4 +1,11 @@
 ---
+type: character
+name: "Tsuki"
+species: "Tabaxi"
+class: "College of Creation Bard"
+character-type: "PC"
+player: "Moochi"
+link:
 tags:
   - Tsuki
 ---
@@ -20,5 +27,5 @@ Tsuki was instrumental in uncovering a plot at **Lordling's Bordello**, noticing
 ## Sources
 - [[raw/2024/2024-04-11.md|Session: 2024-04-11]]
 - [[raw/2026/2026-04-11.md|Session: 2026-04-11]]
-- [[wiki/Characters.md|Characters List]]
+- [[Characters|Characters List]]
 ---

@@ -1,4 +1,11 @@
 ---
+type: character
+name: "Gnash"
+species: "Lizardfolk"
+class: "Path of the Giant Barbarian"
+character-type: "PC"
+player: "Nick/Zar"
+link:
 tags:
   - Gnash
 ---
@@ -21,5 +28,5 @@ Tragically, Gnash was killed by **Ashton Whitemore (the Regent)**. His halberd n
 - [[raw/2023/2023-11-16.md|Session: 2023-11-16]]
 - [[raw/2024/2024-02-15.md|Session: 2024-02-15]]
 - [[raw/2024/2024-04-11.md|Session: 2024-04-11]]
-- [[wiki/Characters.md|Characters List]]
+- [[Characters|Characters List]]
 ---

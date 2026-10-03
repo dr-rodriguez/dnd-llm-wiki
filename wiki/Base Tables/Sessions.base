@@ -1,0 +1,33 @@
+filters:
+  and:
+    - type == "session-note"
+properties:
+  note.year:
+    displayName: Year
+  note.date:
+    displayName: Date
+  note.tags:
+    displayName: Tags
+views:
+  - type: table
+    name: All Sessions
+    order:
+      - file.name
+      - date
+      - year
+      - tags
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: By Year
+    groupBy:
+      property: year
+      direction: DESC
+    order:
+      - file.name
+      - date
+      - tags
+    sort:
+      - property: date
+        direction: ASC

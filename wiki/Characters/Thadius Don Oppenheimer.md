@@ -1,4 +1,11 @@
 ---
+type: character
+name: "Thadius \"Don\" Oppenheimer"
+species: "Giff"
+class: "Armorer Artificer"
+character-type: "PC"
+player: "Sonja"
+link:
 tags:
   - ThadiusDonOppenheimer
 ---
@@ -35,4 +42,6 @@ Thadius died on April 3, 2026, during a confrontation with a radioactive dragon-
 - [[wiki/Sessions/2025/2025-03-06|Session: 2025-03-06]]
 - [[wiki/Sessions/2025/2025-02-27|Session: 2025-02-27]]
 - [[wiki/Sessions/2025/2025-01-23|Session: 2025-01-23]]
-- [[wiki/Characters.md|Characters List]]
+- [[Characters|Characters List]]
+
+*Raw sources: [[raw/2025/2025-01-23.md|2025-01-23]], [[raw/2025/2025-02-27.md|2025-02-27]], [[raw/2025/2025-03-06.md|2025-03-06]], [[raw/2025/2025-04-10.md|2025-04-10]], [[raw/2025/2025-04-24.md|2025-04-24]], [[raw/2025/2025-05-08.md|2025-05-08]], [[raw/2025/2025-10-30.md|2025-10-30]], [[raw/2025/2025-11-20.md|2025-11-20]], [[raw/2026/2026-02-26.md|2026-02-26]], [[raw/2026/2026-03-12.md|2026-03-12]], [[raw/2026/2026-03-19.md|2026-03-19]], [[raw/2026/2026-04-03.md|2026-04-03]]*

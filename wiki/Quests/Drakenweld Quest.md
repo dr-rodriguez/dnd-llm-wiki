@@ -1,9 +1,13 @@
+---
+type: quest
+---
+
 # The Drakenweld Quest
 
-The journey north from **[[wiki/Locations#Helines|Helines]]** to **[[wiki/Locations#Drakenweld|Drakenweld]]** is a major campaign arc that began in mid-2025.
+The journey north from **[[wiki/Locations/Locations#Helines|Helines]]** to **[[wiki/Locations/Locations#Drakenweld|Drakenweld]]** is a major campaign arc that began in mid-2025.
 
 ## Origins and Quest Giver
-The quest was officially assigned by **[[wiki/Characters#Lady Poomf|Lady Poomf]]**, the bird-like Guild Leader of the Adventurer's Guild in Helines. In early 2025, she briefed the party on several concerns, including the disappearance of **[[wiki/Characters#Mayor Maxwell|Mayor Maxwell]]** and the discovery of ancient technology brought by "Island Dwellers" like **Nock** and **Screeck**.
+The quest was officially assigned by **[[Characters#Lady Poomf|Lady Poomf]]**, the bird-like Guild Leader of the Adventurer's Guild in Helines. In early 2025, she briefed the party on several concerns, including the disappearance of **[[Characters#Mayor Maxwell|Mayor Maxwell]]** and the discovery of ancient technology brought by "Island Dwellers" like **Nock** and **Screeck**.
 
 ## Primary Objectives
 1. **Locate Mayor Maxwell:** The Mayor of Helines traveled north to Drakenweld and failed to return. His brother, **Lucious**, has been serving as acting mayor in his absence.
@@ -12,13 +16,17 @@ The quest was officially assigned by **[[wiki/Characters#Lady Poomf|Lady Poomf]]
 
 ## Timeline
 *   **January 2025:** The party receives initial briefings from *Lady Poomf* in *Helines*.
-*   **June 2025:** The party officially sets off north, passing through the **[[wiki/Locations#The Gates|The Gates]]** into the **[[wiki/Locations#The Wastes|The Wastes]]**.
-*   **October 2025:** The "Drakenweld Excursion" phase begins in earnest, leading to the discovery of the "rot" and the battle with a radioactive dragon.
+*   **June 2025:** The party officially sets off north, passing through the **[[wiki/Locations/Locations#The Gates|The Gates]]** into the **[[wiki/Locations/Locations#The Wastes|The Wastes]]**.
+*   **October 2025:** The "Drakenweld Excursion" phase begins in earnest.
+*   **February 2026:** The party learns of the "rot" afflicting the region ([[raw/2026/2026-02-12.md|Source]], [[raw/2026/2026-02-26.md|Source]]).
+*   **April 2026:** The party defeats a radioactive dragon in a volcanic caldera, then continues on to Tesselia ([[raw/2026/2026-04-03.md|Source]]).
 
 ## Key Locations
-*   **[[wiki/Locations#Helines|Helines]]:** The starting city and gateway to the north.
-*   **[[wiki/Locations#The Wastes|The Wastes]]:** A depopulated region between Helines and the mountains, filled with ruins.
-*   **[[wiki/Locations#Drakenweld|Drakenweld]]:** The northern destination, characterized by extreme cold and volcanic activity.
+*   **[[wiki/Locations/Locations#Helines|Helines]]:** The starting city and gateway to the north.
+*   **[[wiki/Locations/Locations#The Wastes|The Wastes]]:** A depopulated region between Helines and the mountains, filled with ruins.
+*   **[[wiki/Locations/Locations#Drakenweld|Drakenweld]]:** The northern destination, characterized by extreme cold and volcanic activity.
 
 ***
 *Source: [[wiki/Sessions/2025/2025-01-15|Session 2025-01-15]], [[wiki/Sessions/2025/2025-02-13|Session 2025-02-13]], [[wiki/Sessions/2025/2025-06-12|Session 2025-06-12]], [[wiki/Quests/Quests|Quests]]*
+
+*Raw sources: [[raw/2025/2025-01-15.md|2025-01-15]], [[raw/2025/2025-02-13.md|2025-02-13]], [[raw/2025/2025-06-12.md|2025-06-12]]*

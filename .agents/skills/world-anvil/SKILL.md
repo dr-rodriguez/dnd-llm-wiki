@@ -11,7 +11,8 @@ description: Use this skill to convert any wiki page or section (sessions, chara
 1. **Resolve the source** from the user's argument:
    - A date (`2026-10-01`) → `wiki/Sessions/<year>/<date>.md`. No argument → the session marked *(Latest Session)* in `wiki/index.md`.
    - A character name (`Maxim`, `Aolis`) → `wiki/Characters/<Name>.md`. Use Glob to match partial names.
-   - A page name (`Lore`, `Quests`, `Locations`, `Characters`, `B-Team`, ...) → `wiki/<Page>.md` (quest pages live in `wiki/Quests/`).
+   - A page name (`Lore`, `Quests`, `Locations`, `Characters`, `B-Team`, ...) → find the page with Glob (`wiki/**/<Page>.md`). Hubs live in their own folders: `wiki/Characters/Characters.md`, `wiki/Characters/B-Team.md`, `wiki/Quests/Quests.md`, `wiki/Locations/Locations.md`, `wiki/Lore/Lore.md`. Lore entries sit in topic notes under `wiki/Lore/` (Ancient History, Major Projects, Deities and Religions, Locations of Interest, Technology, Factions and Organizations, Bestiary).
+   - Ignore `wiki/Base Tables/*.base` files; they are Obsidian views, not content.
    - A page plus an entry or section (`Lore The Mountain`, `Lore Overseer`, `Quests Scout The Mountain`, `Locations Tesselia`) → convert **only** that entry. Entries are a `##`/`###` section, a `* **Name**:` / `- **Name**:` list item, or a table row. Use Grep to find it.
    - If ambiguous or not found, say what you searched and ask; do not guess.
    Always read the file fresh from disk, since the user may have edited it.
@@ -31,12 +32,14 @@ description: Use this skill to convert any wiki page or section (sessions, chara
 - **Checklists** (`- [ ]` / `- [x]`): use `[li]` and prefix the text with `☐ ` or `☑ `.
 - **Tables:** `[table]`, header row as `[tr][th]..[/th][/tr]`, body rows as `[tr][td]..[/td][/tr]`, one row per line, `[/table]`. Unescape `\|` inside cells. Drop empty trailing columns. Skip the `---` separator row.
 - **Paragraphs:** plain text separated by a blank line.
-- **Long single-line entries** (Lore.md style): keep the entry as one paragraph unless it has dated sentences that clearly separate eras (`On 2026-09-03 ...`); in that case, keep them in one paragraph anyway. Do not restructure or summarize.
+- **Long single-line entries** (Lore note style): keep the entry as one paragraph unless it has dated sentences that clearly separate eras (`On 2026-09-03 ...`); in that case, keep them in one paragraph anyway. Do not restructure or summarize.
 - **Single entry output:** when converting one entry, use its name as `[h1]` (or `[h2]` if the user says it is part of a larger article) followed by its text.
 - Do not change wording, add facts, reorder content, or escape quotes/apostrophes.
 - One blank line between block elements; none inside lists.
 
 ## Page-Type Notes
+Choose the rules below from the note's `type` frontmatter property: `session-note`, `character`, `lore`, `quest`, `location`, `reference`. Index pages are hubs of their type (e.g. `Characters.md`, `Lore.md`).
+- **Character frontmatter:** the frontmatter is dropped. If the page has no attribute table but the frontmatter has `species`, `class`, `character-type` or `player`, emit a small `[table]` of those values (skip empty ones) right after `[h1]`.
 - **Sessions:** intro paragraph, then `[h2]` sections, `[ul]`/`[ol]` lists. Title is `[h1]Session: YYYY-MM-DD[/h1]`.
 - **Character pages:** keep section order (Appearance, Backstory, Key Events, Personality, ...). Key Events entries are bold-dated bullets; keep them as `[li]`. Drop trailing `[Session]` links.
 - **Lore / Quests / Locations / Characters index pages:** these are big; if the user gave no entry, ask which entry or section they want rather than converting the whole file. Convert the whole file only if they say so.

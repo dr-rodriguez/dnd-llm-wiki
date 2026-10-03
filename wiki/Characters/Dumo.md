@@ -1,4 +1,11 @@
-﻿---
+---
+type: character
+name: "Dumo"
+species: "Tortle"
+class: "Circle of Stars Druid"
+character-type: "PC"
+player: "Sonja"
+link:
 tags:
   - Dumo
 ---

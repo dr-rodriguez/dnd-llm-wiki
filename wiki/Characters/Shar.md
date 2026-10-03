@@ -1,4 +1,11 @@
 ---
+type: character
+name: "Shar"
+species: "Vulpin"
+class: "Hexblade Warlock"
+character-type: "PC"
+player: "Nick/Zar"
+link:
 tags:
   - Shar
 ---
