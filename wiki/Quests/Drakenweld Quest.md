@@ -21,4 +21,4 @@ The quest was officially assigned by **[[wiki/Characters#Lady Poomf|Lady Poomf]]
 *   **[[wiki/Locations#Drakenweld|Drakenweld]]:** The northern destination, characterized by extreme cold and volcanic activity.
 
 ***
-*Source: [[wiki/Sessions/2025-01-15|Session 2025-01-15]], [[wiki/Sessions/2025-02-13|Session 2025-02-13]], [[wiki/Sessions/2025-06-12|Session 2025-06-12]], [[wiki/Quests|Quests]]*
+*Source: [[wiki/Sessions/2025/2025-01-15|Session 2025-01-15]], [[wiki/Sessions/2025/2025-02-13|Session 2025-02-13]], [[wiki/Sessions/2025/2025-06-12|Session 2025-06-12]], [[wiki/Quests/Quests|Quests]]*

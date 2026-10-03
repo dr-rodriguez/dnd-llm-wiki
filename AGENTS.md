@@ -6,6 +6,10 @@ As an AI assistant, you are focused on navigating, maintaining, and updating thi
 ## Folder Structure
 - `raw/`: Permanent, immutable source of truth for source documents (articles, papers, logs) provided by humans. Session notes are organized into year-based subdirectories (e.g., `raw/2024/`).
 - `wiki/`: LLM-generated markdown files (summaries, entity pages, concept maps). You own and update these files.
+  - `wiki/Sessions/YYYY/`: Session summaries, organized into year-based subdirectories mirroring `raw/` (e.g., `wiki/Sessions/2024/2024-01-04.md`).
+  - `wiki/Quests/`: Quest overview (`Quests.md`) and detailed quest/mission pages.
+  - `wiki/Characters/`, `wiki/Relationships/`: Entity pages.
+  - `wiki/Images/`: Images embedded in wiki pages (and referenced by raw notes via `![[file.png]]`).
 - `.agents/skills/`: Contains specific skill instructions for Ingesting, Querying, and Linting the wiki.
 
 ## Core Files
@@ -21,7 +25,7 @@ To maintain the wiki as a reliable knowledge base, every claim or significant pi
 ## Internal Linking
 To create a densely interconnected knowledge base:
 - Every time a major character, location, or lore concept is mentioned for the first time in a page, it MUST be linked to its corresponding wiki page.
-- Use the format `[[EntityName]]` or `[[wiki/Sessions/YYYY-MM-DD|YYYY-MM-DD]]`.
+- Use the format `[[EntityName]]` or `[[wiki/Sessions/YYYY/YYYY-MM-DD|YYYY-MM-DD]]`.
 - If an entity is in a subdirectory, use the full path: `[[wiki/Characters/Soren|Soren]]`.
 
 ## Core Workflows

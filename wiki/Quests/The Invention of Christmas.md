@@ -1,6 +1,6 @@
 # The Invention of Christmas
 
-In the year 1224 (referenced in session [[wiki/Sessions/2024-08-22|2024-08-22]]), the party introduced the traditions of Christmas to the town of [[Wheat Burrows]] during the local holiday of **Cherish Day**.
+In the year 1224 (referenced in session [[wiki/Sessions/2024/2024-08-22|2024-08-22]]), the party introduced the traditions of Christmas to the town of [[Wheat Burrows]] during the local holiday of **Cherish Day**.
 
 ## The Transformation of Cherish Day
 While [[wiki/Characters#Cherish Day|Cherish Day]] was already an established holiday, the party decided to enhance the festivities using stories from [[wiki/Characters#Nova|Nova]]'s background regarding "Santa Claus."

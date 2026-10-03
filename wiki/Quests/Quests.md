@@ -3,7 +3,7 @@
 This page tracks the major objectives and current missions of the party.
 
 ## Current Objective: The Siege of Tesselia (April 2026)
-Following their detour crashing on an island with a volcano and defeating a radioactive dragon, the party has arrived at **Tesselia** to fulfill their **[[Tesselia Mission]]** only to find the city under siege by **automatons** from a massive **Tower Island** carrier-ship.
+Following their detour crashing on an island with a volcano and defeating a radioactive dragon, the party has arrived at **Tesselia** to fulfill their **[[wiki/Quests/Tesselia Mission|Tesselia Mission]]** only to find the city under siege by **automatons** from a massive **Tower Island** carrier-ship.
 
 ### Current Tasks:
 - [x] **Guild Briefing:** Report to the **Adventurer's Guild** and Maggie to understand the nature of the invasion.
@@ -30,7 +30,7 @@ Following their detour crashing on an island with a volcano and defeating a radi
 - **Key Contacts:** Met **Danyel** (a clone of an ancient scientist) and **Tick/Screeck** (insectoid technical specialists).
 
 ### The Guild Mission to Tesselia (January 2025)
-- **Objective:** See **[[Tesselia Mission]]**. Initial mission assigned by Lady Poomf to check the status of the **Tesselia Guild** and protect the young monarch, **Queen Tesselia**.
+- **Objective:** See **[[wiki/Quests/Tesselia Mission|Tesselia Mission]]**. Initial mission assigned by Lady Poomf to check the status of the **Tesselia Guild** and protect the young monarch, **Queen Tesselia**.
 - **Key Outcome:** The party finally arrived in April 2026 to find the city under siege by automatons.
 
 ## Recurring & Secondary Goals
@@ -40,21 +40,21 @@ Following their detour crashing on an island with a volcano and defeating a radi
 - **The Severance:** A new faction back in [[wiki/Locations#Moren|Moren]] aiming to seize the floating mountain holding the magic college. Reported by [[wiki/Characters#Maxwella|Maxwella]] in August 2026; see [[Lore#The Severance|The Severance]].
 
 ## Sources
-- [[wiki/Sessions/2025-01-15|Session: 2025-01-15]] (Tesselia Mission briefing)
-- [[wiki/Sessions/2025-10-02|Session: 2025-10-02]] (Drakenweld Excursion)
-- [[wiki/Sessions/2026-04-09|Session: 2026-04-09]] (Arrival at the Siege of Tesselia)
-- [[wiki/Sessions/2026-04-11|Session: 2026-04-11]] (Guild briefing on the invasion)
-- [[wiki/Sessions/2026-06-11|Session: 2026-06-11]] (Anti-Air gun mission assigned by Sofia AI)
-- [[wiki/Sessions/2026-06-18|Session: 2026-06-18]] (Assault on the Anti-Air gun site)
-- [[wiki/Sessions/2026-07-23|Session: 2026-07-23]] (Overseer parley, the ledger, and the bombardment)
-- [[wiki/Sessions/2026-08-06|Session: 2026-08-06]] (Odin's bargain and the Second Space attack)
-- [[wiki/Sessions/2026-08-13|Session: 2026-08-13]] (Maggie's capture and the airship infiltration)
-- [[wiki/Sessions/2026-08-20|Session: 2026-08-20]] (the boarding fight, manacles, and the Super Heavy Chassis)
-- [[wiki/Sessions/2026-08-27|Session: 2026-08-27]] (the hidden elevator and the upper decks)
-- [[wiki/Sessions/2026-09-03|Session: 2026-09-03]] (Maggie freed; the ship takes off)
-- [[wiki/Sessions/2026-09-10|Session: 2026-09-10]] (the Madasin fight and B-Team's intervention)
-- [[wiki/Sessions/2026-09-24|Session: 2026-09-24]] (Madasin defeated, the Overseer's core, teleport to the guild hall)
-- [[Tesselia Mission]], [[Drakenweld Quest]]
+- [[wiki/Sessions/2025/2025-01-15|Session: 2025-01-15]] (Tesselia Mission briefing)
+- [[wiki/Sessions/2025/2025-10-02|Session: 2025-10-02]] (Drakenweld Excursion)
+- [[wiki/Sessions/2026/2026-04-09|Session: 2026-04-09]] (Arrival at the Siege of Tesselia)
+- [[wiki/Sessions/2026/2026-04-11|Session: 2026-04-11]] (Guild briefing on the invasion)
+- [[wiki/Sessions/2026/2026-06-11|Session: 2026-06-11]] (Anti-Air gun mission assigned by Sofia AI)
+- [[wiki/Sessions/2026/2026-06-18|Session: 2026-06-18]] (Assault on the Anti-Air gun site)
+- [[wiki/Sessions/2026/2026-07-23|Session: 2026-07-23]] (Overseer parley, the ledger, and the bombardment)
+- [[wiki/Sessions/2026/2026-08-06|Session: 2026-08-06]] (Odin's bargain and the Second Space attack)
+- [[wiki/Sessions/2026/2026-08-13|Session: 2026-08-13]] (Maggie's capture and the airship infiltration)
+- [[wiki/Sessions/2026/2026-08-20|Session: 2026-08-20]] (the boarding fight, manacles, and the Super Heavy Chassis)
+- [[wiki/Sessions/2026/2026-08-27|Session: 2026-08-27]] (the hidden elevator and the upper decks)
+- [[wiki/Sessions/2026/2026-09-03|Session: 2026-09-03]] (Maggie freed; the ship takes off)
+- [[wiki/Sessions/2026/2026-09-10|Session: 2026-09-10]] (the Madasin fight and B-Team's intervention)
+- [[wiki/Sessions/2026/2026-09-24|Session: 2026-09-24]] (Madasin defeated, the Overseer's core, teleport to the guild hall)
+- [[wiki/Quests/Tesselia Mission|Tesselia Mission]], [[wiki/Quests/Drakenweld Quest|Drakenweld Quest]]
 
 ***
 

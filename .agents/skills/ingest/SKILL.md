@@ -29,7 +29,7 @@ description: Use this skill when a new source document is added to the `raw/` fo
 4. **Plan Updates:** Identify which existing pages in the `wiki/` directory need to be updated with this new information. If new concepts are introduced, plan to create new pages for them.
 5. **Execute Updates:** 
    - Update existing wiki pages to integrate the new knowledge.
-   - Create new wiki pages as necessary.
+   - Create new wiki pages as necessary. Session summaries go in the year subfolder: `wiki/Sessions/YYYY/YYYY-MM-DD.md` (link as `[[wiki/Sessions/YYYY/YYYY-MM-DD|YYYY-MM-DD]]`). Quest pages go in `wiki/Quests/`. Images go in `wiki/Images/`.
    - **Internal Linking:** Ensure every major character, location, and lore concept is linked to its wiki page (e.g., `[[Characters#Soren|Soren]]`) the first time it is mentioned in a session note or update.
    - **Tagging:** Add a `tags` field to the YAML frontmatter. Tags should be character and location names mentioned in the document. Tags MUST be single words in PascalCase with no spaces or special characters (e.g., `MaggieNorth`, `LordlingsBordello`).
    - **Provenance:** Every update or new page MUST include a link back to the source document in `raw/`. For session notes, ensure you use the correct year-based subdirectory (e.g., `[[raw/2024/2024-01-01.md|Source]]`).

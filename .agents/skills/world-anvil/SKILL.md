@@ -9,9 +9,9 @@ description: Use this skill to convert any wiki page or section (sessions, chara
 
 ## Workflow
 1. **Resolve the source** from the user's argument:
-   - A date (`2026-10-01`) → `wiki/Sessions/<date>.md`. No argument → the session marked *(Latest Session)* in `wiki/index.md`.
+   - A date (`2026-10-01`) → `wiki/Sessions/<year>/<date>.md`. No argument → the session marked *(Latest Session)* in `wiki/index.md`.
    - A character name (`Maxim`, `Aolis`) → `wiki/Characters/<Name>.md`. Use Glob to match partial names.
-   - A page name (`Lore`, `Quests`, `Locations`, `Characters`, `B-Team`, ...) → `wiki/<Page>.md`.
+   - A page name (`Lore`, `Quests`, `Locations`, `Characters`, `B-Team`, ...) → `wiki/<Page>.md` (quest pages live in `wiki/Quests/`).
    - A page plus an entry or section (`Lore The Mountain`, `Lore Overseer`, `Quests Scout The Mountain`, `Locations Tesselia`) → convert **only** that entry. Entries are a `##`/`###` section, a `* **Name**:` / `- **Name**:` list item, or a table row. Use Grep to find it.
    - If ambiguous or not found, say what you searched and ask; do not guess.
    Always read the file fresh from disk, since the user may have edited it.

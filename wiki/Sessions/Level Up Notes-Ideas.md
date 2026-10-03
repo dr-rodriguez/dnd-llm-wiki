@@ -1,4 +1,4 @@
-﻿# DnD5e with FoC
+# DnD5e with FoC
 
 ## Level Up Notes/Ideas
 
