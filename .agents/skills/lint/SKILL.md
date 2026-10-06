@@ -14,7 +14,7 @@ description: Use this skill to perform periodic health checks on the wiki to mai
    - **Contradictions:** Information on one page that conflicts with another.
    - **Stale Claims:** Information that may be outdated or inconsistent with the source material.
    - **Orphan Pages:** Pages that are not linked to from `wiki/index.md` or any other pages.
-   - **Missing Provenance:** Identify any pages that lack links back to their original source documents in `raw/`.
+   - **Missing Provenance:** Identify any pages that lack source citations. Session notes cite `raw/`; all other pages should cite wiki session notes (`wiki/Sessions/YYYY/...`) and flag any `[[raw/...]]` link that has a wiki equivalent.
    - **Data Gaps:** Missing information that should be logically present based on existing context.
    - **Classification and Properties:** Check every note against the Note Types and Properties table in `AGENTS.md`:
      - Every note except `index.md` / `log.md` has frontmatter with a valid `type`: `character`, `location`, `lore`, `quest`, `session-note` or `reference`.

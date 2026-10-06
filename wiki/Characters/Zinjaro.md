@@ -31,9 +31,9 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 ### Key Events
 - **Siege of Tesselia:** In April 2026, Zinjaro was identified as a "known dissident" by automaton occupation forces. After unsuccessfully attempting to use **Maggie North** as a false identity, he was engaged in combat, grappled, and arrested.
 - **Yellow Madness (April/May 2026):** While investigating a yellow-cloaked individual in a pristine store in Tesselia, Zinjaro fell under "Yellow madness" and was restrained by [[Characters/Ogra Oaksworn|Ogra]]. By May 7, 2026, he was cured of the madness. He later discovered a secret door in the shop's backroom and attempted to **Banish** two **Gibbering Mouthers** that appeared from a mysterious book, but failed as they were anchored to the plane by the book itself.
-- **May 14, 2026:** During a battle with a [[wiki/Lore/Bestiary#Neh-thalggu|Neh-thalggu]], Zinjaro cast **Fireball**, which triggered a **Wild Magic Surge**, causing him to leave a trail of moss, fungi, and flowers as he walked for the next hour. He also successfully used his **Warding Flare** to protect [[Characters#Aolis|Aolis]] from the creature's lethal **Extract Brain** ability.
+- **May 14, 2026:** During a battle with a [[wiki/Lore/Bestiary#Neh-thalggu (Brain Collector)|Neh-thalggu]], Zinjaro cast **Fireball**, which triggered a **Wild Magic Surge**, causing him to leave a trail of moss, fungi, and flowers as he walked for the next hour. He also successfully used his **Warding Flare** to protect [[wiki/Characters/Aolis|Aolis]] from the creature's lethal **Extract Brain** ability.
 - **May 21, 2026:** Provided extensive healing (*Aura of Vitality*, *Divine Spark*, *Healing Word*) to [[Characters/Villhelm Emberstoke|Villhelm]] during a tower battle. Following the fight, he and Villhelm observed "Outer Plane food" on a table, including fluorescent blue and purple vegetation.
-- **May 28, 2026:** Protected the party from the [[wiki/Lore/Bestiary#ScionInYellow|Scion in Yellow]]'s charms and fears with an **Aura of Purity**. He later saved the party from the brink of defeat with a **Mass Cure Wounds**, reviving a fallen Villhelm.
+- **May 28, 2026:** Protected the party from the [[wiki/Lore/Bestiary#Scion in Yellow|Scion in Yellow]]'s charms and fears with an **Aura of Purity**. He later saved the party from the brink of defeat with a **Mass Cure Wounds**, reviving a fallen Villhelm.
 - **June 11, 2026:** Received a **Potion of Climbing** from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission, and wondered if it was an insult or if [[Characters#Sofia AI|Sofia AI]] knows something.
 - **June 25, 2026:** During the robot fight at the Anti-Air gun church site, cast **Bless** on the party and provided heavy healing as several allies were badly wounded, including a **Mass Cure Wounds**. After [[Characters/Villhelm Emberstoke|Villhelm]] went down at the end of combat, Zinjaro revived him by feeding him a handful of bananas (**Goodberries**).
 - **July 9, 2026:** In the central-area fight at the church site, summoned a **Spiritual Weapon** to fight while he stayed behind cover, and brought [[Characters/Villhelm Emberstoke|Villhelm]] back up after he went down.
@@ -54,26 +54,26 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **Slightly Misguided:** Likely exaggerates his role in the "sun-touched guide" prophecy.
 - **Wanderlustful:** Deeply desires to explore and experience the world.
 
-- [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
+- [[wiki/Sessions/2026/2026-08-20|Session: 2026-08-20]]
 - **October 1, 2026:** Recalled **[[wiki/Lore/Locations of Interest#The Mountain|The Mountain]]** from folklore as an ancient entity worshiped by subterranean creatures. [[wiki/Sessions/2026/2026-10-01|Session]]
 
 ## Sources
-- [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
-- [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
-- [[raw/2026/2026-10-01.md|Session: 2026-10-01]]
-- [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
-- [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
-- [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
-- [[raw/2026/2026-08-06.md|Session: 2026-08-06]]
-- [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
-- [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
-- [[raw/2026/2026-07-09.md|Session: 2026-07-09]]
-- [[raw/2026/2026-06-25.md|Session: 2026-06-25]]
-- [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
-- [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
-- [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
-- [[raw/2026/2026-05-07.md|Session: 2026-05-07]]
-- [[raw/2026/2026-04-30.md|Session: 2026-04-30]]
+- [[wiki/Sessions/2026/2026-09-10|Session: 2026-09-10]]
+- [[wiki/Sessions/2026/2026-09-24|Session: 2026-09-24]]
+- [[wiki/Sessions/2026/2026-10-01|Session: 2026-10-01]]
+- [[wiki/Sessions/2026/2026-09-03|Session: 2026-09-03]]
+- [[wiki/Sessions/2026/2026-08-27|Session: 2026-08-27]]
+- [[wiki/Sessions/2026/2026-08-13|Session: 2026-08-13]]
+- [[wiki/Sessions/2026/2026-08-06|Session: 2026-08-06]]
+- [[wiki/Sessions/2026/2026-07-23|Session: 2026-07-23]]
+- [[wiki/Sessions/2026/2026-07-16|Session: 2026-07-16]]
+- [[wiki/Sessions/2026/2026-07-09|Session: 2026-07-09]]
+- [[wiki/Sessions/2026/2026-06-25|Session: 2026-06-25]]
+- [[wiki/Sessions/2026/2026-06-11|Session: 2026-06-11]]
+- [[wiki/Sessions/2026/2026-05-28|Session: 2026-05-28]]
+- [[wiki/Sessions/2026/2026-05-14|Session: 2026-05-14]]
+- [[wiki/Sessions/2026/2026-05-07|Session: 2026-05-07]]
+- [[wiki/Sessions/2026/2026-04-30|Session: 2026-04-30]]
 - [[raw/Character- Zinjaro.md|Original Bio]]
-- [[raw/2026/2026-04-11.md|Session: 2026-04-11]]
+- [[wiki/Sessions/2026/2026-04-11|Session: 2026-04-11]]
 

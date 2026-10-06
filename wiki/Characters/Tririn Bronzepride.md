@@ -20,14 +20,14 @@ aliases:
 | Type | PC |
 | Species | Leonin |
 | Class | Wild Magic Barbarian |
+| Player | Sonja |
 
-# Tririn Bronzepride
+Tririn Bronzepride is a Leonin barbarian who joined the party following [[wiki/Characters/Dumo|Dumo]]'s retirement. Known for his impatience and fierce fighting style, he famously dueled [[wiki/Characters/Soren|Soren]] to prove his martial superiority.
 
-Tririn Bronzepride is a Leonin barbarian who joined the party following **Dumo**'s retirement. Known for his impatience and fierce fighting style, he famously dueled **Soren** to prove his martial superiority.
+In December 2024, Tririn was gifted a powerful axe called **"The Broken Promise."** Tragically, he fell in battle during the final confrontation with the [[Characters#Athena AI|Athena AI]] in January 2025.
 
-In December 2024, Tririn was gifted a powerful axe called **"The Broken Promise."** Tragically, he fell in battle during the final confrontation with the **Athena AI** in January 2025.
 ## Sources
-- [[raw/2024/2024-04-11.md|Session: 2024-04-11]]
-- [[raw/2024/2024-10-17.md|Session: 2024-10-17]]
-- [[raw/2024/2024-12-12.md|Session: 2024-12-12]]
-- [[raw/2025/2025-01-16.md|Session: 2025-01-16]]
+- [[wiki/Sessions/2024/2024-04-11|Session: 2024-04-11]]
+- [[wiki/Sessions/2024/2024-10-17|Session: 2024-10-17]]
+- [[wiki/Sessions/2024/2024-12-12|Session: 2024-12-12]]
+- [[wiki/Sessions/2025/2025-01-16|Session: 2025-01-16]]

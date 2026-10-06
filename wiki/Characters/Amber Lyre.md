@@ -28,9 +28,9 @@ Amber Lyre is a changeling bard who was discovered by the party in April 2026 du
 - **October 1, 2026:** Reported **stable** by Nevermore and Maggie. [[wiki/Sessions/2026/2026-10-01|Session]]
 
 ## Sources
-- [[raw/2026/2026-08-06.md|Session: 2026-08-06]]
-- [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
-- [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
-- [[raw/2026/2026-04-30.md|Session: 2026-04-30]]
-- [[raw/2026/2026-04-23.md|Session: 2026-04-23]]
-- [[raw/2026/2026-10-01.md|Session: 2026-10-01]]
+- [[wiki/Sessions/2026/2026-08-06|Session: 2026-08-06]]
+- [[wiki/Sessions/2026/2026-07-23|Session: 2026-07-23]]
+- [[wiki/Sessions/2026/2026-06-11|Session: 2026-06-11]]
+- [[wiki/Sessions/2026/2026-04-30|Session: 2026-04-30]]
+- [[wiki/Sessions/2026/2026-04-23|Session: 2026-04-23]]
+- [[wiki/Sessions/2026/2026-10-01|Session: 2026-10-01]]

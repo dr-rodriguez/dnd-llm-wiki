@@ -1,4 +1,4 @@
-﻿---
+---
 type: character
 name: "Villhelm Emberstoke"
 species: "Dragonborn"
@@ -23,7 +23,7 @@ tags:
 Villhelm joined the party in April 2026 at the **Adventurer's Guild Hall** in **Tesselia** during the automaton siege. He was introduced by **Maggie North** and immediately participated in a mission to rescue missing groups in the city. During his first combat with the automatons, he was stunned and blinded by a flash bomb. After the battle, he acquired a **Kinetic Accelerator**, which grants him additional force damage based on his movement.
 - **May 14, 2026:** While exploring a tower, Villhelm was followed and eventually wrapped by a [[wiki/Lore/Bestiary#Flumph|Flumph]], which emitted a strange odor he had to resist.
 - **May 21, 2026:** Disengaged from a [[wiki/Lore/Bestiary#Death Kiss|Death Kiss]] to join the rest of the party in a tower room. His fire breath accidentally ignited several coffins, which he later extinguished. Following the battle, he and [[Characters/Zinjaro|Zinjaro]] observed "Outer Plane food" on a table.
-- **May 28, 2026:** Suffered multiple knockouts during the battle with the [[wiki/Lore/Bestiary#ScionInYellow|Scion in Yellow]], first from a *Cone of Cold* and later from a *Synaptic Static*. Under the influence of **Wild Magic**-induced confusion, he inadvertently attacked [[Characters#Aolis|Aolis]]. However, he managed to use his **Frightful Presence** to scare one of the summoned Slaads.
+- **May 28, 2026:** Suffered multiple knockouts during the battle with the [[wiki/Lore/Bestiary#Scion in Yellow|Scion in Yellow]], first from a *Cone of Cold* and later from a *Synaptic Static*. Under the influence of **Wild Magic**-induced confusion, he inadvertently attacked [[wiki/Characters/Aolis|Aolis]]. However, he managed to use his **Frightful Presence** to scare one of the summoned Slaads.
 - **June 11, 2026:** Received a **Potion of Speed** from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission.
 - **June 25, 2026:** Was among the badly wounded during the robot fight at the Anti-Air gun church site, and went down right at the end of combat as [[Characters/Ogra Oaksworn|Ogra]] killed the last robot. [[Characters/Zinjaro|Zinjaro]] revived him with a handful of bananas (**Goodberries**).
 - **July 9, 2026:** Rushed into the central-area room with the melee fighters, taking cover behind fallen pillars. He went down during the fight but was brought back up by [[Characters/Zinjaro|Zinjaro]].
@@ -35,26 +35,26 @@ Villhelm joined the party in April 2026 at the **Adventurer's Guild Hall** in **
 - **September 10, 2026:** Took **severe damage from [[wiki/Lore/Technology#Interrogator Units|Madasin]]'s blade dance** inside the gas cloud, then drank a **Haste potion** and answered with a long string of attacks. When she stimmed into Haste herself she **struck him down and threw his body aside** — the second of the party to fall.
 - **September 24, 2026:** Revived by [[Characters/Zinjaro|Zinjaro]]'s Mass Cure Wounds, dropped again by [[wiki/Lore/Technology#Interrogator Units|Madasin]]'s blade dance, then revived with Healing Word after [[Characters/Ogra Oaksworn|Ogra]] cut her down. At the Tesselia Guild Hall he passed out after **21 drinks**, and the barkeep took **100 gold** from him for the party's tab. [[wiki/Sessions/2026/2026-09-24|Session]]
 
-- [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
+- [[wiki/Sessions/2026/2026-08-20|Session: 2026-08-20]]
 - **October 1, 2026:** Is convinced the party can **talk to the adult dragon** near [[wiki/Lore/Locations of Interest#The Mountain|The Mountain]]. [[wiki/Sessions/2026/2026-10-01|Session]]
 
 ## Sources
-- [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
-- [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
-- [[raw/2026/2026-10-01.md|Session: 2026-10-01]]
-- [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
-- [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
-- [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
-- [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
-- [[raw/2026/2026-07-09.md|Session: 2026-07-09]]
-- [[raw/2026/2026-06-25.md|Session: 2026-06-25]]
-- [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
-- [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
-- [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
-- [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
-- [[raw/2026/2026-05-07.md|Session: 2026-05-07]]
-- [[raw/2026/2026-04-30.md|Session: 2026-04-30]]
-- [[raw/2026/2026-04-23.md|Session: 2026-04-23]]
+- [[wiki/Sessions/2026/2026-09-10|Session: 2026-09-10]]
+- [[wiki/Sessions/2026/2026-09-24|Session: 2026-09-24]]
+- [[wiki/Sessions/2026/2026-10-01|Session: 2026-10-01]]
+- [[wiki/Sessions/2026/2026-09-03|Session: 2026-09-03]]
+- [[wiki/Sessions/2026/2026-08-27|Session: 2026-08-27]]
+- [[wiki/Sessions/2026/2026-07-23|Session: 2026-07-23]]
+- [[wiki/Sessions/2026/2026-07-16|Session: 2026-07-16]]
+- [[wiki/Sessions/2026/2026-07-09|Session: 2026-07-09]]
+- [[wiki/Sessions/2026/2026-06-25|Session: 2026-06-25]]
+- [[wiki/Sessions/2026/2026-06-11|Session: 2026-06-11]]
+- [[wiki/Sessions/2026/2026-05-28|Session: 2026-05-28]]
+- [[wiki/Sessions/2026/2026-05-21|Session: 2026-05-21]]
+- [[wiki/Sessions/2026/2026-05-14|Session: 2026-05-14]]
+- [[wiki/Sessions/2026/2026-05-07|Session: 2026-05-07]]
+- [[wiki/Sessions/2026/2026-04-30|Session: 2026-04-30]]
+- [[wiki/Sessions/2026/2026-04-23|Session: 2026-04-23]]
 - User prompt: 2026-04-16
-- [[raw/2026/2026-04-11.md|Session: 2026-04-11]]
+- [[wiki/Sessions/2026/2026-04-11|Session: 2026-04-11]]
 

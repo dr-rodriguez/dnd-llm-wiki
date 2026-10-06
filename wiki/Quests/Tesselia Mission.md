@@ -21,7 +21,7 @@ After extensive travel (and crashing on an island with a volcano and a radioacti
 
 Upon their arrival, they discovered that Tesselia was under siege by the very threat the Island Dwellers had warned about: automatons from a massive **Tower Island** carrier-ship. Magic messages were blocked, proving Lady Poomf's concerns about communication to be well-founded, and forcing the party to physically intervene to help the sheltering guild and locate the hiding royalty. It was later revealed that this attack was orchestrated by **[[Characters#Odin AI|Odin AI]]** in an attempt to harvest **[[Characters#Sofia AI|Sofia AI]]**'s AI core. The siege culminated in a massive "Saturation Bombardment" by Odin's ships.
 
-The siege ended on 2026-10-01: all the enemy ships withdrew, likely recalled by Odin. See [[wiki/Quests/Quests#Current Arc: Tesselia (April 2026 – present)|Quests]] for the open threads. [[raw/2026/2026-10-01.md|Source]]
+The siege ended on 2026-10-01: all the enemy ships withdrew, likely recalled by Odin. See [[wiki/Quests/Quests#Current Arc: Tesselia (April 2026 – present)|Quests]] for the open threads. [[wiki/Sessions/2026/2026-10-01|Source]]
 
 ***
-*Sources: [[raw/2025/2025-01-15.md|Session 2025-01-15]], [[raw/2026/2026-04-09.md|Session 2026-04-09]], [[raw/2026/2026-06-04.md|Session 2026-06-04]], [[raw/2026/2026-10-01.md|Session 2026-10-01]]*
+*Sources: [[wiki/Sessions/2025/2025-01-15|Session 2025-01-15]], [[wiki/Sessions/2026/2026-04-09|Session 2026-04-09]], [[wiki/Sessions/2026/2026-06-04|Session 2026-06-04]], [[wiki/Sessions/2026/2026-10-01|Session 2026-10-01]]*

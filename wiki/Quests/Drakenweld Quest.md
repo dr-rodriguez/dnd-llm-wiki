@@ -18,8 +18,8 @@ The quest was officially assigned by **[[Characters#Lady Poomf|Lady Poomf]]**, t
 *   **January 2025:** The party receives initial briefings from *Lady Poomf* in *Helines*.
 *   **June 2025:** The party officially sets off north, passing through the **[[wiki/Locations/Locations#The Gates|The Gates]]** into the **[[wiki/Locations/Locations#The Wastes|The Wastes]]**.
 *   **October 2025:** The "Drakenweld Excursion" phase begins in earnest.
-*   **February 2026:** The party learns of the "rot" afflicting the region ([[raw/2026/2026-02-12.md|Source]], [[raw/2026/2026-02-26.md|Source]]).
-*   **April 2026:** The party defeats a radioactive dragon in a volcanic caldera, then continues on to Tesselia ([[raw/2026/2026-04-03.md|Source]]).
+*   **February 2026:** The party learns of the "rot" afflicting the region ([[wiki/Sessions/2026/2026-02-12|Source]], [[wiki/Sessions/2026/2026-02-26|Source]]).
+*   **April 2026:** The party defeats a radioactive dragon in a volcanic caldera, then continues on to Tesselia ([[wiki/Sessions/2026/2026-04-03|Source]]).
 
 ## Key Locations
 *   **[[wiki/Locations/Locations#Helines|Helines]]:** The starting city and gateway to the north.
@@ -29,4 +29,3 @@ The quest was officially assigned by **[[Characters#Lady Poomf|Lady Poomf]]**, t
 ***
 *Source: [[wiki/Sessions/2025/2025-01-15|Session 2025-01-15]], [[wiki/Sessions/2025/2025-02-13|Session 2025-02-13]], [[wiki/Sessions/2025/2025-06-12|Session 2025-06-12]], [[wiki/Quests/Quests|Quests]]*
 
-*Raw sources: [[raw/2025/2025-01-15.md|2025-01-15]], [[raw/2025/2025-02-13.md|2025-02-13]], [[raw/2025/2025-06-12.md|2025-06-12]]*

@@ -63,6 +63,7 @@ Every note in `wiki/` (except `index.md` and `log.md`) MUST start with YAML fron
 ## Provenance and Linking
 To maintain the wiki as a reliable knowledge base, every claim or significant piece of information in the `wiki/` directory MUST be linked back to its original source in `raw/`.
 - Use Obsidian-style links: `[[raw/2024/2024-01-01.md|Source]]`.
+- Point at wiki content first. Only session notes (and loose reference notes in `wiki/Sessions/`, plus a character page's own original bio) link to `raw/`. Character, lore, quest, and location pages cite the wiki session note instead: `[[wiki/Sessions/2024/2024-01-01|Session: 2024-01-01]]`. Link `raw/` only when no wiki page covers that source (e.g., the Characters/Locations CSVs).
 - For entity pages (e.g., a character or location), include a "Sources" section listing all relevant source documents.
 - For specific claims or session summaries, provide inline citations or a list of references at the bottom of the page.
 

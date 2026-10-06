@@ -22,12 +22,12 @@ tags:
 ## Backstory / Events
 Maximus Arkelius, also known as **Maxim**, is an **Ancient Anwey** from a distant, highly advanced civilization. He was originally created by the Anwey as a spy, but after assuming his current form—which resembled a specific "baseform"—he grew accustomed to life with a family and eventually abandoned his original mission. He spent a significant amount of time unconscious in another plane while ages passed in the material world. He has admitted that "Maximus Arkelius" is not his real name, and his family was historically involved in manufacturing and heavy machinery.
 
-Maxim is a **Changeling**, a fact he was initially surprised to learn meant he was considered fey. As an **Aberrant Sorcerer**, he possesses knowledge of advanced and forgotten technologies, including radiation and nuclear weaponry, and can read ancient Anwey script. He often travels with a homunculus servant and a kobold companion named **Wobbles**.
+Maxim is a **Changeling**, a fact he was initially surprised to learn meant he was considered fey. As an **Aberrant Sorcerer**, he possesses knowledge of advanced and forgotten technologies, including radiation and nuclear weaponry, and can read ancient Anwey script. He often travels with a homunculus servant and a kobold companion named [[wiki/Characters/Wobbles Wibbbles|Wobbles]].
 
-During his adventures, Maxim formed a close bond with **Aolis**, with whom he shared damage through a pair of bonding rings. This bond was eventually broken in April 2026 during a near-death encounter with a dragon to prevent Aolis from taking further shared damage. He has been instrumental in navigating ancient Anwey structures, using his magic to scout invisibly, summon otherworldly help, and identify hazardous radioactive materials. In April 2026, during a fight against automatons, Maxim was reunited with another changeling survivor from the "pods" named **[[Characters/Amber Lyre|Amber Lyre]]**.
+During his adventures, Maxim formed a close bond with [[wiki/Characters/Aolis|Aolis]], with whom he shared damage through a pair of bonding rings. This bond was eventually broken in April 2026 during a near-death encounter with a dragon to prevent Aolis from taking further shared damage. He has been instrumental in navigating ancient Anwey structures, using his magic to scout invisibly, summon otherworldly help, and identify hazardous radioactive materials. In April 2026, during a fight against automatons, Maxim was reunited with another changeling survivor from the "pods" named **[[Characters/Amber Lyre|Amber Lyre]]**.
 - **May 14, 2026:** Identified several strange creatures including [[wiki/Lore/Bestiary#Flumph|Flumphs]] and [[wiki/Lore/Bestiary#Goon Balloon|Goon Balloons]]. During a battle in a tower, his magic triggered a **Wild Magic Surge**, granting him the potential for reincarnation. He also briefly vanished to the **[[wiki/Lore/Deities and Religions#Astral Plane|Astral Plane]]**, where he witnessed floating fish in a star ocean.
 - **May 21, 2026:** Cast **Wall of Fire** during a battle in a tower, later using **Control Flames** to extinguish the spreading fire. He heard whispers from his yellow book, which revealed the phrases "**Ad Astra**" (To the stars) and "**Mors Imperii**" (Death of the empire) before finally displaying "**UP**" to direct the party to a teleportation point. When encountering the [[wiki/Lore/Bestiary#Yellow Cloak (Figure)|figure in the yellow cloak]], the entity's discordant voices sounded like generic voices to him.
-- **May 28, 2026:** Delivered the killing blow to the [[wiki/Lore/Bestiary#ScionInYellow|Scion in Yellow]] using a **Psychic Lance**. During the battle, a **Wild Magic Surge** caused him to grow a third eye for an hour. He was the one who opened the Scion's trembling yellow book, which triggered the party's teleportation back and revealed a final message: "*He has seen you. You have been noted.*"
+- **May 28, 2026:** Delivered the killing blow to the [[wiki/Lore/Bestiary#Scion in Yellow|Scion in Yellow]] using a **Psychic Lance**. During the battle, a **Wild Magic Surge** caused him to grow a third eye for an hour. He was the one who opened the Scion's trembling yellow book, which triggered the party's teleportation back and revealed a final message: "*He has seen you. You have been noted.*"
 - **June 11, 2026:** Caught up with [[Characters/Amber Lyre|Amber Lyre]] about their shared past; he remembers waking to an unrecognizable world after his time in cryo, and admits he no longer trusts the AIs. He stated he has no allegiance to Tesselia, Drakenweld, or any AI - he likes his old modern society but won't give up his mind to advance it, and just wants a comfortable life with his friends, having fully adopted the "Maxim" identity. Received a **Potion of Heroism** from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission: clearing out Anti-Air gun sites near the party's original landing spot.
 - **June 25, 2026:** During the robot fight, countered a robot that targeted [[Characters/Zinjaro|Zinjaro]] (to grant attackers advantage) by dropping darkness over the area with a **Hunger of Hadar** spell. After the fight, he melted the door to the central area, opening a new room of enemies.
 - **July 9, 2026:** Fought the central-area room from outside cover with the spellcasters, summoning **Hunger of Hadar** again to control the area as enemy reinforcements poured in from side rooms.
@@ -42,36 +42,36 @@ During his adventures, Maxim formed a close bond with **Aolis**, with whom he sh
 - **September 10, 2026:** On the ground he saw **[[B-Team]] racing for the departing ship**, **dropped his invisibility**, and **handed Maggie over to them**. The **[[wiki/Lore/Technology#The Mechanical Slate|mechanical slate]] then teleported him back to the party** mid-fight, arriving alongside a bomb-like device that fired **seeking needles that healed everyone to full**. He identified [[wiki/Lore/Technology#Interrogator Units|Madasin]]'s **lightning resistance and lack of vulnerabilities**, then **Quickened a Thunder Step** to snatch the downed [[Characters/Zinjaro|Zinjaro]] out of her reach and **revived him with a greater healing potion**. Her return fire mostly struck his **Mirror Images**, landing once.
 - **September 24, 2026:** Dragged the halved [[wiki/Lore/Technology#Interrogator Units|Madasin]] to the elevator to **unlock it with her body**. In the cockpit the dying [[wiki/Lore/Technology#The Overseer (VI)|Overseer]] asked if it could trust him. He said yes, and it gave him its **auxiliary Tier 4 core housing** (holding a small core) before going unresponsive. At the controls he **nearly got locked out**, learning that guidance is locked to **"permission level Odin"** and that the ship is returning to **[[wiki/Locations/Locations#Tower Isle|Tower Isle]]**. After teleporting to Tesselia he **messaged [[B-Team|Wendy]]** and studied [[Characters/Aolis|Aolis]]'s tablet with him. [[wiki/Sessions/2026/2026-09-24|Session]]
 
-- [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
+- [[wiki/Sessions/2026/2026-08-20|Session: 2026-08-20]]
 - **October 1, 2026:** Was caught in his underwear by [[Characters#Maxwella|Maxwella]], who refused to dress him. Recognized [[Characters#Angela Nevermore|Nevermore]]'s device as an **anti-espionage device**. Learned from [[Characters#Sofia AI|Sofia AI]] that the [[wiki/Lore/Technology#The Overseer (VI)|Overseer]] is a **Gen 3**, ancient even in his time, and that the new core is a **Gen 4**. Doubted that scouting [[wiki/Lore/Locations of Interest#The Mountain|The Mountain]] is as pressing as the Odin situation, and doubts the dragon can be talked to. [[wiki/Sessions/2026/2026-10-01|Session]]
 
 ## Sources
-- [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
-- [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
-- [[raw/2026/2026-10-01.md|Session: 2026-10-01]]
-- [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
-- [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
-- [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
-- [[raw/2026/2026-08-06.md|Session: 2026-08-06]]
-- [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
-- [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
-- [[raw/2026/2026-07-09.md|Session: 2026-07-09]]
-- [[raw/2026/2026-06-25.md|Session: 2026-06-25]]
-- [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
-- [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
-- [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
-- [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
-- [[raw/2026/2026-05-07.md|Session: 2026-05-07]]
-- [[raw/2026/2026-04-30.md|Session: 2026-04-30]]
-- [[raw/2026/2026-04-23.md|Session: 2026-04-23]]
-- [[raw/2026/2026-04-11.md|Session: 2026-04-11]]
-- [[raw/2026/2026-04-09.md|Session: 2026-04-09]]
-- [[raw/2026/2026-04-03.md|Session: 2026-04-03]]
-- [[raw/2026/2026-03-19.md|Session: 2026-03-19]]
-- [[raw/2026/2026-03-12.md|Session: 2026-03-12]]
-- [[raw/2026/2026-03-05.md|Session: 2026-03-05]]
-- [[raw/2026/2026-02-26.md|Session: 2026-02-26]]
-- [[raw/2026/2026-02-19.md|Session: 2026-02-19]]
-- [[raw/2025/2025-06-19.md|Session: 2025-06-19]]
-- [[raw/2025/2025-03-06.md|Session: 2025-03-06]]
-- [[raw/2025/2025-01-30.md|Session: 2025-01-30]]
+- [[wiki/Sessions/2026/2026-09-10|Session: 2026-09-10]]
+- [[wiki/Sessions/2026/2026-09-24|Session: 2026-09-24]]
+- [[wiki/Sessions/2026/2026-10-01|Session: 2026-10-01]]
+- [[wiki/Sessions/2026/2026-09-03|Session: 2026-09-03]]
+- [[wiki/Sessions/2026/2026-08-27|Session: 2026-08-27]]
+- [[wiki/Sessions/2026/2026-08-13|Session: 2026-08-13]]
+- [[wiki/Sessions/2026/2026-08-06|Session: 2026-08-06]]
+- [[wiki/Sessions/2026/2026-07-23|Session: 2026-07-23]]
+- [[wiki/Sessions/2026/2026-07-16|Session: 2026-07-16]]
+- [[wiki/Sessions/2026/2026-07-09|Session: 2026-07-09]]
+- [[wiki/Sessions/2026/2026-06-25|Session: 2026-06-25]]
+- [[wiki/Sessions/2026/2026-06-11|Session: 2026-06-11]]
+- [[wiki/Sessions/2026/2026-05-28|Session: 2026-05-28]]
+- [[wiki/Sessions/2026/2026-05-21|Session: 2026-05-21]]
+- [[wiki/Sessions/2026/2026-05-14|Session: 2026-05-14]]
+- [[wiki/Sessions/2026/2026-05-07|Session: 2026-05-07]]
+- [[wiki/Sessions/2026/2026-04-30|Session: 2026-04-30]]
+- [[wiki/Sessions/2026/2026-04-23|Session: 2026-04-23]]
+- [[wiki/Sessions/2026/2026-04-11|Session: 2026-04-11]]
+- [[wiki/Sessions/2026/2026-04-09|Session: 2026-04-09]]
+- [[wiki/Sessions/2026/2026-04-03|Session: 2026-04-03]]
+- [[wiki/Sessions/2026/2026-03-19|Session: 2026-03-19]]
+- [[wiki/Sessions/2026/2026-03-12|Session: 2026-03-12]]
+- [[wiki/Sessions/2026/2026-03-05|Session: 2026-03-05]]
+- [[wiki/Sessions/2026/2026-02-26|Session: 2026-02-26]]
+- [[wiki/Sessions/2026/2026-02-19|Session: 2026-02-19]]
+- [[wiki/Sessions/2025/2025-06-19|Session: 2025-06-19]]
+- [[wiki/Sessions/2025/2025-03-06|Session: 2025-03-06]]
+- [[wiki/Sessions/2025/2025-01-30|Session: 2025-01-30]]

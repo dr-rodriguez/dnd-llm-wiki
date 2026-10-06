@@ -29,9 +29,9 @@ Key events:
 - **Combat Prowess:** He has demonstrated great strength in battle, such as walking through walls of cold fire and delivering decapitating blows to enemies while enraged.
 - **Equipment:** He was gifted the **Frost Iron Blade** by Alisha in September 2025.
 - **Diplomacy and Language:** Despite a "terrible" persuasion attempt once, he successfully used his knowledge of the Primordial dialect (Ingan) to communicate with entities in the depths of a constructed corridor.
-- **May 14, 2026:** Helped [[Characters#Aolis|Aolis]] free his hand from a [[wiki/Lore/Bestiary#Sticky Slime|Sticky Slime]]. Later, he rushed into a room humming with magic, falling over crates but initiating the party's investigation of the tower's dual anchor points.
+- **May 14, 2026:** Helped [[wiki/Characters/Aolis|Aolis]] free his hand from a [[wiki/Lore/Bestiary#Sticky Slime|Sticky Slime]]. Later, he rushed into a room humming with magic, falling over crates but initiating the party's investigation of the tower's dual anchor points.
 - **May 21, 2026:** Took significant damage from swarms of [[wiki/Lore/Bestiary#Cranium Rats|cranium rats]] during a tower battle. When encountering a mysterious [[wiki/Lore/Bestiary#Yellow Cloak (Figure)|figure in a yellow cloak]], he heard its discordant voices as the sound of a crackling fire.
-- **May 28, 2026:** Resisted an attempt by the [[wiki/Lore/Bestiary#ScionInYellow|Scion in Yellow]] to cast *Dominate Person*. During the chaotic battle in the Transcendent plane, he successfully took out a summoned **Blue Slaad**.
+- **May 28, 2026:** Resisted an attempt by the [[wiki/Lore/Bestiary#Scion in Yellow|Scion in Yellow]] to cast *Dominate Person*. During the chaotic battle in the Transcendent plane, he successfully took out a summoned **Blue Slaad**.
 - **June 11, 2026:** While wandering the halls of [[Characters#Sofia AI|Sofia AI]]'s facility, received a set of potions from [[Characters#Angela Nevermore|Nevermore]] to distribute to the party as advance payment for the next mission (clearing Anti-Air gun sites): a **Superior Healing Potion** for everyone, plus one additional potion each (Ogra gets **Potion of Resistance**).
 - **June 25, 2026:** Took heavy damage during the robot fight at the Anti-Air gun church site, but delivered the killing blow to the last robot, ending the combat.
 - **July 9, 2026:** Charged into the central-area room with the melee fighters, taking cover behind fallen pillars. Took heavy damage during the fight, prompting the party to consider a **Mass Cure Wounds**.
@@ -46,31 +46,31 @@ Key events:
 - **September 10, 2026:** **Raged and charged straight into [[wiki/Lore/Technology#Interrogator Units|Madasin]]'s riot control gas** while the rest of the party was blinded by it. She **attached a mind-control device to him**, turning him on [[Characters/Zinjaro|Zinjaro]] — he swung to hit and topple the cleric, **missed**, then **recovered and apologized**.
 - **September 24, 2026:** **Cut [[wiki/Lore/Technology#Interrogator Units|Madasin]] in half**, ending the airship fight. Carried off a fine rug for [[Characters/Zinjaro|Zinjaro]]. Passed out after **16 drinks** at the Tesselia Guild Hall. [[wiki/Sessions/2026/2026-09-24|Session]]
 
-- [[raw/2026/2026-08-20.md|Session: 2026-08-20]]
+- [[wiki/Sessions/2026/2026-08-20|Session: 2026-08-20]]
 ## Sources
-- [[raw/2026/2026-09-10.md|Session: 2026-09-10]]
-- [[raw/2026/2026-09-24.md|Session: 2026-09-24]]
-- [[raw/2026/2026-09-03.md|Session: 2026-09-03]]
-- [[raw/2026/2026-08-27.md|Session: 2026-08-27]]
-- [[raw/2026/2026-08-13.md|Session: 2026-08-13]]
-- [[raw/2026/2026-08-06.md|Session: 2026-08-06]]
-- [[raw/2026/2026-07-23.md|Session: 2026-07-23]]
-- [[raw/2026/2026-07-16.md|Session: 2026-07-16]]
-- [[raw/2026/2026-07-09.md|Session: 2026-07-09]]
-- [[raw/2026/2026-06-25.md|Session: 2026-06-25]]
-- [[raw/2026/2026-06-11.md|Session: 2026-06-11]]
-- [[raw/2026/2026-05-28.md|Session: 2026-05-28]]
-- [[raw/2026/2026-05-21.md|Session: 2026-05-21]]
-- [[raw/2026/2026-05-14.md|Session: 2026-05-14]]
-- [[raw/2026/2026-05-07.md|Session: 2026-05-07]]
-- [[raw/2026/2026-04-30.md|Session: 2026-04-30]]
-- [[raw/2026/2026-04-11.md|Session: 2026-04-11]]
-- [[raw/2026/2026-04-09.md|Session: 2026-04-09]]
-- [[raw/2026/2026-04-03.md|Session: 2026-04-03]]
-- [[raw/2026/2026-03-19.md|Session: 2026-03-19]]
-- [[raw/2026/2026-03-12.md|Session: 2026-03-12]]
-- [[raw/2026/2026-03-05.md|Session: 2026-03-05]]
-- [[raw/2026/2026-02-26.md|Session: 2026-02-26]]
-- [[raw/2026/2026-02-19.md|Session: 2026-02-19]]
-- [[raw/2025/2025-10-23.md|Session: 2025-10-23]]
-- [[raw/2025/2025-07-24.md|Session: 2025-07-24]]
+- [[wiki/Sessions/2026/2026-09-10|Session: 2026-09-10]]
+- [[wiki/Sessions/2026/2026-09-24|Session: 2026-09-24]]
+- [[wiki/Sessions/2026/2026-09-03|Session: 2026-09-03]]
+- [[wiki/Sessions/2026/2026-08-27|Session: 2026-08-27]]
+- [[wiki/Sessions/2026/2026-08-13|Session: 2026-08-13]]
+- [[wiki/Sessions/2026/2026-08-06|Session: 2026-08-06]]
+- [[wiki/Sessions/2026/2026-07-23|Session: 2026-07-23]]
+- [[wiki/Sessions/2026/2026-07-16|Session: 2026-07-16]]
+- [[wiki/Sessions/2026/2026-07-09|Session: 2026-07-09]]
+- [[wiki/Sessions/2026/2026-06-25|Session: 2026-06-25]]
+- [[wiki/Sessions/2026/2026-06-11|Session: 2026-06-11]]
+- [[wiki/Sessions/2026/2026-05-28|Session: 2026-05-28]]
+- [[wiki/Sessions/2026/2026-05-21|Session: 2026-05-21]]
+- [[wiki/Sessions/2026/2026-05-14|Session: 2026-05-14]]
+- [[wiki/Sessions/2026/2026-05-07|Session: 2026-05-07]]
+- [[wiki/Sessions/2026/2026-04-30|Session: 2026-04-30]]
+- [[wiki/Sessions/2026/2026-04-11|Session: 2026-04-11]]
+- [[wiki/Sessions/2026/2026-04-09|Session: 2026-04-09]]
+- [[wiki/Sessions/2026/2026-04-03|Session: 2026-04-03]]
+- [[wiki/Sessions/2026/2026-03-19|Session: 2026-03-19]]
+- [[wiki/Sessions/2026/2026-03-12|Session: 2026-03-12]]
+- [[wiki/Sessions/2026/2026-03-05|Session: 2026-03-05]]
+- [[wiki/Sessions/2026/2026-02-26|Session: 2026-02-26]]
+- [[wiki/Sessions/2026/2026-02-19|Session: 2026-02-19]]
+- [[wiki/Sessions/2025/2025-10-23|Session: 2025-10-23]]
+- [[wiki/Sessions/2025/2025-07-24|Session: 2025-07-24]]

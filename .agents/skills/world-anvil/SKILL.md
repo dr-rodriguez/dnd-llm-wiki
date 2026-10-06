@@ -23,7 +23,7 @@ description: Use this skill to convert any wiki page or section (sessions, chara
    - Cross-links to other World Anvil articles use `@[Article Name](article)`; names were left as plain text because the article titles are unknown.
 
 ## Conversion Rules (all page types)
-- **Drop:** YAML frontmatter, `## Sources` / `## References` sections, and every `[[raw/...]]` provenance link (including `[Source]` labels, and the surrounding sentence-final punctuation spacing should stay clean).
+- **Drop:** YAML frontmatter, `## Sources` / `## References` sections, and every provenance link, whether `[[raw/...]]` or a session citation like `[[wiki/Sessions/YYYY/YYYY-MM-DD|Session]]` (including `[Source]` labels, and the surrounding sentence-final punctuation spacing should stay clean).
 - **Wiki links:** `[[target|Label]]` → `Label`; `[[target]]` → last path segment without `#anchor`. Remove parenthetical or sentence-level "See [[...]]" cross-references entirely.
 - **Headings:** `#` → `[h1]`, `##` → `[h2]`, `###` → `[h3]`, `####` → `[h4]`. Close each tag.
 - **Emphasis:** `**x**` → `[b]x[/b]`, `*x*` → `[i]x[/i]`. Preserve existing emphasis exactly; add none. If link removal leaves bold around plain text, result is `[b]Label[/b]`.

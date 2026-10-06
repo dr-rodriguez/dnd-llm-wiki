@@ -18,4 +18,4 @@ While Cherish Day was already an established holiday, the party decided to enhan
 The party paraded through Wheat Burrows on the floating disk, tossing presents to the citizens, an event so successful that the town will speak about it for years.
 
 ***
-*Source: [[raw/2024/2024-08-22.md|Session 2024-08-22]]*
+*Source: [[wiki/Sessions/2024/2024-08-22|Session 2024-08-22]]*

@@ -28,7 +28,7 @@ They have crossed paths with the party repeatedly across the [[wiki/Quests/Drake
 
 | Name | Species | Class | Notes |
 | --- | --- | --- | --- |
-| **Maggie / Margarite (Margaret)** | Human | Arcane Trickster Rogue | Group's leader and negotiator. An **ancient [[wiki/Lore/Ancient History#The Anwey|Anwey]]** — grown in the past for organ replacement purposes. Wields ancient tech: a **phase knife**. Had been to Drakenweld before. |
+| **Maggie / Margarite (Margaret)** | Human | Arcane Trickster Rogue | Group's leader and negotiator. An **ancient [[wiki/Lore/Ancient History#The Anwey (or Anway)|Anwey]]** — grown in the past for organ replacement purposes. Wields ancient tech: a **phase knife**. Had been to Drakenweld before. |
 | **Melody** | Human (?) | Monk | Paralyzed alongside [[Characters/Ogra Oaksworn\|Ogra]] by Hold Person while exploring the keep. |
 | **Taylor** | Satyr | Twilight Domain Cleric | Cleric of **Lady Nora** (goddess of trickery and the night — possibly not a true god, her followers keep it vague). Also a chef. Uses Turn Undead and Twilight Sanctuary. Charges for her diamond dust. |
 | **Wendy** | Tiefling | Path of the Beast Barbarian | Her rage transforms her into something wendigo-like. |
@@ -76,17 +76,17 @@ This Maggie is **not** [[Characters#Maggie North|Maggie North]], the tiefling Ad
 - Their presence in the Tesselia facility (June 2026) has not been explained to the party.
 
 ## Sources
-- [[raw/2025/2025-06-12.md|Session: 2025-06-12]] (first meeting at The Gates)
-- [[raw/2025/2025-06-19.md|Session: 2025-06-19]] (shared camp, ghast fight, Maggie's phase knife)
-- [[raw/2025/2025-06-26.md|Session: 2025-06-26]] (Taylor petrified)
-- [[raw/2025/2025-07-03.md|Session: 2025-07-03]] (Melody held)
-- [[raw/2025/2025-07-17.md|Session: 2025-07-17]] (parting at the Drakenweld border)
-- [[raw/2025/2025-09-25.md|Session: 2025-09-25]] (reunion at the campfire)
-- [[raw/2025/2025-10-02.md|Session: 2025-10-02]] (Danyel, and the Anwey reveals)
-- [[raw/2025/2025-10-09.md|Session: 2025-10-09]] (rescue, diamond dust, departure)
-- [[raw/2026/2026-06-04.md|Session: 2026-06-04]] (seen in the Tesselia facility)
-- [[raw/2026/2026-08-13.md|Session: 2026-08-13]] (Maggie captured; the mechanical slate)
-- [[raw/2026/2026-09-03.md|Session: 2026-09-03]] (Maggie found under torture and freed by Maxim's bargain)
-- [[raw/2026/2026-09-10.md|Session: 2026-09-10]] (Maggie handed to B-Team; the slate summon and healing needles)
-- [[raw/2026/2026-09-24.md|Session: 2026-09-24]] (Maxim messages Wendy after the escape)
+- [[wiki/Sessions/2025/2025-06-12|Session: 2025-06-12]] (first meeting at The Gates)
+- [[wiki/Sessions/2025/2025-06-19|Session: 2025-06-19]] (shared camp, ghast fight, Maggie's phase knife)
+- [[wiki/Sessions/2025/2025-06-26|Session: 2025-06-26]] (Taylor petrified)
+- [[wiki/Sessions/2025/2025-07-03|Session: 2025-07-03]] (Melody held)
+- [[wiki/Sessions/2025/2025-07-17|Session: 2025-07-17]] (parting at the Drakenweld border)
+- [[wiki/Sessions/2025/2025-09-25|Session: 2025-09-25]] (reunion at the campfire)
+- [[wiki/Sessions/2025/2025-10-02|Session: 2025-10-02]] (Danyel, and the Anwey reveals)
+- [[wiki/Sessions/2025/2025-10-09|Session: 2025-10-09]] (rescue, diamond dust, departure)
+- [[wiki/Sessions/2026/2026-06-04|Session: 2026-06-04]] (seen in the Tesselia facility)
+- [[wiki/Sessions/2026/2026-08-13|Session: 2026-08-13]] (Maggie captured; the mechanical slate)
+- [[wiki/Sessions/2026/2026-09-03|Session: 2026-09-03]] (Maggie found under torture and freed by Maxim's bargain)
+- [[wiki/Sessions/2026/2026-09-10|Session: 2026-09-10]] (Maggie handed to B-Team; the slate summon and healing needles)
+- [[wiki/Sessions/2026/2026-09-24|Session: 2026-09-24]] (Maxim messages Wendy after the escape)
 - [[raw/DnD5e Sofia Campaign 2023 Characters_Locations - Characters.csv|Campaign Character Roster]] (band of five at The Gates)

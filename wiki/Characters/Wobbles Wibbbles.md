@@ -20,7 +20,7 @@ tags:
 | Player | Nick/Zar |
 
 ## Backstory/Events
-Wobbles Wibbbles is a kobold monk from **[[wiki/Locations/Locations#Drakenweld|Drakenweld]]**. He arrived in the region by boat along with **[[wiki/Characters/Zinjaro|Zinjaro]]**, **[[Characters#Aolis|Aolis]]**, and **Brambleberry**. Early in his journey, he insisted on participating in a horse race despite being a kobold; during the race, he famously chose to help the fallen Brambleberry instead of pursuing a win.
+Wobbles Wibbbles is a kobold monk from **[[wiki/Locations/Locations#Drakenweld|Drakenweld]]**. He arrived in the region by boat along with **[[wiki/Characters/Zinjaro|Zinjaro]]**, **[[wiki/Characters/Aolis|Aolis]]**, and [[wiki/Characters/Brambleberry|Brambleberry]]. Early in his journey, he insisted on participating in a horse race despite being a kobold; during the race, he famously chose to help the fallen Brambleberry instead of pursuing a win.
 
 During his adventures, Wobbles was briefly petrified by a Medusa in a dungeon but was restored by Zinjaro. He has mentioned a dark past, including a comment that his mother once tried to eat him. He also possesses knowledge of dragon lore, specifically remembering "The Signing of the Last Clutch," an ancient pact between humans and dragons.
 
@@ -41,4 +41,4 @@ In May 2025, while exploring a chateau, Wobbles discovered a **crystalline drago
 - [[wiki/Sessions/2025/2025-05-08|Session: 2025-05-08]]
 - [[wiki/Sessions/2025/2025-05-15|Session: 2025-05-15]]
 
-*Raw sources: [[raw/2025/2025-01-23.md|2025-01-23]], [[raw/2025/2025-01-30.md|2025-01-30]], [[raw/2025/2025-02-06.md|2025-02-06]], [[raw/2025/2025-02-13.md|2025-02-13]], [[raw/2025/2025-02-27.md|2025-02-27]], [[raw/2025/2025-03-06.md|2025-03-06]], [[raw/2025/2025-03-13.md|2025-03-13]], [[raw/2025/2025-04-10.md|2025-04-10]], [[raw/2025/2025-04-17.md|2025-04-17]], [[raw/2025/2025-04-24.md|2025-04-24]], [[raw/2025/2025-05-01.md|2025-05-01]], [[raw/2025/2025-05-08.md|2025-05-08]], [[raw/2025/2025-05-15.md|2025-05-15]]*
+*Raw sources: [[wiki/Sessions/2025/2025-01-23|2025-01-23]], [[wiki/Sessions/2025/2025-01-30|2025-01-30]], [[wiki/Sessions/2025/2025-02-06|2025-02-06]], [[wiki/Sessions/2025/2025-02-13|2025-02-13]], [[wiki/Sessions/2025/2025-02-27|2025-02-27]], [[wiki/Sessions/2025/2025-03-06|2025-03-06]], [[wiki/Sessions/2025/2025-03-13|2025-03-13]], [[wiki/Sessions/2025/2025-04-10|2025-04-10]], [[wiki/Sessions/2025/2025-04-17|2025-04-17]], [[wiki/Sessions/2025/2025-04-24|2025-04-24]], [[wiki/Sessions/2025/2025-05-01|2025-05-01]], [[wiki/Sessions/2025/2025-05-08|2025-05-08]], [[wiki/Sessions/2025/2025-05-15|2025-05-15]]*
