@@ -18,7 +18,7 @@ tags:
 | --- | --- |
 | Type | NPC (Ally) |
 | Species | AI |
-| Location | Underground facility (Facility 341-alpha) beneath [[Locations/Locations#Tesselia|Tesselia]] |
+| Location | Underground facility (Facility 341-alpha) beneath [[Locations/Locations#Tesselia\|Tesselia]] |
 
 Sofia is a **top-level, continent-scale AI** that oversees [[Locations/Locations#Andore|Andore]] from the ancient facility under Tesselia's castle. She ran the underground-facilities project ([[Lore/Major Projects#Project Molehill|Project Molehill]]) meant to carry the First through the planet's tectonic upheaval, while [[Characters/NPC/Odin AI|Odin AI]] ran the space-bound [[Lore/Major Projects#Project Horizon|Project Horizon]]. She is **shackled**. She treats [[Characters/NPC/Queen Tesselia|Queen Tesselia]] as her **Administrator**, which she needs in order to exist. Odin, her **ex-husband**, is trying to harvest her **AI core**. She appears as a hologram, at first wireframe, later solid blue and able to project hardlight, usually cast by a small skittering spider robot. See also [[Lore/Technology#AI Systems|AI Systems]].
 

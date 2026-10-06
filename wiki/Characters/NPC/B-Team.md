@@ -28,7 +28,7 @@ They have crossed paths with the party repeatedly across the [[Quests/Drakenweld
 
 | Name | Species | Class | Notes |
 | --- | --- | --- | --- |
-| **Maggie / Margarite (Margaret)** | Human | Arcane Trickster Rogue | Group's leader and negotiator. An **ancient [[Lore/Ancient History#The Anwey (or Anway)|Anwey]]** — grown in the past for organ replacement purposes. Wields ancient tech: a **phase knife**. Had been to Drakenweld before. |
+| **Maggie / Margarite (Margaret)** | Human | Arcane Trickster Rogue | Group's leader and negotiator. An **ancient [[Lore/Ancient History#The Anwey (or Anway)\|Anwey]]** — grown in the past for organ replacement purposes. Wields ancient tech: a **phase knife**. Had been to Drakenweld before. |
 | **Melody** | Human (?) | Monk | Paralyzed alongside [[Characters/PC/Ogra Oaksworn\|Ogra]] by Hold Person while exploring the keep. |
 | **Taylor** | Satyr | Twilight Domain Cleric | Cleric of **Lady Nora** (goddess of trickery and the night — possibly not a true god, her followers keep it vague). Also a chef. Uses Turn Undead and Twilight Sanctuary. Charges for her diamond dust. |
 | **Wendy** | Tiefling | Path of the Beast Barbarian | Her rage transforms her into something wendigo-like. |

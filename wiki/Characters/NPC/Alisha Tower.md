@@ -16,8 +16,8 @@ tags:
 | --- | --- |
 | Type | NPC (Ally) |
 | Species | Aasimar (passed as human until 2025-09-18) |
-| Title | Queen of [[Locations/Locations#Drakenweld|Drakenweld]] (as of October 2026) |
-| Location | [[Locations/Locations#Drakenweld|Drakenweld]] |
+| Title | Queen of [[Locations/Locations#Drakenweld\|Drakenweld]] (as of October 2026) |
+| Location | [[Locations/Locations#Drakenweld\|Drakenweld]] |
 
 Lady Alisha Tower is the daughter of Queen Elizabeth Tower, granddaughter of Margaret Tower, and daughter of **Arvin the Dragonslayer**. The Towers are the high-lords, effectively the emperors, of [[Locations/Locations#Drakenweld|Drakenweld]]. Alisha is a front-line demon hunter known as "the **Slayer**". She would rather fight the war than govern, which caused long friction with her mother. In 2025 she revealed she is an **Aasimar** and the **Sky Dancer**, as her father was before her. By October 2026 she was **Queen of Drakenweld**. See the [[Quests/Drakenweld Quest|Drakenweld Quest]].
 

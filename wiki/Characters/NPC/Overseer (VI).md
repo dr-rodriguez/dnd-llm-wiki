@@ -16,8 +16,8 @@ tags:
 | --- | --- |
 | Type | NPC (Uneasy ally) |
 | Species | VI/AI (Gen 3) |
-| Class | Chief [[Lore/Technology#Slave Drives|Slave Drive]] |
-| Location | Body left aboard the freight airship, bound for [[Locations/Locations#Tower Isle|Tower Isle]]. Its new core is with the party. |
+| Class | Chief [[Lore/Technology#Slave Drives\|Slave Drive]] |
+| Location | Body left aboard the freight airship, bound for [[Locations/Locations#Tower Isle\|Tower Isle]]. Its new core is with the party. |
 
 The Overseer is the chief of the clockwork **[[Lore/Technology#Slave Drives|Slave Drives]]** found around [[Locations/Locations#Tesselia|Tesselia]] in 2026. It sits somewhere between a VI and a full AI (see [[Lore/Technology#VI vs. AI|VI vs. AI]]), and [[Characters/NPC/Sofia AI|Sofia AI]] identified it as an ancient **Gen 3**. It claims to be **independent of all prior factions**: not [[Characters/NPC/Odin AI|Odin]]'s ally, though Odin's units outclass its own. It does not know Sofia. It is not the same being as **Mr. Manager**, the "Overseer" of [[Locations/Locations#Moren|Moren]].
 

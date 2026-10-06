@@ -189,11 +189,12 @@ All campaign sessions are logged in the `wiki/Sessions/` directory (one subfolde
 - [[Sessions/Extra Notes|Extra Notes]] - Scroll costs, material components, and notable gear.
 - [[Sessions/Level Up Notes-Ideas|Level Up Notes/Ideas]] - Character progression planning.
 
-### Base Tables
-- [[Base Tables/Characters.base|Characters]] - All characters by species, class, PC/NPC, player.
-- [[Base Tables/Sessions.base|Sessions]] - Session notes by date and year.
-- [[Base Tables/Quests.base|Quests]] - Quest notes.
-- [[Base Tables/Lore.base|Lore]] - Lore topic notes.
+### Tables
+- [[Tables/index|Tables Index]] - Overview of all tables and their views.
+- [[Tables/Characters.base|Characters]] - All characters by species, class, PC/NPC, player.
+- [[Tables/Sessions.base|Sessions]] - Session notes by date and year.
+- [[Tables/Quests.base|Quests]] - Quest notes.
+- [[Tables/Lore.base|Lore]] - Lore topic notes.
 
 ## Maintenance
 - [[log|Ingestion Log]]

@@ -13,11 +13,11 @@ As an AI assistant, you are focused on navigating, maintaining, and updating thi
   - `wiki/Characters/`: The `Characters.md` roster table, plus one page per character split by type: `wiki/Characters/PC/` for player characters and `wiki/Characters/NPC/` for notable NPCs (including `B-Team.md`, a group page). Minor NPCs live only as rows in `Characters.md`.
   - `wiki/Sessions/`: Year subfolders hold session notes; loose files here (`Extra Notes.md`, `Level Up Notes-Ideas.md`) are out-of-game reference notes.
   - `wiki/Images/`: Images embedded in wiki pages (and referenced by raw notes via `![[file.png]]`).
-  - `wiki/Base Tables/`: Obsidian Bases (`Characters.base`, `Quests.base`, `Lore.base`, `Sessions.base`) that list notes by their `type` property. They are driven by frontmatter, so keep properties correct rather than editing the bases.
+  - `wiki/Tables/`: `index.md` (lists each table and its views) plus Obsidian Bases (`Characters.base`, `Quests.base`, `Lore.base`, `Sessions.base`) that list notes by their `type` property. They are driven by frontmatter, so keep properties correct rather than editing the bases.
 - `.agents/skills/`: Contains specific skill instructions for Ingesting, Querying, and Linting the wiki.
 
 ## Note Types and Properties
-Every note in `wiki/` (except `index.md` and `log.md`) MUST start with YAML frontmatter that has a `type` property. The type follows the folder:
+Every note in `wiki/` (except `index.md` files and `log.md`) MUST start with YAML frontmatter that has a `type` property. The type follows the folder:
 
 | `type` | Folder | Extra properties |
 | --- | --- | --- |

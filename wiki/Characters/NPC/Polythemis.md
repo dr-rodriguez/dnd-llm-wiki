@@ -17,7 +17,7 @@ tags:
 | Type | NPC (Enemy, deceased) |
 | Species | Wolfman |
 | Class | Prophet |
-| Location | [[Locations/Locations#Southern Andore|Southern Andore]] |
+| Location | [[Locations/Locations#Southern Andore\|Southern Andore]] |
 
 Polythemis, "the **White Wolf**", was chief of the **Tunnelers**, one of the six clans of [[Locations/Locations#Southern Andore|Southern Andore]], and self-styled **prophet** of the rampant [[Characters#Athena AI|Athena AI]]. The Tunnelers found Athena and she depends on them, but she saw him only as a useful tool. The party killed him in December 2024.
 

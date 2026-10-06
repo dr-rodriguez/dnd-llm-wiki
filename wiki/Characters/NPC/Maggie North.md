@@ -17,7 +17,7 @@ tags:
 | Type | NPC (Quest-giver) |
 | Species | Tiefling |
 | Class | Guild Hall Leader |
-| Location | [[Locations/Locations#Adventurers Guild Hall|Adventurers Guild Hall]], [[Locations/Locations#Tesselia|Tesselia]] |
+| Location | [[Locations/Locations#Adventurers Guild Hall\|Adventurers Guild Hall]], [[Locations/Locations#Tesselia\|Tesselia]] |
 
 Maggie North is the tiefling who runs the Adventurers Guild hall in [[Locations/Locations#Tesselia|Tesselia]]. She is the party's contact and quest-giver, and other NPCs have called her the party's "handler". She is **not** the same person as Margaret/Maggie, leader of [[Characters/NPC/B-Team|B-Team]].
 

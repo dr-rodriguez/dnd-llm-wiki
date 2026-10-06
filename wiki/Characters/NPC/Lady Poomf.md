@@ -17,7 +17,7 @@ tags:
 | Type | NPC (Quest-giver) |
 | Species | Bird (bird-like person) |
 | Class | Guild Leader |
-| Location | Adventurers Guild, [[Locations/Locations#Helines|Helines]] |
+| Location | Adventurers Guild, [[Locations/Locations#Helines\|Helines]] |
 
 Lady Poomf is the bird-like leader of the Adventurers Guild in [[Locations/Locations#Helines|Helines]]. She gave out the jobs that became the [[Quests/Drakenweld Quest|Drakenweld Quest]] and the [[Quests/Tesselia Mission|Tesselia Mission]]. She has psychic power and some knowledge of [[Characters/PC/Maximus Arkelius|Maxim]]'s past, and she has used illusions to show up where her body is not.
 

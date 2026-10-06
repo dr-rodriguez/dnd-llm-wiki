@@ -16,8 +16,8 @@ tags:
 | --- | --- |
 | Type | NPC (Enemy) |
 | Species | Cybernetic robot |
-| Class | [[Lore/Technology#Interrogator Units|Interrogator Unit]] |
-| Location | Freight airship, bound for [[Locations/Locations#Tower Isle|Tower Isle]] |
+| Class | [[Lore/Technology#Interrogator Units\|Interrogator Unit]] |
+| Location | Freight airship, bound for [[Locations/Locations#Tower Isle\|Tower Isle]] |
 
 Madasin is one of the two female cybernetic **[[Lore/Technology#Interrogator Units|interrogator units]]** aboard the freight airship at the [[Locations/Locations#Tesselia|Tesselia]] docks. Her partner is **Riley**. They held Maggie of [[Characters/NPC/B-Team|B-Team]] and tortured her for the location of the Tesselia bunker. Madasin then held the elevator against the party in one of the campaign's hardest fights.
 

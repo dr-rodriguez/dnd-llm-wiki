@@ -41,7 +41,7 @@ description: Use this skill when a new source document is added to the `raw/` fo
      - Session notes: `year` (number) and `date` (`YYYY-MM-DD`, from the raw file name).
      - Character pages: `name`, `species`, `class`, `character-type` (`PC`/`NPC`), `player` (PCs only), `link` (leave empty).
      - When an ingest changes a character's species, class or player, update both the attribute table and the frontmatter.
-     - Never remove `type` from an existing page. The Base tables in `wiki/Base Tables/` depend on it.
+     - Never remove `type` from an existing page. The Base tables in `wiki/Tables/` depend on it.
    - **Internal Linking:** Ensure every major character, location, and lore concept is linked to its wiki page (e.g., `[[Characters/PC/Soren|Soren]]`) the first time it is mentioned in a session note or update.
    - **Tagging:** Add a `tags` field to the YAML frontmatter (after `type` and its properties). Tags should be character and location names mentioned in the document. Tags MUST be single words in PascalCase with no spaces or special characters (e.g., `MaggieNorth`, `LordlingsBordello`).
    - **Provenance:** Every update or new page MUST cite its source. Only session notes (and the loose reference notes in `wiki/Sessions/`) link to `raw/` (e.g., `[[raw/2024/2024-01-01.md|Source]]`). Every other page (characters, lore, quests, locations) cites the wiki session note instead (e.g., `[[Sessions/2024/2024-01-01|Session: 2024-01-01]]`), and links `raw/` only when no wiki page covers that source (e.g., the CSVs).

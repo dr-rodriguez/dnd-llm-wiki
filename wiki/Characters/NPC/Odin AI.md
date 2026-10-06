@@ -16,7 +16,7 @@ tags:
 | --- | --- |
 | Type | NPC (Enemy) |
 | Species | AI |
-| Location | Orbital station above [[Locations/Locations#Tower Isle|Tower Isle]] |
+| Location | Orbital station above [[Locations/Locations#Tower Isle\|Tower Isle]] |
 
 "Father" Odin (also "Operator Odin") is the AI behind **[[Lore/Major Projects#Project Horizon|Project Horizon]]**, the ancient plan to escape the dying planet into space. He is the counterpart, and **ex-husband**, of [[Characters/NPC/Sofia AI|Sofia AI]]. He wants to put the world back as it was **before "the end"** and to rebuild the old modern world. To do that he is trying to harvest Sofia's **AI core**, and his robot fleet laid siege to [[Locations/Locations#Tesselia|Tesselia]] from April to October 2026. Other AIs call him Father, and most have either joined him or been destroyed. He appears in the [[Lore/Technology#First Space and Second Space|Second Space]] as an older man with a scraggly beard. See also [[Lore/Technology#AI Systems|AI Systems]] and [[Lore/Technology#Odin's Demiplane|Odin's Demiplane]].
 

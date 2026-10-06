@@ -16,7 +16,7 @@ tags:
 | --- | --- |
 | Type | NPC (Ally) |
 | Species | Elf (wood elf) |
-| Location | Arkelius estate, [[Locations/Locations#Moren|Moren]] |
+| Location | Arkelius estate, [[Locations/Locations#Moren\|Moren]] |
 
 Lady Maxwella is [[Characters/PC/Maximus Arkelius|Maxim]]'s mother. She is a very tall (7–8 ft) wood elf and the lady of the wealthy Arkelius house in [[Locations/Locations#Moren|Moren]]. Maxim was nearly named after her, "but turns out he wasn't a girl". She has had four children, including a son sent north to look into the old forts. She is a powerful spellcaster who can cast *Banishment* at 9th level, and she seems to know **nothing of Maxim's real nature**. She is not related to Mayor Maxwell of [[Locations/Locations#Helines|Helines]].
 

@@ -22,7 +22,7 @@ description: Use this skill to perform periodic health checks on the wiki to mai
      - `session-note` pages have `year` and `date` that match the file name.
      - `character` pages have `name`, `species`, `class`, `character-type`, `player`, `link`. Values agree with the page's attribute table and the raw Characters CSV.
      - Quick check: `grep -L "^type:" -r wiki --include=*.md` lists notes missing a type (ignore `index.md` and `log.md`).
-   - **Base Tables:** `wiki/Base Tables/` still holds `Characters.base`, `Quests.base`, `Lore.base` and `Sessions.base`, and their filters use the current type names.
+   - **Tables:** `wiki/Tables/` still holds `Characters.base`, `Quests.base`, `Lore.base` and `Sessions.base`, and their filters use the current type names.
    - **Mangled Links:** Search for `]]]`, which marks a link damaged by a bad link update; restore the eaten character before it.
 4. **Resolve Issues:**
    - Fix broken links and integrate orphan pages.

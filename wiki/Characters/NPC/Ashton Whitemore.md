@@ -17,7 +17,7 @@ tags:
 | Type | NPC (Enemy, deceased) |
 | Species | Human |
 | Class | Regent |
-| Location | [[Locations/Locations#Tesselia|Tesselia]] |
+| Location | [[Locations/Locations#Tesselia\|Tesselia]] |
 
 Lord Ashton Whitemore was the acting **Regent** of Tesselia and father of the child [[Characters/NPC/Queen Tesselia|Queen Tesselia]]. He disliked the Adventurers Guild and was widely thought to be abusing his position. [[Characters/NPC/Angela Nevermore|Angela Nevermore]] plotted against him. He was the main villain of the campaign's first chapter and died in the throne room on 2024-04-04.
 
