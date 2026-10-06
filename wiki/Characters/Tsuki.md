@@ -25,7 +25,7 @@ Tsuki is a Tabaxi bard who joined the party during a period of instability in th
 Tsuki was instrumental in uncovering a plot at **Lordling's Bordello**, noticing a magical ring on **Amelia** that was later returned to the real **Emma**. After a period of retirement, she returned to the **Adventurer’s Guild** in April 2026. 
 
 ## Sources
-- [[wiki/Sessions/2024/2024-04-11|Session: 2024-04-11]]
-- [[wiki/Sessions/2026/2026-04-11|Session: 2026-04-11]]
+- [[Sessions/2024/2024-04-11|Session: 2024-04-11]]
+- [[Sessions/2026/2026-04-11|Session: 2026-04-11]]
 - [[Characters|Characters List]]
 ---

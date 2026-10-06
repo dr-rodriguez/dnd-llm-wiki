@@ -25,9 +25,9 @@ Nova is a Warforged paladin affectionately nicknamed **"Rez-bot"** for his abili
 Nova was a pillar of the group, often organizing morale-boosting events, such as a holiday festival and a wrestling match against a brown bear. He was killed during the final battle with the **Athena AI** when he was forcibly infected with a nanovirus and frozen in virtual space. 
 
 ## Sources
-- [[wiki/Sessions/2024/2024-08-22|Session: 2024-08-22]]
-- [[wiki/Sessions/2024/2024-09-19|Session: 2024-09-19]]
-- [[wiki/Sessions/2024/2024-11-07|Session: 2024-11-07]]
-- [[wiki/Sessions/2025/2025-01-09|Session: 2025-01-09]]
-- [[wiki/Sessions/2025/2025-01-16|Session: 2025-01-16]]
+- [[Sessions/2024/2024-08-22|Session: 2024-08-22]]
+- [[Sessions/2024/2024-09-19|Session: 2024-09-19]]
+- [[Sessions/2024/2024-11-07|Session: 2024-11-07]]
+- [[Sessions/2025/2025-01-09|Session: 2025-01-09]]
+- [[Sessions/2025/2025-01-16|Session: 2025-01-16]]
 ---

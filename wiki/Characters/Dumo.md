@@ -25,8 +25,8 @@ Dumo is a Tortle druid who retired from active adventuring on **2024-04-11** to 
 He was instrumental in underwater exploration, providing the party with **Water Breathing** and even turning into a shark to ferry his companions down to an underwater village. 
 
 ## Sources
-- [[wiki/Sessions/2023/2023-12-14|Session: 2023-12-14]]
-- [[wiki/Sessions/2024/2024-02-15|Session: 2024-02-15]]
-- [[wiki/Sessions/2024/2024-04-11|Session: 2024-04-11]]
+- [[Sessions/2023/2023-12-14|Session: 2023-12-14]]
+- [[Sessions/2024/2024-02-15|Session: 2024-02-15]]
+- [[Sessions/2024/2024-04-11|Session: 2024-04-11]]
 ---
 

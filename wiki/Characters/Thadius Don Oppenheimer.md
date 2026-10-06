@@ -23,25 +23,25 @@ tags:
 Thadius is a Giff from northern **Andore** who worked as a bounty hunter before joining the party as an affiliate of the **Adventurer's Guild**. His father was a blacksmith and tinkerer, which influenced his mechanical aptitude. As an Armorer Artificer, he utilized "guardian-style" armor and was a prolific crafter, creating an artificer camera (image-making device), a homunculus servant named **Zipsy**, and various explosives including nitroglycerin bombs and shotgun gauntlets.
 
 During his adventures, he was instrumental in several key missions:
-- In April 2025, he helped rescue [[wiki/Characters/Aolis|Aolis]] from the **Singing Mandrake** in **Moren**, breaking down a door and firing on **Brimstone** to alert the crew.
+- In April 2025, he helped rescue [[Characters/Aolis|Aolis]] from the **Singing Mandrake** in **Moren**, breaking down a door and firing on **Brimstone** to alert the crew.
 - In February 2026, he devised a plan to destroy a "techie" portal in a volcano ruins using his homunculus servant and nitroglycerin, successfully disabling summoning circles.
 - In March 2026, he worked on weaponizing yellow and red crystals found in a radioactive environment.
 
 Thadius died on April 3, 2026, during a confrontation with a radioactive dragon-like creature. He was tossed into a pool of green radioactive material and died instantly. Following his death, the player (Sonja) left the group.
 
 ## Sources
-- [[wiki/Sessions/2026/2026-04-03|Session: 2026-04-03]]
-- [[wiki/Sessions/2026/2026-03-19|Session: 2026-03-19]]
-- [[wiki/Sessions/2026/2026-03-12|Session: 2026-03-12]]
-- [[wiki/Sessions/2026/2026-02-26|Session: 2026-02-26]]
-- [[wiki/Sessions/2025/2025-11-20|Session: 2025-11-20]]
-- [[wiki/Sessions/2025/2025-10-30|Session: 2025-10-30]]
-- [[wiki/Sessions/2025/2025-05-08|Session: 2025-05-08]]
-- [[wiki/Sessions/2025/2025-04-24|Session: 2025-04-24]]
-- [[wiki/Sessions/2025/2025-04-10|Session: 2025-04-10]]
-- [[wiki/Sessions/2025/2025-03-06|Session: 2025-03-06]]
-- [[wiki/Sessions/2025/2025-02-27|Session: 2025-02-27]]
-- [[wiki/Sessions/2025/2025-01-23|Session: 2025-01-23]]
+- [[Sessions/2026/2026-04-03|Session: 2026-04-03]]
+- [[Sessions/2026/2026-03-19|Session: 2026-03-19]]
+- [[Sessions/2026/2026-03-12|Session: 2026-03-12]]
+- [[Sessions/2026/2026-02-26|Session: 2026-02-26]]
+- [[Sessions/2025/2025-11-20|Session: 2025-11-20]]
+- [[Sessions/2025/2025-10-30|Session: 2025-10-30]]
+- [[Sessions/2025/2025-05-08|Session: 2025-05-08]]
+- [[Sessions/2025/2025-04-24|Session: 2025-04-24]]
+- [[Sessions/2025/2025-04-10|Session: 2025-04-10]]
+- [[Sessions/2025/2025-03-06|Session: 2025-03-06]]
+- [[Sessions/2025/2025-02-27|Session: 2025-02-27]]
+- [[Sessions/2025/2025-01-23|Session: 2025-01-23]]
 - [[Characters|Characters List]]
 
-*Raw sources: [[wiki/Sessions/2025/2025-01-23|2025-01-23]], [[wiki/Sessions/2025/2025-02-27|2025-02-27]], [[wiki/Sessions/2025/2025-03-06|2025-03-06]], [[wiki/Sessions/2025/2025-04-10|2025-04-10]], [[wiki/Sessions/2025/2025-04-24|2025-04-24]], [[wiki/Sessions/2025/2025-05-08|2025-05-08]], [[wiki/Sessions/2025/2025-10-30|2025-10-30]], [[wiki/Sessions/2025/2025-11-20|2025-11-20]], [[wiki/Sessions/2026/2026-02-26|2026-02-26]], [[wiki/Sessions/2026/2026-03-12|2026-03-12]], [[wiki/Sessions/2026/2026-03-19|2026-03-19]], [[wiki/Sessions/2026/2026-04-03|2026-04-03]]*
+*Raw sources: [[Sessions/2025/2025-01-23|2025-01-23]], [[Sessions/2025/2025-02-27|2025-02-27]], [[Sessions/2025/2025-03-06|2025-03-06]], [[Sessions/2025/2025-04-10|2025-04-10]], [[Sessions/2025/2025-04-24|2025-04-24]], [[Sessions/2025/2025-05-08|2025-05-08]], [[Sessions/2025/2025-10-30|2025-10-30]], [[Sessions/2025/2025-11-20|2025-11-20]], [[Sessions/2026/2026-02-26|2026-02-26]], [[Sessions/2026/2026-03-12|2026-03-12]], [[Sessions/2026/2026-03-19|2026-03-19]], [[Sessions/2026/2026-04-03|2026-04-03]]*

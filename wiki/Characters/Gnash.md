@@ -20,13 +20,13 @@ tags:
 | Player | Nick/Zar |
 
 ## Backstory
-Gnash was an orphan Lizardfolk barbarian who joined the party after [[wiki/Characters/Idecca|Idecca]]'s disappearance. He was known for his physical prowess, most notably grappling a shark during an underwater mission. 
+Gnash was an orphan Lizardfolk barbarian who joined the party after [[Characters/Idecca|Idecca]]'s disappearance. He was known for his physical prowess, most notably grappling a shark during an underwater mission. 
 
-Tragically, Gnash was killed by **Ashton Whitemore (the Regent)**. His halberd now rests on a mantle in the **Adventurer’s Guild** as a memorial to his service. [[wiki/Characters/Soren|Soren]] later named a familiar "Gnashy" in his honor. 
+Tragically, Gnash was killed by **Ashton Whitemore (the Regent)**. His halberd now rests on a mantle in the **Adventurer’s Guild** as a memorial to his service. [[Characters/Soren|Soren]] later named a familiar "Gnashy" in his honor. 
 
 ## Sources
-- [[wiki/Sessions/2023/2023-11-16|Session: 2023-11-16]]
-- [[wiki/Sessions/2024/2024-02-15|Session: 2024-02-15]]
-- [[wiki/Sessions/2024/2024-04-11|Session: 2024-04-11]]
+- [[Sessions/2023/2023-11-16|Session: 2023-11-16]]
+- [[Sessions/2024/2024-02-15|Session: 2024-02-15]]
+- [[Sessions/2024/2024-04-11|Session: 2024-04-11]]
 - [[Characters|Characters List]]
 ---

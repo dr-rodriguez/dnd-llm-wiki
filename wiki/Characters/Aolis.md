@@ -24,15 +24,15 @@ Aolis, born as **Arete**, is the firstborn and heir to a **Matron Mother**, the 
 
 His departure from the Underdark had significant political ramifications, leading to the destruction of trade relations between the drow and the insect-folk (Thri-kreen), as the "Queen Below" suspected the insects of smuggling him out. During his escape, he was aided by an outrider named **Mikel**, who is believed to have been captured.
 
-Aolis arrived at the Adventurer's Guild via boat alongside [[wiki/Characters/Zinjaro|Zinjaro]], [[wiki/Characters/Brambleberry|Brambleberry]], and [[wiki/Characters/Wobbles Wibbbles|Wobbles]] in January 2025. He is a **Shadow Sorcerer** capable of summoning a **Hound of Ill Omen** and is proficient in **Athletics** and **Common Sign Language**.
+Aolis arrived at the Adventurer's Guild via boat alongside [[Characters/Zinjaro|Zinjaro]], [[Characters/Brambleberry|Brambleberry]], and [[Characters/Wobbles Wibbbles|Wobbles]] in January 2025. He is a **Shadow Sorcerer** capable of summoning a **Hound of Ill Omen** and is proficient in **Athletics** and **Common Sign Language**.
 
 ### Key Events
 - **Soul Emptiness:** During an encounter with a demon named **Brimstone** at the Mandrake tavern, Aolis was paralyzed and had something (possibly his soul) drawn out, leaving him feeling "emptier" and struggling with memory (2025-04-10).
-- **Bonding with Maxim:** Aolis shared a romantic connection with [[wiki/Characters/Maximus Arkelius|Maximus Arkelius]], which included sharing damage through magical bonding rings. However, their relationship was severely strained when Aolis broke his ring during a battle with a radioactive dragon to avoid sharing damage with a near-death Maxim (2026-04-03).
+- **Bonding with Maxim:** Aolis shared a romantic connection with [[Characters/Maximus Arkelius|Maximus Arkelius]], which included sharing damage through magical bonding rings. However, their relationship was severely strained when Aolis broke his ring during a battle with a radioactive dragon to avoid sharing damage with a near-death Maxim (2026-04-03).
 - **Tesselia Branding:** During an automaton siege in Tesselia, Aolis was captured and branded with an "Identity Profile" chip on his hand by cybernetic robots (2026-04-11).
-- **May 14, 2026:** While exploring a tower, Aolis touched a [[wiki/Lore/Bestiary#Sticky Slime|Sticky Slime]], getting his hand stuck and covered in a tingly clear film until freed by [[wiki/Characters/Ogra Oaksworn|Ogra]]. During a battle with [[wiki/Lore/Bestiary#Grell|Grell]], a **Wild Magic Surge** triggered by his *Inflict Wounds* spell made him 3 years younger. Later, he used **Dimension Door** to teleport himself and [[Characters/Maximus Arkelius|Maxim]] away from a dangerous [[wiki/Lore/Bestiary#Death Kiss|Death Kiss]].
-- **May 21, 2026:** Assisted in the battle against a [[wiki/Lore/Bestiary#Death Kiss|Death Kiss]] from outside a tower room. He used **Comprehend Languages** to help [[Characters/Maximus Arkelius|Maxim]] interpret the changing text in his yellow book. When encountering the [[wiki/Lore/Bestiary#Yellow Cloak (Figure)|figure in the yellow cloak]], the entity's discordant voices sounded to him like his mother and sisters screaming.
-- **May 28, 2026:** Engaged the [[wiki/Lore/Bestiary#Scion in Yellow|Scion in Yellow]] and summoned Slaads with a *Circle of Death*. This triggered a **Wild Magic Surge** that granted him resistance to all damage for a minute. During the battle, he was hit by a confused [[wiki/Characters/Villhelm Emberstoke|Villhelm]].
+- **May 14, 2026:** While exploring a tower, Aolis touched a [[Lore/Bestiary#Sticky Slime|Sticky Slime]], getting his hand stuck and covered in a tingly clear film until freed by [[Characters/Ogra Oaksworn|Ogra]]. During a battle with [[Lore/Bestiary#Grell|Grell]], a **Wild Magic Surge** triggered by his *Inflict Wounds* spell made him 3 years younger. Later, he used **Dimension Door** to teleport himself and [[Characters/Maximus Arkelius|Maxim]] away from a dangerous [[Lore/Bestiary#Death Kiss|Death Kiss]].
+- **May 21, 2026:** Assisted in the battle against a [[Lore/Bestiary#Death Kiss|Death Kiss]] from outside a tower room. He used **Comprehend Languages** to help [[Characters/Maximus Arkelius|Maxim]] interpret the changing text in his yellow book. When encountering the [[Lore/Bestiary#Yellow Cloak (Figure)|figure in the yellow cloak]], the entity's discordant voices sounded to him like his mother and sisters screaming.
+- **May 28, 2026:** Engaged the [[Lore/Bestiary#Scion in Yellow|Scion in Yellow]] and summoned Slaads with a *Circle of Death*. This triggered a **Wild Magic Surge** that granted him resistance to all damage for a minute. During the battle, he was hit by a confused [[Characters/Villhelm Emberstoke|Villhelm]].
 - **June 11, 2026:** A drow woman in [[Characters#Sofia AI|Sofia AI]]'s facility recognized Aolis but avoided eye contact - possibly tied to his mother's agents tracking him. During the rest, he was found napping in [[Characters/Brambleberry|Bramble]]'s room (a cuddle pile), then left with [[Characters/Maximus Arkelius|Maxim]] to discuss allegiances and the AIs. Received a **Potion of Growth** (enlarge effect) from [[Characters#Angela Nevermore|Nevermore]] as advance payment for the next mission.
 - **July 16, 2026:** Helped turn the tide of the central-area fight at the Anti-Air gun church site with several high-level **Witch Bolts**.
 - **July 23, 2026:** Boosted onto the obsidian plinth by [[Characters/Ogra Oaksworn|Ogra]], he cast **Comprehend Languages** to read the text ringing it — Draconic holy scripture naming no god. He then asked [[Characters/Maximus Arkelius|Maxim]] to catch him and jumped, only to be lowered gently by **Telekinesis**. He ran upstairs to warn Maxim of the incoming ship and **Dimension Doored** them both out as Odin's bombardment began.
@@ -40,39 +40,39 @@ Aolis arrived at the Adventurer's Guild via boat alongside [[wiki/Characters/Zin
 - **August 6, 2026:** Panicked when the wave dropped [[Characters/Maximus Arkelius|Maxim]] and [[Characters/Amber Lyre|Amber]], and ran to fetch help. The next morning he and Maxim stayed in their room and talked it through: Maxim said he is **happy here, with Aolis**, and neither of them wants power — Aolis ran from his inheritance, Maxim impersonated a middle child. He was present when [[Characters#Maxwella|Maxwella]] arrived and when she handed over the **Wand of Wonder**. **Leveled up to 13.**
 - **August 13, 2026:** Threw down bananas (**Goodberries**) from upstairs for [[Characters/Zinjaro|Zinjaro]] to distribute among the wounded [[B-Team]]. Summed up the party's approach to the alerted airship: *"Let's try not to keel over."*
 - **August 20, 2026:** **Stunned and blinded for a turn** by an enemy flashbang alongside [[Characters/Maximus Arkelius|Maxim]], then hit hard; retreated to hide under the ramp with Maxim.
-- **August 27, 2026:** Kept pace with the fleeing [[wiki/Lore/Technology#The Overseer (VI)|Overseer]] via **Misty Step**. Stepped on a hallway trap door and was shot by a deploying gun (a small, non-lethal wound). In the turret room fight his **lightning-tuned Sorcerous Burst** proved unusually **ineffective against the older robot models**. Was **picked up and thrown by a raging [[Characters/Ogra Oaksworn|Ogra]]**. Cast **Tidal Wave** to knock over the tank robot, and summoned his **Hound of Ill Omen** — now marked with **dark spots** from when he was shot.
-- **September 3, 2026:** Used his **Sentinel's Flask** to help patch up [[B-Team|Maggie]] after the [[wiki/Lore/Technology#Interrogator Units|interrogators]] released her. Was out ahead with [[Characters/Brambleberry|Brambleberry]] when an active chassis triggered combat and had to **Dash back** to shelter. [[Characters/Zinjaro|Zinjaro]] then spent **Divine Intervention** on a **Death Ward** for him.
-- **September 10, 2026:** Hurt by [[wiki/Lore/Technology#Interrogator Units|Madasin]]'s **blade dance**, which also **killed his Hound of Ill Omen**. Moved clear of the obscuring gas and **shot one of the riot control canisters**, dispersing part of the cloud.
-- **September 24, 2026:** Took a **tablet** from an estate room aboard the airship. Cast **Teleportation Circle** to bring the party to the Tesselia Guild Hall. His known destinations are the Helines and Tesselia Guild Halls, Maxim's House, and the "Home" and "His House" runes from [[B-Team|Lavelor]]. Studied the tablet with [[Characters/Maximus Arkelius|Maxim]]. [[wiki/Sessions/2026/2026-09-24|Session]]
+- **August 27, 2026:** Kept pace with the fleeing [[Lore/Technology#The Overseer (VI)|Overseer]] via **Misty Step**. Stepped on a hallway trap door and was shot by a deploying gun (a small, non-lethal wound). In the turret room fight his **lightning-tuned Sorcerous Burst** proved unusually **ineffective against the older robot models**. Was **picked up and thrown by a raging [[Characters/Ogra Oaksworn|Ogra]]**. Cast **Tidal Wave** to knock over the tank robot, and summoned his **Hound of Ill Omen** — now marked with **dark spots** from when he was shot.
+- **September 3, 2026:** Used his **Sentinel's Flask** to help patch up [[B-Team|Maggie]] after the [[Lore/Technology#Interrogator Units|interrogators]] released her. Was out ahead with [[Characters/Brambleberry|Brambleberry]] when an active chassis triggered combat and had to **Dash back** to shelter. [[Characters/Zinjaro|Zinjaro]] then spent **Divine Intervention** on a **Death Ward** for him.
+- **September 10, 2026:** Hurt by [[Lore/Technology#Interrogator Units|Madasin]]'s **blade dance**, which also **killed his Hound of Ill Omen**. Moved clear of the obscuring gas and **shot one of the riot control canisters**, dispersing part of the cloud.
+- **September 24, 2026:** Took a **tablet** from an estate room aboard the airship. Cast **Teleportation Circle** to bring the party to the Tesselia Guild Hall. His known destinations are the Helines and Tesselia Guild Halls, Maxim's House, and the "Home" and "His House" runes from [[B-Team|Lavelor]]. Studied the tablet with [[Characters/Maximus Arkelius|Maxim]]. [[Sessions/2026/2026-09-24|Session]]
 
-- [[wiki/Sessions/2026/2026-08-20|Session: 2026-08-20]]
-- **October 1, 2026:** Shared a room with [[Characters/Maximus Arkelius|Maxim]]; [[Characters#Maxwella|Maxwella]] suggested he **whip Maxim** to get him up earlier. Asked [[Characters#Angela Nevermore|Nevermore]] and Maggie why the siege ended, and about [[Characters/Amber Lyre|Amber]] (stable). [[wiki/Sessions/2026/2026-10-01|Session]]
+- [[Sessions/2026/2026-08-20|Session: 2026-08-20]]
+- **October 1, 2026:** Shared a room with [[Characters/Maximus Arkelius|Maxim]]; [[Characters#Maxwella|Maxwella]] suggested he **whip Maxim** to get him up earlier. Asked [[Characters#Angela Nevermore|Nevermore]] and Maggie why the siege ended, and about [[Characters/Amber Lyre|Amber]] (stable). [[Sessions/2026/2026-10-01|Session]]
 
 ## Sources
-- [[wiki/Sessions/2026/2026-09-10|Session: 2026-09-10]]
-- [[wiki/Sessions/2026/2026-09-24|Session: 2026-09-24]]
-- [[wiki/Sessions/2026/2026-10-01|Session: 2026-10-01]]
-- [[wiki/Sessions/2026/2026-09-03|Session: 2026-09-03]]
-- [[wiki/Sessions/2026/2026-08-27|Session: 2026-08-27]]
-- [[wiki/Sessions/2026/2026-08-13|Session: 2026-08-13]]
-- [[wiki/Sessions/2026/2026-08-06|Session: 2026-08-06]]
-- [[wiki/Sessions/2026/2026-07-23|Session: 2026-07-23]]
-- [[wiki/Sessions/2026/2026-07-16|Session: 2026-07-16]]
-- [[wiki/Sessions/2026/2026-06-11|Session: 2026-06-11]]
-- [[wiki/Sessions/2026/2026-05-28|Session: 2026-05-28]]
-- [[wiki/Sessions/2026/2026-05-21|Session: 2026-05-21]]
-- [[wiki/Sessions/2026/2026-05-14|Session: 2026-05-14]]
-- [[wiki/Sessions/2026/2026-05-07|Session: 2026-05-07]]
-- [[wiki/Sessions/2026/2026-04-30|Session: 2026-04-30]]
-- [[wiki/Sessions/2026/2026-04-11|Session: 2026-04-11]]
-- [[wiki/Sessions/2026/2026-04-03|Session: 2026-04-03]]
-- [[wiki/Sessions/2026/2026-03-19|Session: 2026-03-19]]
-- [[wiki/Sessions/2026/2026-03-12|Session: 2026-03-12]]
-- [[wiki/Sessions/2026/2026-03-05|Session: 2026-03-05]]
-- [[wiki/Sessions/2026/2026-02-19|Session: 2026-02-19]]
-- [[wiki/Sessions/2025/2025-05-01|Session: 2025-05-01]]
-- [[wiki/Sessions/2025/2025-02-13|Session: 2025-02-13]]
-- [[wiki/Sessions/2025/2025-01-30|Session: 2025-01-30]]
-- [[wiki/Sessions/2025/2025-04-10|Session: 2025-04-10]]
-- [[wiki/Sessions/2025/2025-06-05|Session: 2025-06-05]]
+- [[Sessions/2026/2026-09-10|Session: 2026-09-10]]
+- [[Sessions/2026/2026-09-24|Session: 2026-09-24]]
+- [[Sessions/2026/2026-10-01|Session: 2026-10-01]]
+- [[Sessions/2026/2026-09-03|Session: 2026-09-03]]
+- [[Sessions/2026/2026-08-27|Session: 2026-08-27]]
+- [[Sessions/2026/2026-08-13|Session: 2026-08-13]]
+- [[Sessions/2026/2026-08-06|Session: 2026-08-06]]
+- [[Sessions/2026/2026-07-23|Session: 2026-07-23]]
+- [[Sessions/2026/2026-07-16|Session: 2026-07-16]]
+- [[Sessions/2026/2026-06-11|Session: 2026-06-11]]
+- [[Sessions/2026/2026-05-28|Session: 2026-05-28]]
+- [[Sessions/2026/2026-05-21|Session: 2026-05-21]]
+- [[Sessions/2026/2026-05-14|Session: 2026-05-14]]
+- [[Sessions/2026/2026-05-07|Session: 2026-05-07]]
+- [[Sessions/2026/2026-04-30|Session: 2026-04-30]]
+- [[Sessions/2026/2026-04-11|Session: 2026-04-11]]
+- [[Sessions/2026/2026-04-03|Session: 2026-04-03]]
+- [[Sessions/2026/2026-03-19|Session: 2026-03-19]]
+- [[Sessions/2026/2026-03-12|Session: 2026-03-12]]
+- [[Sessions/2026/2026-03-05|Session: 2026-03-05]]
+- [[Sessions/2026/2026-02-19|Session: 2026-02-19]]
+- [[Sessions/2025/2025-05-01|Session: 2025-05-01]]
+- [[Sessions/2025/2025-02-13|Session: 2025-02-13]]
+- [[Sessions/2025/2025-01-30|Session: 2025-01-30]]
+- [[Sessions/2025/2025-04-10|Session: 2025-04-10]]
+- [[Sessions/2025/2025-06-05|Session: 2025-06-05]]
 

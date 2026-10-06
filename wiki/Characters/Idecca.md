@@ -20,8 +20,8 @@ tags:
 | Player | Zaz |
 
 ## Backstory
-Idecca was a Raccling sorcerer with a wild magic surge problem. During a session on **2023-11-16**, she vanished due to a wild magic surge, reappearing 7000 miles away from the party. She was subsequently replaced by [[wiki/Characters/Gnash|Gnash]]. 
+Idecca was a Raccling sorcerer with a wild magic surge problem. During a session on **2023-11-16**, she vanished due to a wild magic surge, reappearing 7000 miles away from the party. She was subsequently replaced by [[Characters/Gnash|Gnash]]. 
 
 ## Sources
-- [[wiki/Sessions/2023/2023-11-16|Session: 2023-11-16]]
+- [[Sessions/2023/2023-11-16|Session: 2023-11-16]]
 ---

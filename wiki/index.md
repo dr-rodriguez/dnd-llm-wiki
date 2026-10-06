@@ -6,20 +6,20 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 
 ### Core Information
 - [[Characters]] - List of PCs and NPCs encountered.
-- [[wiki/Locations/Locations|Locations]] - Key locations in the world of Andore and Drakenweld.
-- [[wiki/Lore/Lore|Lore]] - World history, deities, major projects, and technology.
-  - [[wiki/Lore/Ancient History|Ancient History]]
-  - [[wiki/Lore/Major Projects|Major Projects]]
-  - [[wiki/Lore/Deities and Religions|Deities and Religions]]
-  - [[wiki/Lore/Locations of Interest|Locations of Interest]]
-  - [[wiki/Lore/Technology|Technology]]
-  - [[wiki/Lore/Factions and Organizations|Factions and Organizations]]
-  - [[wiki/Lore/Bestiary|Bestiary]]
-- [[wiki/Quests/The Invention of Christmas|The Invention of Christmas]] - How the party created a new holiday tradition.
-- [[wiki/Quests/Quests|Quests]] - Current and past campaign objectives and missions.
-- [[wiki/Quests/Drakenweld Quest|Drakenweld Quest]] - Detailed overview of the party's journey north.
+- [[Locations/Locations|Locations]] - Key locations in the world of Andore and Drakenweld.
+- [[Lore/Lore|Lore]] - World history, deities, major projects, and technology.
+  - [[Lore/Ancient History|Ancient History]]
+  - [[Lore/Major Projects|Major Projects]]
+  - [[Lore/Deities and Religions|Deities and Religions]]
+  - [[Lore/Locations of Interest|Locations of Interest]]
+  - [[Lore/Technology|Technology]]
+  - [[Lore/Factions and Organizations|Factions and Organizations]]
+  - [[Lore/Bestiary|Bestiary]]
+- [[Quests/The Invention of Christmas|The Invention of Christmas]] - How the party created a new holiday tradition.
+- [[Quests/Quests|Quests]] - Current and past campaign objectives and missions.
+- [[Quests/Drakenweld Quest|Drakenweld Quest]] - Detailed overview of the party's journey north.
 - [[B-Team]] - The rival/allied band of five women met at The Gates.
-- [[wiki/Quests/Tesselia Mission|Tesselia Mission]] - Details on Lady Poomf's orders and the automaton siege.
+- [[Quests/Tesselia Mission|Tesselia Mission]] - Details on Lady Poomf's orders and the automaton siege.
 
 ### Major Characters
 - [[Characters/Soren|Soren]] - Aarakocra Bladesinger.
@@ -27,163 +27,163 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 - [[Characters/Villhelm Emberstoke|Villhelm Emberstoke]] - Dragonborn Monk.
 
 ### Other Character Pages
-- [[wiki/Characters/Amber Lyre|Amber Lyre]] - Changeling Bard (NPC).
-- [[wiki/Characters/Aolis|Aolis]] - Drow Shadow Sorcerer (PC).
-- [[wiki/Characters/Brambleberry|Brambleberry]] - Centaur (now Uma) Soulknife Rogue (PC).
-- [[wiki/Characters/Dumo|Dumo]] - Tortle Circle of Stars Druid (PC).
-- [[wiki/Characters/Gnash|Gnash]] - Lizardfolk Path of the Giant Barbarian (PC).
-- [[wiki/Characters/Idecca|Idecca]] - Raccling Wild Magic Sorcerer (PC).
-- [[wiki/Characters/Juneberry|Juneberry]] - Harengon Thief Rogue (PC).
-- [[wiki/Characters/Maximus Arkelius|Maximus Arkelius]] - Changeling Aberrant Sorcerer (PC).
-- [[wiki/Characters/Nova|Nova]] - Warforged Oath of the Crown Paladin (PC).
-- [[wiki/Characters/Ogra Oaksworn|Ogra Oaksworn]] - Bear Wild Tree Barbarian (PC).
-- [[wiki/Characters/Shar|Shar]] - Vulpin Hexblade Warlock (PC).
-- [[wiki/Characters/Soten|Soten]] - Raccling Radiant Soul Monk (PC).
-- [[wiki/Characters/Thadius Don Oppenheimer|Thadius Don Oppenheimer]] - Giff Armorer Artificer (PC).
-- [[wiki/Characters/Tririn Bronzepride|Tririn Bronzepride]] - Leonin Wild Magic Barbarian (PC).
-- [[wiki/Characters/Tsuki|Tsuki]] - Tabaxi College of Creation Bard (PC).
-- [[wiki/Characters/Wobbles Wibbbles|Wobbles Wibbbles]] - Kobold Way of the Ascendant Dragon Monk (PC).
+- [[Characters/Amber Lyre|Amber Lyre]] - Changeling Bard (NPC).
+- [[Characters/Aolis|Aolis]] - Drow Shadow Sorcerer (PC).
+- [[Characters/Brambleberry|Brambleberry]] - Centaur (now Uma) Soulknife Rogue (PC).
+- [[Characters/Dumo|Dumo]] - Tortle Circle of Stars Druid (PC).
+- [[Characters/Gnash|Gnash]] - Lizardfolk Path of the Giant Barbarian (PC).
+- [[Characters/Idecca|Idecca]] - Raccling Wild Magic Sorcerer (PC).
+- [[Characters/Juneberry|Juneberry]] - Harengon Thief Rogue (PC).
+- [[Characters/Maximus Arkelius|Maximus Arkelius]] - Changeling Aberrant Sorcerer (PC).
+- [[Characters/Nova|Nova]] - Warforged Oath of the Crown Paladin (PC).
+- [[Characters/Ogra Oaksworn|Ogra Oaksworn]] - Bear Wild Tree Barbarian (PC).
+- [[Characters/Shar|Shar]] - Vulpin Hexblade Warlock (PC).
+- [[Characters/Soten|Soten]] - Raccling Radiant Soul Monk (PC).
+- [[Characters/Thadius Don Oppenheimer|Thadius Don Oppenheimer]] - Giff Armorer Artificer (PC).
+- [[Characters/Tririn Bronzepride|Tririn Bronzepride]] - Leonin Wild Magic Barbarian (PC).
+- [[Characters/Tsuki|Tsuki]] - Tabaxi College of Creation Bard (PC).
+- [[Characters/Wobbles Wibbbles|Wobbles Wibbbles]] - Kobold Way of the Ascendant Dragon Monk (PC).
 
 ### Session Logs
 All campaign sessions are logged in the `wiki/Sessions/` directory (one subfolder per year). Complete chronological list (earliest first):
 
-- [[wiki/Sessions/2023/2023-10-18|2023-10-18]] *(First Session)*
-- [[wiki/Sessions/2023/2023-11-16|2023-11-16]]
-- [[wiki/Sessions/2023/2023-11-30|2023-11-30]]
-- [[wiki/Sessions/2023/2023-12-07|2023-12-07]]
-- [[wiki/Sessions/2023/2023-12-14|2023-12-14]]
-- [[wiki/Sessions/2023/2023-12-21|2023-12-21]]
-- [[wiki/Sessions/2024/2024-01-04|2024-01-04]]
-- [[wiki/Sessions/2024/2024-01-11|2024-01-11]]
-- [[wiki/Sessions/2024/2024-01-25|2024-01-25]]
-- [[wiki/Sessions/2024/2024-02-01|2024-02-01]]
-- [[wiki/Sessions/2024/2024-02-08|2024-02-08]]
-- [[wiki/Sessions/2024/2024-02-15|2024-02-15]]
-- [[wiki/Sessions/2024/2024-02-22|2024-02-22]]
-- [[wiki/Sessions/2024/2024-03-07|2024-03-07]]
-- [[wiki/Sessions/2024/2024-03-14|2024-03-14]]
-- [[wiki/Sessions/2024/2024-03-21|2024-03-21]]
-- [[wiki/Sessions/2024/2024-03-28|2024-03-28]]
-- [[wiki/Sessions/2024/2024-04-04|2024-04-04]]
-- [[wiki/Sessions/2024/2024-04-11|2024-04-11]]
-- [[wiki/Sessions/2024/2024-04-18|2024-04-18]]
-- [[wiki/Sessions/2024/2024-04-25|2024-04-25]]
-- [[wiki/Sessions/2024/2024-05-02|2024-05-02]]
-- [[wiki/Sessions/2024/2024-05-09|2024-05-09]]
-- [[wiki/Sessions/2024/2024-05-15|2024-05-15]]
-- [[wiki/Sessions/2024/2024-05-23|2024-05-23]]
-- [[wiki/Sessions/2024/2024-05-30|2024-05-30]]
-- [[wiki/Sessions/2024/2024-06-06|2024-06-06]]
-- [[wiki/Sessions/2024/2024-06-13|2024-06-13]]
-- [[wiki/Sessions/2024/2024-06-20|2024-06-20]]
-- [[wiki/Sessions/2024/2024-07-11|2024-07-11]]
-- [[wiki/Sessions/2024/2024-07-18|2024-07-18]]
-- [[wiki/Sessions/2024/2024-07-25|2024-07-25]]
-- [[wiki/Sessions/2024/2024-08-01|2024-08-01]]
-- [[wiki/Sessions/2024/2024-08-08|2024-08-08]]
-- [[wiki/Sessions/2024/2024-08-15|2024-08-15]]
-- [[wiki/Sessions/2024/2024-08-22|2024-08-22]]
-- [[wiki/Sessions/2024/2024-08-29|2024-08-29]]
-- [[wiki/Sessions/2024/2024-09-05|2024-09-05]]
-- [[wiki/Sessions/2024/2024-09-12|2024-09-12]]
-- [[wiki/Sessions/2024/2024-09-19|2024-09-19]]
-- [[wiki/Sessions/2024/2024-10-03|2024-10-03]]
-- [[wiki/Sessions/2024/2024-10-10|2024-10-10]]
-- [[wiki/Sessions/2024/2024-10-17|2024-10-17]]
-- [[wiki/Sessions/2024/2024-10-24|2024-10-24]]
-- [[wiki/Sessions/2024/2024-10-31|2024-10-31]]
-- [[wiki/Sessions/2024/2024-11-07|2024-11-07]]
-- [[wiki/Sessions/2024/2024-12-05|2024-12-05]]
-- [[wiki/Sessions/2024/2024-12-12|2024-12-12]]
-- [[wiki/Sessions/2025/2025-01-08|2025-01-08]]
-- [[wiki/Sessions/2025/2025-01-09|2025-01-09]]
-- [[wiki/Sessions/2025/2025-01-15|2025-01-15]]
-- [[wiki/Sessions/2025/2025-01-16|2025-01-16]]
-- [[wiki/Sessions/2025/2025-01-23|2025-01-23]]
-- [[wiki/Sessions/2025/2025-01-29|2025-01-29]]
-- [[wiki/Sessions/2025/2025-01-30|2025-01-30]]
-- [[wiki/Sessions/2025/2025-02-06|2025-02-06]]
-- [[wiki/Sessions/2025/2025-02-13|2025-02-13]]
-- [[wiki/Sessions/2025/2025-02-27|2025-02-27]]
-- [[wiki/Sessions/2025/2025-03-06|2025-03-06]]
-- [[wiki/Sessions/2025/2025-03-13|2025-03-13]]
-- [[wiki/Sessions/2025/2025-03-27|2025-03-27]]
-- [[wiki/Sessions/2025/2025-04-10|2025-04-10]]
-- [[wiki/Sessions/2025/2025-04-17|2025-04-17]]
-- [[wiki/Sessions/2025/2025-04-24|2025-04-24]]
-- [[wiki/Sessions/2025/2025-05-01|2025-05-01]]
-- [[wiki/Sessions/2025/2025-05-08|2025-05-08]]
-- [[wiki/Sessions/2025/2025-05-15|2025-05-15]]
-- [[wiki/Sessions/2025/2025-05-22|2025-05-22]]
-- [[wiki/Sessions/2025/2025-05-29|2025-05-29]]
-- [[wiki/Sessions/2025/2025-06-05|2025-06-05]]
-- [[wiki/Sessions/2025/2025-06-12|2025-06-12]]
-- [[wiki/Sessions/2025/2025-06-19|2025-06-19]]
-- [[wiki/Sessions/2025/2025-06-26|2025-06-26]]
-- [[wiki/Sessions/2025/2025-07-03|2025-07-03]]
-- [[wiki/Sessions/2025/2025-07-10|2025-07-10]]
-- [[wiki/Sessions/2025/2025-07-17|2025-07-17]]
-- [[wiki/Sessions/2025/2025-07-24|2025-07-24]]
-- [[wiki/Sessions/2025/2025-07-31|2025-07-31]]
-- [[wiki/Sessions/2025/2025-08-07|2025-08-07]]
-- [[wiki/Sessions/2025/2025-08-14|2025-08-14]]
-- [[wiki/Sessions/2025/2025-08-21|2025-08-21]]
-- [[wiki/Sessions/2025/2025-08-28|2025-08-28]]
-- [[wiki/Sessions/2025/2025-09-04|2025-09-04]]
-- [[wiki/Sessions/2025/2025-09-11|2025-09-11]]
-- [[wiki/Sessions/2025/2025-09-18|2025-09-18]]
-- [[wiki/Sessions/2025/2025-09-25|2025-09-25]]
-- [[wiki/Sessions/2025/2025-10-02|2025-10-02]]
-- [[wiki/Sessions/2025/2025-10-09|2025-10-09]]
-- [[wiki/Sessions/2025/2025-10-16|2025-10-16]]
-- [[wiki/Sessions/2025/2025-10-23|2025-10-23]]
-- [[wiki/Sessions/2025/2025-10-30|2025-10-30]]
-- [[wiki/Sessions/2025/2025-11-06|2025-11-06]]
-- [[wiki/Sessions/2025/2025-11-13|2025-11-13]]
-- [[wiki/Sessions/2025/2025-11-20|2025-11-20]]
-- [[wiki/Sessions/2025/2025-12-04|2025-12-04]]
-- [[wiki/Sessions/2025/2025-12-18|2025-12-18]]
-- [[wiki/Sessions/2026/2026-02-05|2026-02-05]]
-- [[wiki/Sessions/2026/2026-02-12|2026-02-12]]
-- [[wiki/Sessions/2026/2026-02-19|2026-02-19]]
-- [[wiki/Sessions/2026/2026-02-26|2026-02-26]]
-- [[wiki/Sessions/2026/2026-03-05|2026-03-05]]
-- [[wiki/Sessions/2026/2026-03-12|2026-03-12]]
-- [[wiki/Sessions/2026/2026-03-19|2026-03-19]]
-- [[wiki/Sessions/2026/2026-04-03|2026-04-03]]
-- [[wiki/Sessions/2026/2026-04-09|2026-04-09]]
-- [[wiki/Sessions/2026/2026-04-11|2026-04-11]]
-- [[wiki/Sessions/2026/2026-04-23|2026-04-23]]
-- [[wiki/Sessions/2026/2026-04-30|2026-04-30]]
-- [[wiki/Sessions/2026/2026-05-07|2026-05-07]]
-- [[wiki/Sessions/2026/2026-05-14|2026-05-14]]
-- [[wiki/Sessions/2026/2026-05-21|2026-05-21]]
-- [[wiki/Sessions/2026/2026-05-28|2026-05-28]]
-- [[wiki/Sessions/2026/2026-06-04|2026-06-04]]
-- [[wiki/Sessions/2026/2026-06-11|2026-06-11]]
-- [[wiki/Sessions/2026/2026-06-18|2026-06-18]]
-- [[wiki/Sessions/2026/2026-06-25|2026-06-25]]
-- [[wiki/Sessions/2026/2026-07-09|2026-07-09]]
-- [[wiki/Sessions/2026/2026-07-16|2026-07-16]]
-- [[wiki/Sessions/2026/2026-07-23|2026-07-23]]
-- [[wiki/Sessions/2026/2026-08-06|2026-08-06]]
-- [[wiki/Sessions/2026/2026-08-13|2026-08-13]]
-- [[wiki/Sessions/2026/2026-08-20|2026-08-20]]
-- [[wiki/Sessions/2026/2026-08-27|2026-08-27]]
-- [[wiki/Sessions/2026/2026-09-03|2026-09-03]]
-- [[wiki/Sessions/2026/2026-09-10|2026-09-10]]
-- [[wiki/Sessions/2026/2026-09-24|2026-09-24]]
-- [[wiki/Sessions/2026/2026-10-01|2026-10-01]] *(Latest Session)*
+- [[Sessions/2023/2023-10-18|2023-10-18]] *(First Session)*
+- [[Sessions/2023/2023-11-16|2023-11-16]]
+- [[Sessions/2023/2023-11-30|2023-11-30]]
+- [[Sessions/2023/2023-12-07|2023-12-07]]
+- [[Sessions/2023/2023-12-14|2023-12-14]]
+- [[Sessions/2023/2023-12-21|2023-12-21]]
+- [[Sessions/2024/2024-01-04|2024-01-04]]
+- [[Sessions/2024/2024-01-11|2024-01-11]]
+- [[Sessions/2024/2024-01-25|2024-01-25]]
+- [[Sessions/2024/2024-02-01|2024-02-01]]
+- [[Sessions/2024/2024-02-08|2024-02-08]]
+- [[Sessions/2024/2024-02-15|2024-02-15]]
+- [[Sessions/2024/2024-02-22|2024-02-22]]
+- [[Sessions/2024/2024-03-07|2024-03-07]]
+- [[Sessions/2024/2024-03-14|2024-03-14]]
+- [[Sessions/2024/2024-03-21|2024-03-21]]
+- [[Sessions/2024/2024-03-28|2024-03-28]]
+- [[Sessions/2024/2024-04-04|2024-04-04]]
+- [[Sessions/2024/2024-04-11|2024-04-11]]
+- [[Sessions/2024/2024-04-18|2024-04-18]]
+- [[Sessions/2024/2024-04-25|2024-04-25]]
+- [[Sessions/2024/2024-05-02|2024-05-02]]
+- [[Sessions/2024/2024-05-09|2024-05-09]]
+- [[Sessions/2024/2024-05-15|2024-05-15]]
+- [[Sessions/2024/2024-05-23|2024-05-23]]
+- [[Sessions/2024/2024-05-30|2024-05-30]]
+- [[Sessions/2024/2024-06-06|2024-06-06]]
+- [[Sessions/2024/2024-06-13|2024-06-13]]
+- [[Sessions/2024/2024-06-20|2024-06-20]]
+- [[Sessions/2024/2024-07-11|2024-07-11]]
+- [[Sessions/2024/2024-07-18|2024-07-18]]
+- [[Sessions/2024/2024-07-25|2024-07-25]]
+- [[Sessions/2024/2024-08-01|2024-08-01]]
+- [[Sessions/2024/2024-08-08|2024-08-08]]
+- [[Sessions/2024/2024-08-15|2024-08-15]]
+- [[Sessions/2024/2024-08-22|2024-08-22]]
+- [[Sessions/2024/2024-08-29|2024-08-29]]
+- [[Sessions/2024/2024-09-05|2024-09-05]]
+- [[Sessions/2024/2024-09-12|2024-09-12]]
+- [[Sessions/2024/2024-09-19|2024-09-19]]
+- [[Sessions/2024/2024-10-03|2024-10-03]]
+- [[Sessions/2024/2024-10-10|2024-10-10]]
+- [[Sessions/2024/2024-10-17|2024-10-17]]
+- [[Sessions/2024/2024-10-24|2024-10-24]]
+- [[Sessions/2024/2024-10-31|2024-10-31]]
+- [[Sessions/2024/2024-11-07|2024-11-07]]
+- [[Sessions/2024/2024-12-05|2024-12-05]]
+- [[Sessions/2024/2024-12-12|2024-12-12]]
+- [[Sessions/2025/2025-01-08|2025-01-08]]
+- [[Sessions/2025/2025-01-09|2025-01-09]]
+- [[Sessions/2025/2025-01-15|2025-01-15]]
+- [[Sessions/2025/2025-01-16|2025-01-16]]
+- [[Sessions/2025/2025-01-23|2025-01-23]]
+- [[Sessions/2025/2025-01-29|2025-01-29]]
+- [[Sessions/2025/2025-01-30|2025-01-30]]
+- [[Sessions/2025/2025-02-06|2025-02-06]]
+- [[Sessions/2025/2025-02-13|2025-02-13]]
+- [[Sessions/2025/2025-02-27|2025-02-27]]
+- [[Sessions/2025/2025-03-06|2025-03-06]]
+- [[Sessions/2025/2025-03-13|2025-03-13]]
+- [[Sessions/2025/2025-03-27|2025-03-27]]
+- [[Sessions/2025/2025-04-10|2025-04-10]]
+- [[Sessions/2025/2025-04-17|2025-04-17]]
+- [[Sessions/2025/2025-04-24|2025-04-24]]
+- [[Sessions/2025/2025-05-01|2025-05-01]]
+- [[Sessions/2025/2025-05-08|2025-05-08]]
+- [[Sessions/2025/2025-05-15|2025-05-15]]
+- [[Sessions/2025/2025-05-22|2025-05-22]]
+- [[Sessions/2025/2025-05-29|2025-05-29]]
+- [[Sessions/2025/2025-06-05|2025-06-05]]
+- [[Sessions/2025/2025-06-12|2025-06-12]]
+- [[Sessions/2025/2025-06-19|2025-06-19]]
+- [[Sessions/2025/2025-06-26|2025-06-26]]
+- [[Sessions/2025/2025-07-03|2025-07-03]]
+- [[Sessions/2025/2025-07-10|2025-07-10]]
+- [[Sessions/2025/2025-07-17|2025-07-17]]
+- [[Sessions/2025/2025-07-24|2025-07-24]]
+- [[Sessions/2025/2025-07-31|2025-07-31]]
+- [[Sessions/2025/2025-08-07|2025-08-07]]
+- [[Sessions/2025/2025-08-14|2025-08-14]]
+- [[Sessions/2025/2025-08-21|2025-08-21]]
+- [[Sessions/2025/2025-08-28|2025-08-28]]
+- [[Sessions/2025/2025-09-04|2025-09-04]]
+- [[Sessions/2025/2025-09-11|2025-09-11]]
+- [[Sessions/2025/2025-09-18|2025-09-18]]
+- [[Sessions/2025/2025-09-25|2025-09-25]]
+- [[Sessions/2025/2025-10-02|2025-10-02]]
+- [[Sessions/2025/2025-10-09|2025-10-09]]
+- [[Sessions/2025/2025-10-16|2025-10-16]]
+- [[Sessions/2025/2025-10-23|2025-10-23]]
+- [[Sessions/2025/2025-10-30|2025-10-30]]
+- [[Sessions/2025/2025-11-06|2025-11-06]]
+- [[Sessions/2025/2025-11-13|2025-11-13]]
+- [[Sessions/2025/2025-11-20|2025-11-20]]
+- [[Sessions/2025/2025-12-04|2025-12-04]]
+- [[Sessions/2025/2025-12-18|2025-12-18]]
+- [[Sessions/2026/2026-02-05|2026-02-05]]
+- [[Sessions/2026/2026-02-12|2026-02-12]]
+- [[Sessions/2026/2026-02-19|2026-02-19]]
+- [[Sessions/2026/2026-02-26|2026-02-26]]
+- [[Sessions/2026/2026-03-05|2026-03-05]]
+- [[Sessions/2026/2026-03-12|2026-03-12]]
+- [[Sessions/2026/2026-03-19|2026-03-19]]
+- [[Sessions/2026/2026-04-03|2026-04-03]]
+- [[Sessions/2026/2026-04-09|2026-04-09]]
+- [[Sessions/2026/2026-04-11|2026-04-11]]
+- [[Sessions/2026/2026-04-23|2026-04-23]]
+- [[Sessions/2026/2026-04-30|2026-04-30]]
+- [[Sessions/2026/2026-05-07|2026-05-07]]
+- [[Sessions/2026/2026-05-14|2026-05-14]]
+- [[Sessions/2026/2026-05-21|2026-05-21]]
+- [[Sessions/2026/2026-05-28|2026-05-28]]
+- [[Sessions/2026/2026-06-04|2026-06-04]]
+- [[Sessions/2026/2026-06-11|2026-06-11]]
+- [[Sessions/2026/2026-06-18|2026-06-18]]
+- [[Sessions/2026/2026-06-25|2026-06-25]]
+- [[Sessions/2026/2026-07-09|2026-07-09]]
+- [[Sessions/2026/2026-07-16|2026-07-16]]
+- [[Sessions/2026/2026-07-23|2026-07-23]]
+- [[Sessions/2026/2026-08-06|2026-08-06]]
+- [[Sessions/2026/2026-08-13|2026-08-13]]
+- [[Sessions/2026/2026-08-20|2026-08-20]]
+- [[Sessions/2026/2026-08-27|2026-08-27]]
+- [[Sessions/2026/2026-09-03|2026-09-03]]
+- [[Sessions/2026/2026-09-10|2026-09-10]]
+- [[Sessions/2026/2026-09-24|2026-09-24]]
+- [[Sessions/2026/2026-10-01|2026-10-01]] *(Latest Session)*
 
 ### Reference Notes
-- [[wiki/Sessions/Extra Notes|Extra Notes]] - Scroll costs, material components, and notable gear.
-- [[wiki/Sessions/Level Up Notes-Ideas|Level Up Notes/Ideas]] - Character progression planning.
+- [[Sessions/Extra Notes|Extra Notes]] - Scroll costs, material components, and notable gear.
+- [[Sessions/Level Up Notes-Ideas|Level Up Notes/Ideas]] - Character progression planning.
 
 ### Base Tables
-- [[wiki/Base Tables/Characters.base|Characters]] - All characters by species, class, PC/NPC, player.
-- [[wiki/Base Tables/Sessions.base|Sessions]] - Session notes by date and year.
-- [[wiki/Base Tables/Quests.base|Quests]] - Quest notes.
-- [[wiki/Base Tables/Lore.base|Lore]] - Lore topic notes.
+- [[Base Tables/Characters.base|Characters]] - All characters by species, class, PC/NPC, player.
+- [[Base Tables/Sessions.base|Sessions]] - Session notes by date and year.
+- [[Base Tables/Quests.base|Quests]] - Quest notes.
+- [[Base Tables/Lore.base|Lore]] - Lore topic notes.
 
 ## Maintenance
 - [[log|Ingestion Log]]

@@ -9,7 +9,7 @@ As an AI assistant, you are focused on navigating, maintaining, and updating thi
   - `wiki/Sessions/YYYY/`: Session summaries, organized into year-based subdirectories mirroring `raw/` (e.g., `wiki/Sessions/2024/2024-01-04.md`).
   - `wiki/Quests/`: Quest overview (`Quests.md`) and detailed quest/mission pages.
   - `wiki/Locations/`: Locations hub (`Locations.md`).
-  - `wiki/Lore/`: Lore hub (`Lore.md`) plus one note per topic (Ancient History, Major Projects, Deities and Religions, Locations of Interest, Technology, Factions and Organizations, Bestiary). Link entries as `[[wiki/Lore/Technology#Slave Drives|Slave Drives]]`.
+  - `wiki/Lore/`: Lore hub (`Lore.md`) plus one note per topic (Ancient History, Major Projects, Deities and Religions, Locations of Interest, Technology, Factions and Organizations, Bestiary). Link entries as `[[Technology#Slave Drives|Slave Drives]]`.
   - `wiki/Characters/`: One page per character, plus the `Characters.md` roster table and `B-Team.md` (group page).
   - `wiki/Sessions/`: Year subfolders hold session notes; loose files here (`Extra Notes.md`, `Level Up Notes-Ideas.md`) are out-of-game reference notes.
   - `wiki/Images/`: Images embedded in wiki pages (and referenced by raw notes via `![[file.png]]`).
@@ -63,15 +63,17 @@ Every note in `wiki/` (except `index.md` and `log.md`) MUST start with YAML fron
 ## Provenance and Linking
 To maintain the wiki as a reliable knowledge base, every claim or significant piece of information in the `wiki/` directory MUST be linked back to its original source in `raw/`.
 - Use Obsidian-style links: `[[raw/2024/2024-01-01.md|Source]]`.
-- Point at wiki content first. Only session notes (and loose reference notes in `wiki/Sessions/`, plus a character page's own original bio) link to `raw/`. Character, lore, quest, and location pages cite the wiki session note instead: `[[wiki/Sessions/2024/2024-01-01|Session: 2024-01-01]]`. Link `raw/` only when no wiki page covers that source (e.g., the Characters/Locations CSVs).
+- Point at wiki content first. Only session notes (and loose reference notes in `wiki/Sessions/`, plus a character page's own original bio) link to `raw/`. Character, lore, quest, and location pages cite the wiki session note instead: `[[Sessions/2024/2024-01-01|Session: 2024-01-01]]`. Link `raw/` only when no wiki page covers that source (e.g., the Characters/Locations CSVs).
 - For entity pages (e.g., a character or location), include a "Sources" section listing all relevant source documents.
 - For specific claims or session summaries, provide inline citations or a list of references at the bottom of the page.
 
 ## Internal Linking
 To create a densely interconnected knowledge base:
 - Every time a major character, location, or lore concept is mentioned for the first time in a page, it MUST be linked to its corresponding wiki page.
-- Use the format `[[EntityName]]` or `[[wiki/Sessions/YYYY/YYYY-MM-DD|YYYY-MM-DD]]`.
-- If an entity is in a subdirectory, use the full path: `[[wiki/Characters/Soren|Soren]]`.
+- Never start a link target with `wiki/`. The website is built with `wiki/` as its root, so `wiki/`-prefixed links break there.
+- For a note whose name is unique across the whole vault (characters, lore, quests, locations), a bare name is fine: `[[Soren]]`, `[[Technology#Slave Drives|Slave Drives]]`.
+- For a note whose name also exists in `raw/` (all session notes, `Extra Notes`, `Level Up Notes-Ideas`), use the path relative to `wiki/`: `[[Sessions/YYYY/YYYY-MM-DD|YYYY-MM-DD]]`, e.g. `[[Sessions/2024/2024-01-01|Session: 2024-01-01]]`.
+- When unsure, the path relative to `wiki/` is always acceptable: `[[Characters/Soren|Soren]]`.
 
 ## Core Workflows
 1. **Ingest**: Read new sources in `raw/` and integrate their information into `wiki/`. Source documents remain in `raw/` as the permanent source of truth.

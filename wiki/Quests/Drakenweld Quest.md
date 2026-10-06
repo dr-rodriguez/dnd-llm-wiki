@@ -4,7 +4,7 @@ type: quest
 
 # The Drakenweld Quest
 
-The journey north from **[[wiki/Locations/Locations#Helines|Helines]]** to **[[wiki/Locations/Locations#Drakenweld|Drakenweld]]** is a major campaign arc that began in mid-2025.
+The journey north from **[[Locations/Locations#Helines|Helines]]** to **[[Locations/Locations#Drakenweld|Drakenweld]]** is a major campaign arc that began in mid-2025.
 
 ## Origins and Quest Giver
 The quest was officially assigned by **[[Characters#Lady Poomf|Lady Poomf]]**, the bird-like Guild Leader of the Adventurer's Guild in Helines. In early 2025, she briefed the party on several concerns, including the disappearance of **[[Characters#Mayor Maxwell|Mayor Maxwell]]** and the discovery of ancient technology brought by "Island Dwellers" like **Nock** and **Screeck**.
@@ -16,16 +16,16 @@ The quest was officially assigned by **[[Characters#Lady Poomf|Lady Poomf]]**, t
 
 ## Timeline
 *   **January 2025:** The party receives initial briefings from *Lady Poomf* in *Helines*.
-*   **June 2025:** The party officially sets off north, passing through the **[[wiki/Locations/Locations#The Gates|The Gates]]** into the **[[wiki/Locations/Locations#The Wastes|The Wastes]]**.
+*   **June 2025:** The party officially sets off north, passing through the **[[Locations/Locations#The Gates|The Gates]]** into the **[[Locations/Locations#The Wastes|The Wastes]]**.
 *   **October 2025:** The "Drakenweld Excursion" phase begins in earnest.
-*   **February 2026:** The party learns of the "rot" afflicting the region ([[wiki/Sessions/2026/2026-02-12|Source]], [[wiki/Sessions/2026/2026-02-26|Source]]).
-*   **April 2026:** The party defeats a radioactive dragon in a volcanic caldera, then continues on to Tesselia ([[wiki/Sessions/2026/2026-04-03|Source]]).
+*   **February 2026:** The party learns of the "rot" afflicting the region ([[Sessions/2026/2026-02-12|Source]], [[Sessions/2026/2026-02-26|Source]]).
+*   **April 2026:** The party defeats a radioactive dragon in a volcanic caldera, then continues on to Tesselia ([[Sessions/2026/2026-04-03|Source]]).
 
 ## Key Locations
-*   **[[wiki/Locations/Locations#Helines|Helines]]:** The starting city and gateway to the north.
-*   **[[wiki/Locations/Locations#The Wastes|The Wastes]]:** A depopulated region between Helines and the mountains, filled with ruins.
-*   **[[wiki/Locations/Locations#Drakenweld|Drakenweld]]:** The northern destination, characterized by extreme cold and volcanic activity.
+*   **[[Locations/Locations#Helines|Helines]]:** The starting city and gateway to the north.
+*   **[[Locations/Locations#The Wastes|The Wastes]]:** A depopulated region between Helines and the mountains, filled with ruins.
+*   **[[Locations/Locations#Drakenweld|Drakenweld]]:** The northern destination, characterized by extreme cold and volcanic activity.
 
 ***
-*Source: [[wiki/Sessions/2025/2025-01-15|Session 2025-01-15]], [[wiki/Sessions/2025/2025-02-13|Session 2025-02-13]], [[wiki/Sessions/2025/2025-06-12|Session 2025-06-12]], [[wiki/Quests/Quests|Quests]]*
+*Source: [[Sessions/2025/2025-01-15|Session 2025-01-15]], [[Sessions/2025/2025-02-13|Session 2025-02-13]], [[Sessions/2025/2025-06-12|Session 2025-06-12]], [[Quests/Quests|Quests]]*
 
