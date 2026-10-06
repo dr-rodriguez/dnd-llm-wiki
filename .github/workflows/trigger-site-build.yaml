@@ -1,0 +1,20 @@
+name: Trigger site rebuild
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "wiki/**"
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify ttrpg-terra
+        env:
+          GH_TOKEN: ${{ secrets.QUARTZ_DISPATCH_TOKEN }}
+        run: gh api repos/dr-rodriguez/ttrpg-terra/dispatches -f event_type=wiki-updated
