@@ -57,3 +57,4 @@
 | 2026-10-06 | (Lint) | Escaped `|` in wiki links inside table rows (18 links in 13 `Characters/NPC/` pages: the new NPC attribute tables plus one in `B-Team.md`); unescaped pipes split the cell and broke the links. |
 | 2026-10-06 | (Maintenance) | Renamed `wiki/Base Tables/` to `wiki/Tables/`; updated links in `index.md`, plus `AGENTS.md` and the ingest, lint and world-anvil skills. |
 | 2026-10-06 | (Maintenance) | Created `wiki/Tables/index.md`, which lists the four Bases with what each holds and its views, and linked it from `index.md`. Updated `AGENTS.md`: folder `index.md` pages carry no `type`. |
+| 2026-10-06 | (Maintenance) | `index.md`: added `title: DnD Wiki` frontmatter so the Quartz home page tab shows "DnD Wiki" instead of "index". |

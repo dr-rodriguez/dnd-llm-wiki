@@ -1,3 +1,7 @@
+---
+title: DnD Wiki
+---
+
 # Wiki Index
 
 Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and summaries available in the knowledge base.
