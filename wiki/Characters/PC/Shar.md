@@ -20,9 +20,9 @@ tags:
 | Player | Nick/Zar |
 
 ## Backstory
-Shar is a Vulpin warlock who joined the party following the death of [[Characters/Gnash|Gnash]]. He is known for summoning a demon named **"Barbara,"** though he has occasionally lost control of the entity during combat. 
+Shar is a Vulpin warlock who joined the party following the death of [[Characters/PC/Gnash|Gnash]]. He is known for summoning a demon named **"Barbara,"** though he has occasionally lost control of the entity during combat. 
 
-In addition to his magical abilities, Shar demonstrated a unique linguistic skill by understanding Portuguese during an encounter with a group of gunners. He also helped organize a successful spectacle with [[Characters/Nova|Nova]] and [[Characters/Juneberry|Juneberry]] to raise funds for the party. 
+In addition to his magical abilities, Shar demonstrated a unique linguistic skill by understanding Portuguese during an encounter with a group of gunners. He also helped organize a successful spectacle with [[Characters/PC/Nova|Nova]] and [[Characters/PC/Juneberry|Juneberry]] to raise funds for the party. 
 
 ## Sources
 - [[Sessions/2024/2024-04-11|Session: 2024-04-11]]

@@ -23,7 +23,7 @@ tags:
 Thadius is a Giff from northern **Andore** who worked as a bounty hunter before joining the party as an affiliate of the **Adventurer's Guild**. His father was a blacksmith and tinkerer, which influenced his mechanical aptitude. As an Armorer Artificer, he utilized "guardian-style" armor and was a prolific crafter, creating an artificer camera (image-making device), a homunculus servant named **Zipsy**, and various explosives including nitroglycerin bombs and shotgun gauntlets.
 
 During his adventures, he was instrumental in several key missions:
-- In April 2025, he helped rescue [[Characters/Aolis|Aolis]] from the **Singing Mandrake** in **Moren**, breaking down a door and firing on **Brimstone** to alert the crew.
+- In April 2025, he helped rescue [[Characters/PC/Aolis|Aolis]] from the **Singing Mandrake** in **Moren**, breaking down a door and firing on **Brimstone** to alert the crew.
 - In February 2026, he devised a plan to destroy a "techie" portal in a volcano ruins using his homunculus servant and nitroglycerin, successfully disabling summoning circles.
 - In March 2026, he worked on weaponizing yellow and red crystals found in a radioactive environment.
 

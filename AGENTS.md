@@ -10,7 +10,7 @@ As an AI assistant, you are focused on navigating, maintaining, and updating thi
   - `wiki/Quests/`: Quest overview (`Quests.md`) and detailed quest/mission pages.
   - `wiki/Locations/`: Locations hub (`Locations.md`).
   - `wiki/Lore/`: Lore hub (`Lore.md`) plus one note per topic (Ancient History, Major Projects, Deities and Religions, Locations of Interest, Technology, Factions and Organizations, Bestiary). Link entries as `[[Technology#Slave Drives|Slave Drives]]`.
-  - `wiki/Characters/`: One page per character, plus the `Characters.md` roster table and `B-Team.md` (group page).
+  - `wiki/Characters/`: The `Characters.md` roster table, plus one page per character split by type: `wiki/Characters/PC/` for player characters and `wiki/Characters/NPC/` for notable NPCs (including `B-Team.md`, a group page). Minor NPCs live only as rows in `Characters.md`.
   - `wiki/Sessions/`: Year subfolders hold session notes; loose files here (`Extra Notes.md`, `Level Up Notes-Ideas.md`) are out-of-game reference notes.
   - `wiki/Images/`: Images embedded in wiki pages (and referenced by raw notes via `![[file.png]]`).
   - `wiki/Base Tables/`: Obsidian Bases (`Characters.base`, `Quests.base`, `Lore.base`, `Sessions.base`) that list notes by their `type` property. They are driven by frontmatter, so keep properties correct rather than editing the bases.
@@ -21,7 +21,7 @@ Every note in `wiki/` (except `index.md` and `log.md`) MUST start with YAML fron
 
 | `type` | Folder | Extra properties |
 | --- | --- | --- |
-| `character` | `wiki/Characters/` | `name`, `species`, `class`, `character-type` (`PC` or `NPC`), `player` (PCs only), `link` (external sheet URL; leave empty if unknown) |
+| `character` | `wiki/Characters/PC/` or `wiki/Characters/NPC/` (by `character-type`) | `name`, `species`, `class`, `character-type` (`PC` or `NPC`), `player` (PCs only), `link` (external sheet URL; leave empty if unknown) |
 | `location` | `wiki/Locations/` | none |
 | `lore` | `wiki/Lore/` | none |
 | `quest` | `wiki/Quests/` | none |
@@ -73,7 +73,7 @@ To create a densely interconnected knowledge base:
 - Never start a link target with `wiki/`. The website is built with `wiki/` as its root, so `wiki/`-prefixed links break there.
 - For a note whose name is unique across the whole vault (characters, lore, quests, locations), a bare name is fine: `[[Soren]]`, `[[Technology#Slave Drives|Slave Drives]]`.
 - For a note whose name also exists in `raw/` (all session notes, `Extra Notes`, `Level Up Notes-Ideas`), use the path relative to `wiki/`: `[[Sessions/YYYY/YYYY-MM-DD|YYYY-MM-DD]]`, e.g. `[[Sessions/2024/2024-01-01|Session: 2024-01-01]]`.
-- When unsure, the path relative to `wiki/` is always acceptable: `[[Characters/Soren|Soren]]`.
+- When unsure, the path relative to `wiki/` is always acceptable: `[[Characters/PC/Soren|Soren]]`.
 
 ## Core Workflows
 1. **Ingest**: Read new sources in `raw/` and integrate their information into `wiki/`. Source documents remain in `raw/` as the permanent source of truth.

@@ -20,7 +20,7 @@ tags:
 | Player | Koi/Altair |
 
 ## Backstory
-Soten is a Raccling monk known for his incredible speed. Despite his combat prowess, he harbors a profound fear of water. He once engaged in a physical fight with [[Characters/Juneberry|Juneberry]] after she stole donuts he was bringing back for the party. 
+Soten is a Raccling monk known for his incredible speed. Despite his combat prowess, he harbors a profound fear of water. He once engaged in a physical fight with [[Characters/PC/Juneberry|Juneberry]] after she stole donuts he was bringing back for the party. 
 
 Soten was key in identifying a **Tunneler's insignia** made of human leather and bone. He was one of the survivors of the final confrontation with the [[Characters#Athena AI|Athena AI]], surviving with only 1 HP. 
 

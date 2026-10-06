@@ -7,8 +7,8 @@ type: lore
 Part of [[Lore/Lore|Lore]].
 
 * **The First**: A race of humans and human-esque individuals who inhabited the planet long ago.
-* **The Anwey (or Anway)**: The ancient civilization(s) that built many of the structures and AI systems being discovered. They were highly advanced, utilizing nuclear weapons and advanced robotics. Some modern individuals (like [[Characters/Maximus Arkelius|Maximus]] and [[Characters#Margaret/Maggie|Margaret]]) are revealed to be "Anwey" or related to them (clones/spies).
-* **The Asana**: Humanoids who built the [[Characters/Nova|Nova]] (Defense Unit 33-Alpha). They disappeared in a cataclysm.
+* **The Anwey (or Anway)**: The ancient civilization(s) that built many of the structures and AI systems being discovered. They were highly advanced, utilizing nuclear weapons and advanced robotics. Some modern individuals (like [[Characters/PC/Maximus Arkelius|Maximus]] and [[Characters#Margaret/Maggie|Margaret]]) are revealed to be "Anwey" or related to them (clones/spies).
+* **The Asana**: Humanoids who built the [[Characters/PC/Nova|Nova]] (Defense Unit 33-Alpha). They disappeared in a cataclysm.
 * **Tectonic Instability**: The planet experiences extreme tectonic activity, shifting 3x faster than other celestial bodies. Eventually, a complete tectonic re-shuffle occurs, turning everything to magma.
 
 ## Sources

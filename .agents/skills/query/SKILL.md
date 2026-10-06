@@ -12,7 +12,7 @@ description: Use this skill to answer user questions using the knowledge stored 
    - Use the type to narrow the search, e.g. `grep -l "^type: character" -r wiki` for characters.
    - Use `character-type: "PC"` / `player:` for questions about the party.
    - Use `year:` / `date:` for questions about a time span.
-   - Folders follow the type: `wiki/Characters/`, `wiki/Locations/`, `wiki/Lore/` (topic notes), `wiki/Quests/`, `wiki/Sessions/YYYY/`.
+   - Folders follow the type: `wiki/Characters/PC/` and `wiki/Characters/NPC/`, `wiki/Locations/`, `wiki/Lore/` (topic notes), `wiki/Quests/`, `wiki/Sessions/YYYY/`.
    - If the synthesized wiki pages are insufficient, consult the original documents in `raw/`.
 2. **Synthesize Answer:** Formulate a comprehensive answer using *only* the information found in the wiki and its sources.
    - **Link Formatting:** When responding to the user, transform Obsidian-style links (e.g., `[[path/to/page#heading|Display Text]]` or `[[page]]`) into bold or italic text for clarity (e.g., **Display Text** or *page*).

@@ -7,7 +7,7 @@ type: quest
 The journey north from **[[Locations/Locations#Helines|Helines]]** to **[[Locations/Locations#Drakenweld|Drakenweld]]** is a major campaign arc that began in mid-2025.
 
 ## Origins and Quest Giver
-The quest was officially assigned by **[[Characters#Lady Poomf|Lady Poomf]]**, the bird-like Guild Leader of the Adventurer's Guild in Helines. In early 2025, she briefed the party on several concerns, including the disappearance of **[[Characters#Mayor Maxwell|Mayor Maxwell]]** and the discovery of ancient technology brought by "Island Dwellers" like **Nock** and **Screeck**.
+The quest was officially assigned by **[[Characters/NPC/Lady Poomf|Lady Poomf]]**, the bird-like Guild Leader of the Adventurer's Guild in Helines. In early 2025, she briefed the party on several concerns, including the disappearance of **[[Characters#Mayor Maxwell|Mayor Maxwell]]** and the discovery of ancient technology brought by "Island Dwellers" like **Nock** and **Screeck**.
 
 ## Primary Objectives
 1. **Locate Mayor Maxwell:** The Mayor of Helines traveled north to Drakenweld and failed to return. His brother, **Lucious**, has been serving as acting mayor in his absence.

@@ -18,31 +18,41 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 - [[Quests/The Invention of Christmas|The Invention of Christmas]] - How the party created a new holiday tradition.
 - [[Quests/Quests|Quests]] - Current and past campaign objectives and missions.
 - [[Quests/Drakenweld Quest|Drakenweld Quest]] - Detailed overview of the party's journey north.
-- [[B-Team]] - The rival/allied band of five women met at The Gates.
 - [[Quests/Tesselia Mission|Tesselia Mission]] - Details on Lady Poomf's orders and the automaton siege.
 
-### Major Characters
-- [[Characters/Soren|Soren]] - Aarakocra Bladesinger.
-- [[Characters/Zinjaro|Zinjaro]] - Hadozee Cleric.
-- [[Characters/Villhelm Emberstoke|Villhelm Emberstoke]] - Dragonborn Monk.
-
-### Other Character Pages
-- [[Characters/Amber Lyre|Amber Lyre]] - Changeling Bard (NPC).
-- [[Characters/Aolis|Aolis]] - Drow Shadow Sorcerer (PC).
-- [[Characters/Brambleberry|Brambleberry]] - Centaur (now Uma) Soulknife Rogue (PC).
-- [[Characters/Dumo|Dumo]] - Tortle Circle of Stars Druid (PC).
-- [[Characters/Gnash|Gnash]] - Lizardfolk Path of the Giant Barbarian (PC).
-- [[Characters/Idecca|Idecca]] - Raccling Wild Magic Sorcerer (PC).
-- [[Characters/Juneberry|Juneberry]] - Harengon Thief Rogue (PC).
-- [[Characters/Maximus Arkelius|Maximus Arkelius]] - Changeling Aberrant Sorcerer (PC).
-- [[Characters/Nova|Nova]] - Warforged Oath of the Crown Paladin (PC).
-- [[Characters/Ogra Oaksworn|Ogra Oaksworn]] - Bear Wild Tree Barbarian (PC).
-- [[Characters/Shar|Shar]] - Vulpin Hexblade Warlock (PC).
-- [[Characters/Soten|Soten]] - Raccling Radiant Soul Monk (PC).
-- [[Characters/Thadius Don Oppenheimer|Thadius Don Oppenheimer]] - Giff Armorer Artificer (PC).
-- [[Characters/Tririn Bronzepride|Tririn Bronzepride]] - Leonin Wild Magic Barbarian (PC).
-- [[Characters/Tsuki|Tsuki]] - Tabaxi College of Creation Bard (PC).
-- [[Characters/Wobbles Wibbbles|Wobbles Wibbbles]] - Kobold Way of the Ascendant Dragon Monk (PC).
+### Characters
+- [[Characters/NPC/Alisha Tower|Alisha Tower]] - Aasimar princess, now Queen of Drakenweld (NPC).
+- [[Characters/NPC/Amber Lyre|Amber Lyre]] - Changeling Bard (NPC).
+- [[Characters/NPC/Angela Nevermore|Angela Nevermore]] - Changeling noble, Regent Advisor of Tesselia (NPC).
+- [[Characters/PC/Aolis|Aolis]] - Drow Shadow Sorcerer (PC).
+- [[Characters/NPC/Ashton Whitemore|Ashton Whitemore]] - Human Regent of Tesselia, killed 2024 (NPC).
+- [[Characters/NPC/B-Team|B-Team]] - Band of five women met at The Gates (NPC group).
+- [[Characters/PC/Brambleberry|Brambleberry]] - Centaur (now Uma) Soulknife Rogue (PC).
+- [[Characters/PC/Dumo|Dumo]] - Tortle Circle of Stars Druid (PC).
+- [[Characters/PC/Gnash|Gnash]] - Lizardfolk Path of the Giant Barbarian (PC).
+- [[Characters/PC/Idecca|Idecca]] - Raccling Wild Magic Sorcerer (PC).
+- [[Characters/PC/Juneberry|Juneberry]] - Harengon Thief Rogue (PC).
+- [[Characters/NPC/Lady Poomf|Lady Poomf]] - Bird-like guild leader of Helines (NPC).
+- [[Characters/NPC/Madasin|Madasin]] - Cybernetic interrogator unit on the freight airship (NPC).
+- [[Characters/NPC/Maggie North|Maggie North]] - Tiefling guild hall leader in Tesselia (NPC).
+- [[Characters/PC/Maximus Arkelius|Maximus Arkelius]] - Changeling Aberrant Sorcerer (PC).
+- [[Characters/NPC/Maxwella|Maxwella]] - Wood elf, Maxim's mother (NPC).
+- [[Characters/PC/Nova|Nova]] - Warforged Oath of the Crown Paladin (PC).
+- [[Characters/NPC/Odin AI|Odin AI]] - AI behind Project Horizon, Sofia's ex-husband (NPC).
+- [[Characters/PC/Ogra Oaksworn|Ogra Oaksworn]] - Bear Wild Tree Barbarian (PC).
+- [[Characters/NPC/Overseer (VI)|Overseer (VI)]] - Gen 3 chief of the Slave Drives (NPC).
+- [[Characters/NPC/Polythemis|Polythemis]] - Wolfman prophet of Athena, killed 2024 (NPC).
+- [[Characters/NPC/Queen Tesselia|Queen Tesselia]] - Child queen of Andore (NPC).
+- [[Characters/PC/Shar|Shar]] - Vulpin Hexblade Warlock (PC).
+- [[Characters/NPC/Sofia AI|Sofia AI]] - Continent-level AI beneath Tesselia (NPC).
+- [[Characters/PC/Soren|Soren]] - Aarakocra Bladesinger (PC).
+- [[Characters/PC/Soten|Soten]] - Raccling Radiant Soul Monk (PC).
+- [[Characters/PC/Thadius Don Oppenheimer|Thadius Don Oppenheimer]] - Giff Armorer Artificer (PC).
+- [[Characters/PC/Tririn Bronzepride|Tririn Bronzepride]] - Leonin Wild Magic Barbarian (PC).
+- [[Characters/PC/Tsuki|Tsuki]] - Tabaxi College of Creation Bard (PC).
+- [[Characters/PC/Villhelm Emberstoke|Villhelm Emberstoke]] - Dragonborn Monk (PC).
+- [[Characters/PC/Wobbles Wibbbles|Wobbles Wibbbles]] - Kobold Way of the Ascendant Dragon Monk (PC).
+- [[Characters/PC/Zinjaro|Zinjaro]] - Hadozee Cleric (PC).
 
 ### Session Logs
 All campaign sessions are logged in the `wiki/Sessions/` directory (one subfolder per year). Complete chronological list (earliest first):

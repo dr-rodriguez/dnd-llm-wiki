@@ -34,9 +34,6 @@ views:
     filters:
       and:
         - note["character-type"] == "PC"
-    groupBy:
-      property: player
-      direction: ASC
     order:
       - file.name
       - species

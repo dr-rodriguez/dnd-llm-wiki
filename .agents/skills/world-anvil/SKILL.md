@@ -10,7 +10,7 @@ description: Use this skill to convert any wiki page or section (sessions, chara
 ## Workflow
 1. **Resolve the source** from the user's argument:
    - A date (`2026-10-01`) → `wiki/Sessions/<year>/<date>.md`. No argument → the session marked *(Latest Session)* in `wiki/index.md`.
-   - A character name (`Maxim`, `Aolis`) → `wiki/Characters/<Name>.md`. Use Glob to match partial names.
+   - A character name (`Maxim`, `Aolis`) → `wiki/Characters/PC/<Name>.md` or `wiki/Characters/NPC/<Name>.md`. Use Glob to match partial names.
    - A page name (`Lore`, `Quests`, `Locations`, `Characters`, `B-Team`, ...) → find the page with Glob (`wiki/**/<Page>.md`). Hubs live in their own folders: `wiki/Characters/Characters.md`, `wiki/Characters/B-Team.md`, `wiki/Quests/Quests.md`, `wiki/Locations/Locations.md`, `wiki/Lore/Lore.md`. Lore entries sit in topic notes under `wiki/Lore/` (Ancient History, Major Projects, Deities and Religions, Locations of Interest, Technology, Factions and Organizations, Bestiary).
    - Ignore `wiki/Base Tables/*.base` files; they are Obsidian views, not content.
    - A page plus an entry or section (`Lore The Mountain`, `Lore Overseer`, `Quests Scout The Mountain`, `Locations Tesselia`) → convert **only** that entry. Entries are a `##`/`###` section, a `* **Name**:` / `- **Name**:` list item, or a table row. Use Grep to find it.
