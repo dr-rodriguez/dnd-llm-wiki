@@ -17,9 +17,9 @@ tags:
 | Type | NPC (Quest-giver) |
 | Species | Tiefling |
 | Class | Guild Hall Leader |
-| Location | [[Locations/Locations#Adventurers Guild Hall\|Adventurers Guild Hall]], [[Locations/Locations#Tesselia\|Tesselia]] |
+| Location | [[Locations/Locations#Adventurers Guild Hall\|Adventurers Guild Hall]], [[Locations/Tesselia\|Tesselia]] |
 
-Maggie North is the tiefling who runs the Adventurers Guild hall in [[Locations/Locations#Tesselia|Tesselia]]. She is the party's contact and quest-giver, and other NPCs have called her the party's "handler". She is **not** the same person as Margaret/Maggie, leader of [[Characters/NPC/B-Team|B-Team]].
+Maggie North is the tiefling who runs the Adventurers Guild hall in [[Locations/Tesselia|Tesselia]]. She is the party's contact and quest-giver, and other NPCs have called her the party's "handler". She is **not** the same person as Margaret/Maggie, leader of [[Characters/NPC/B-Team|B-Team]].
 
 ## Backstory / Events
 - **October 18, 2023:** Introduced as the party's contact: an "advanced agent", sent because the last attempt to build a guild had failed. [[Sessions/2023/2023-10-18|Session]]
@@ -27,7 +27,7 @@ Maggie North is the tiefling who runs the Adventurers Guild hall in [[Locations/
 - **December 7, 2023:** Handed over two accounts of the guard-station fight: one with the city seal saying the party attacked the guards, and one with the truth. She paid half the fee (50g). [[Sessions/2023/2023-12-07|Session]]
 - **April 11, 2024:** After the Regent's death, she brought in three new adventurers ([[Characters/PC/Tririn Bronzepride|Tririn]], [[Characters/PC/Shar|Shar]], [[Characters/PC/Tsuki|Tsuki]]). She and [[Characters/NPC/Angela Nevermore|Nevermore]] seemed to have a separate quest going on. [[Sessions/2024/2024-04-11|Session]]
 - **August 2024:** Paid the party a chest of **10,000 gold**, then handed out more jobs. [[Sessions/2024/2024-08-01|Session]], [[Sessions/2024/2024-08-08|Session]]
-- **August–September 2024:** Gave a stone that teleports its bearer to the party. A soldier brought her a special quest, which she passed on. She **came along** on the trip across [[Locations/Locations#The Divide|the Divide]] into Southern Andore. A tribesman there called her the party's "handler". [[Sessions/2024/2024-08-15|Session]], [[Sessions/2024/2024-08-22|Session]], [[Sessions/2024/2024-09-12|Session]]
+- **August–September 2024:** Gave a stone that teleports its bearer to the party. A soldier brought her a special quest, which she passed on. She **came along** on the trip across [[Locations/The Divide|the Divide]] into Southern Andore. A tribesman there called her the party's "handler". [[Sessions/2024/2024-08-15|Session]], [[Sessions/2024/2024-08-22|Session]], [[Sessions/2024/2024-09-12|Session]]
 - **September 19, 2024:** Sent [[Characters/PC/Soren|Soren]] a Sending: HQ said [[Characters/NPC/Sofia AI|Sofia AI]] had picked up pings of an AI core, and retrieving it was now top priority. [[Sessions/2024/2024-09-19|Session]]
 - **October 2024:** Took delivery of the White Mane breastplate sigil and news of the Tunnelers' plans. [[Sessions/2024/2024-10-17|Session]]
 - **April 2026:** Received the returning party at the besieged guild hall, introduced [[Characters/PC/Villhelm Emberstoke|Villhelm]], and set up a meeting. [[Characters/PC/Zinjaro|Zinjaro]] gave her name ("Maggie North, tavern keeper") to the robots, who flagged him as a **known dissident**. Magic hides the guild from the enemy: it blocks those who shouldn't know where it is. She told the party that the yellow-robed figure had been near them, not near the guild. [[Sessions/2026/2026-04-11|Session]], [[Sessions/2026/2026-04-30|Session]]

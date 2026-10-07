@@ -11,6 +11,15 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 ### Core Information
 - [[Characters]] - List of PCs and NPCs encountered.
 - [[Locations/Locations|Locations]] - Key locations in the world of Andore and Drakenweld.
+  - [[Locations/Tesselia|Tesselia]] - Capital of Andore; home of Queen Tesselia and Sofia AI; besieged 2026.
+  - [[Locations/The Divide|The Divide]] - Sea splitting Northern and Southern Andore; holds The Drowned Nexus.
+  - [[Locations/Port Altarall|Port Altarall]] - Port on the western bank of The Divide.
+  - [[Locations/Helines|Helines]] - Gateway to the Testro Plains; Lady Poomf's guild hall.
+  - [[Locations/Moren|Moren]] - Maxim's home city, under the floating Mountain Home Academy of Magic.
+  - [[Locations/Drakenweld|Drakenweld]] - Cold northern land of dragons and demons; ruled by the Towers.
+  - [[Locations/Light|Light]] - Drakenweld's great city, "the First and Last City".
+  - [[Locations/Anthrell|Anthrell]] - Demon-held western capital, a holoprojected modern city run by the AI [[Characters/NPC/Mariquin|Mariquin]].
+  - [[Locations/Tower Isle|Tower Isle]] - Technocrat island in the central sea; Project Horizon; Odin's base.
 - [[Lore/Lore|Lore]] - World history, deities, major projects, and technology.
   - [[Lore/Ancient History|Ancient History]]
   - [[Lore/Major Projects|Major Projects]]
@@ -39,6 +48,7 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 - [[Characters/NPC/Lady Poomf|Lady Poomf]] - Bird-like guild leader of Helines (NPC).
 - [[Characters/NPC/Madasin|Madasin]] - Cybernetic interrogator unit on the freight airship (NPC).
 - [[Characters/NPC/Maggie North|Maggie North]] - Tiefling guild hall leader in Tesselia (NPC).
+- [[Characters/NPC/Mariquin|Mariquin]] - AI supervisor of Anthrell, in a flesh body (NPC).
 - [[Characters/PC/Maximus Arkelius|Maximus Arkelius]] - Changeling Aberrant Sorcerer (PC).
 - [[Characters/NPC/Maxwella|Maxwella]] - Wood elf, Maxim's mother (NPC).
 - [[Characters/PC/Nova|Nova]] - Warforged Oath of the Crown Paladin (PC).
@@ -49,6 +59,7 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 - [[Characters/NPC/Queen Tesselia|Queen Tesselia]] - Child queen of Andore (NPC).
 - [[Characters/PC/Shar|Shar]] - Vulpin Hexblade Warlock (PC).
 - [[Characters/NPC/Sofia AI|Sofia AI]] - Continent-level AI beneath Tesselia (NPC).
+- [[Characters/NPC/Sol'Ar|Sol'Ar]] - God of revelry and the sun, Zinjaro's patron (NPC).
 - [[Characters/PC/Soren|Soren]] - Aarakocra Bladesinger (PC).
 - [[Characters/PC/Soten|Soten]] - Raccling Radiant Soul Monk (PC).
 - [[Characters/PC/Thadius Don Oppenheimer|Thadius Don Oppenheimer]] - Giff Armorer Artificer (PC).
@@ -92,6 +103,8 @@ All campaign sessions are logged in the `wiki/Sessions/` directory (one subfolde
 - [[Sessions/2026/2026-02-19|2026-02-19]]
 - [[Sessions/2026/2026-02-12|2026-02-12]]
 - [[Sessions/2026/2026-02-05|2026-02-05]]
+- [[Sessions/2026/2026-01-15|2026-01-15]]
+- [[Sessions/2026/2026-01-08|2026-01-08]]
 - [[Sessions/2025/2025-12-18|2025-12-18]]
 - [[Sessions/2025/2025-12-04|2025-12-04]]
 - [[Sessions/2025/2025-11-20|2025-11-20]]
@@ -137,9 +150,7 @@ All campaign sessions are logged in the `wiki/Sessions/` directory (one subfolde
 - [[Sessions/2025/2025-01-29|2025-01-29]]
 - [[Sessions/2025/2025-01-23|2025-01-23]]
 - [[Sessions/2025/2025-01-16|2025-01-16]]
-- [[Sessions/2025/2025-01-15|2025-01-15]]
 - [[Sessions/2025/2025-01-09|2025-01-09]]
-- [[Sessions/2025/2025-01-08|2025-01-08]]
 - [[Sessions/2024/2024-12-12|2024-12-12]]
 - [[Sessions/2024/2024-12-05|2024-12-05]]
 - [[Sessions/2024/2024-11-07|2024-11-07]]

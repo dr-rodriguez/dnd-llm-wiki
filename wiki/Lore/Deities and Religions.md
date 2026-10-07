@@ -10,7 +10,7 @@ Part of [[Lore/Lore|Lore]].
 * **Tiamat**: The Dragon Queen, goddess of chromatic dragons.
 * **Ruktar**: Evil dwarven god, known as "The Betrayer." He split from his brother and is associated with dragon cults.
 * **Lady Nora**: [[Characters#Lady Nora|Lady Nora]], Goddess of trickery and the night.
-* **Sol'Ar**: [[Characters#Sol'Ar|Sol'Ar]], God of revelry and the sun.
+* **Sol'Ar**: [[Characters/NPC/Sol'Ar|Sol'Ar]], God of revelry and the sun.
 * **Natu'ra**: [[Characters#Natu'ra|Natu'ra]], Goddess of nature.
 * **Luna**: [[Characters#Luna|Luna]], Childer god of the Moon. Lore reveals it is actually a full god with a **dual aspect** (the child aspect and a more mature/vengeful aspect).
 * **Multi-Faith Shrines**: Small places of worship that serve several religions at once, common in slums and poor areas where people gather to worship whichever god they choose. The church site near Tesselia appears to be one: its basement holds an altar on a **polished obsidian plinth** ringed with **Draconic** holy scripture naming no specific god, while the statues above are of **angels** — a draconic cult and angelic iconography sharing one building.

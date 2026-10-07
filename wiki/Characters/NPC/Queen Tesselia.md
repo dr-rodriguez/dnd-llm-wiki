@@ -18,7 +18,7 @@ tags:
 | Type | NPC |
 | Species | Unknown |
 | Class | Queen of [[Locations/Locations#Andore\|Andore]] |
-| Location | [[Locations/Locations#Tesselia\|Tesselia]] |
+| Location | [[Locations/Tesselia\|Tesselia]] |
 
 Queen Tesselia ("Tessa") is the child monarch of [[Locations/Locations#Andore|Andore]], ruling from the capital that shares her name. Her father, the Regent [[Characters/NPC/Ashton Whitemore|Ashton Whitemore]], ruled for her until the party killed him. Since then [[Characters/NPC/Angela Nevermore|Angela Nevermore]] has advised her. [[Characters/NPC/Sofia AI|Sofia AI]] treats her as its **Administrator**, which it needs in order to exist. Her coronation is due at 16.
 

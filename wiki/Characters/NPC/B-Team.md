@@ -20,7 +20,7 @@ tags:
 
 # B-Team (Team B)
 
-**B-Team** is the party's informal name for a band of five women first encountered camping in the ruined keep at [[Locations/Locations#The Gates|The Gates]] in June 2025. They are **not guild-affiliated** and were travelling north into [[Locations/Locations#Drakenweld|Drakenweld]] on a search of their own — initially secretive, later revealed to be a hunt for a *person*, not a thing.
+**B-Team** is the party's informal name for a band of five women first encountered camping in the ruined keep at [[Locations/Locations#The Gates|The Gates]] in June 2025. They are **not guild-affiliated** and were travelling north into [[Locations/Drakenweld|Drakenweld]] on a search of their own — initially secretive, later revealed to be a hunt for a *person*, not a thing.
 
 They have crossed paths with the party repeatedly across the [[Quests/Drakenweld Quest|Drakenweld excursion]] and again during the [[Quests/Quests#Current Arc: Tesselia (April 2026 – present)|Siege of Tesselia]].
 
@@ -41,7 +41,7 @@ This Maggie is **not** [[Characters/NPC/Maggie North|Maggie North]], the tieflin
 
 ### The Gates (June – July 2025)
 - **[[Sessions/2025/2025-06-12|2025-06-12]]:** [[Characters/PC/Zinjaro|Zinjaro]]'s Arcane Eye finds their campsite inside the ruined left keep at The Gates. [[Characters/PC/Maximus Arkelius|Maxim]] greets them. They warn the party about ghouls upstairs and about hostile creatures that looked normal before turning horrific. They decline to explain what they are looking for.
-- **[[Sessions/2025/2025-06-19|2025-06-19]]:** The two groups camp together. Taylor and Zinjaro drink and argue religion; Maggie takes first watch with Maxim, shares what she knows of Drakenweld and the city of [[Locations/Locations#Light|Light]], and admits they are **looking for someone, not something**. Both groups fight ghasts together — Maggie's phase knife, Wendy's rage, Taylor's Turn Undead.
+- **[[Sessions/2025/2025-06-19|2025-06-19]]:** The two groups camp together. Taylor and Zinjaro drink and argue religion; Maggie takes first watch with Maxim, shares what she knows of Drakenweld and the city of [[Locations/Light|Light]], and admits they are **looking for someone, not something**. Both groups fight ghasts together — Maggie's phase knife, Wendy's rage, Taylor's Turn Undead.
 - **[[Sessions/2025/2025-06-26|2025-06-26]]:** During the basilisk and ghost fight, Taylor is petrified on a natural 1; Zinjaro restores her with Greater Restoration.
 - **[[Sessions/2025/2025-07-03|2025-07-03]]:** Melody is caught by Hold Person during the wight/flaming-skull fight while exploring the keep.
 - **[[Sessions/2025/2025-07-17|2025-07-17]]:** At the Drakenweld border crossing, B-Team sticks together in the cart lane and warns that anything demonic would be a problem at inspection. After the party is waved through by [[Characters/NPC/Alisha Tower|Lady Alisha Tower]], Maxim rides back to say goodbye. **B-Team goes north of the fork** — to meet someone who "may not be pleased to see them."
@@ -52,7 +52,7 @@ This Maggie is **not** [[Characters/NPC/Maggie North|Maggie North]], the tieflin
 - **[[Sessions/2025/2025-10-09|2025-10-09]]:** B-Team returns mid-fight to help after three of the party are petrified. Taylor un-petrifies two of them but demands **200 gold** for the diamond dust; Maggie reprimands her, Maxim pays anyway. Maxim tries to recruit them — they decline, preferring real beds. **B-Team leaves.**
 
 ### Tesselia (June 2026)
-- **[[Sessions/2026/2026-06-04|2026-06-04]]:** The party recognizes Team B (Melody, Taylor, Lavelor, Wendy) in the underground facility beneath [[Locations/Locations#Tesselia|Tesselia]], alongside a bloodied [[Characters/PC/Shar|Shar]] and [[Characters/PC/Soren|Soren]] — meaning they made it south to the siege independently.
+- **[[Sessions/2026/2026-06-04|2026-06-04]]:** The party recognizes Team B (Melody, Taylor, Lavelor, Wendy) in the underground facility beneath [[Locations/Tesselia|Tesselia]], alongside a bloodied [[Characters/PC/Shar|Shar]] and [[Characters/PC/Soren|Soren]] — meaning they made it south to the siege independently.
 
 ### Maggie's Capture (August 2026)
 - **[[Sessions/2026/2026-08-13|2026-08-13]]:** B-Team bursts into the facility badly wounded and **one member short**. While fighting a large droid, **everyone got sick momentarily and Maggie fell over** — she was captured in that moment. The party believes this was the same [[Lore/Technology#First Space and Second Space|Second Space]] attack that felled [[Characters/PC/Maximus Arkelius|Maxim]] and [[Characters/NPC/Amber Lyre|Amber]], consistent with Maggie being an Anwey.

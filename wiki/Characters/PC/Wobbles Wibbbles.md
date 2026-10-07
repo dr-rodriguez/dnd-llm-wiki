@@ -20,7 +20,7 @@ tags:
 | Player | Nick/Zar |
 
 ## Backstory/Events
-Wobbles Wibbbles is a kobold monk from **[[Locations/Locations#Drakenweld|Drakenweld]]**. He arrived in the region by boat along with **[[Characters/PC/Zinjaro|Zinjaro]]**, **[[Characters/PC/Aolis|Aolis]]**, and [[Characters/PC/Brambleberry|Brambleberry]]. Early in his journey, he insisted on participating in a horse race despite being a kobold; during the race, he famously chose to help the fallen Brambleberry instead of pursuing a win.
+Wobbles Wibbbles is a kobold monk from **[[Locations/Drakenweld|Drakenweld]]**. He arrived in the region by boat along with **[[Characters/PC/Zinjaro|Zinjaro]]**, **[[Characters/PC/Aolis|Aolis]]**, and [[Characters/PC/Brambleberry|Brambleberry]]. Early in his journey, he insisted on participating in a horse race despite being a kobold; during the race, he famously chose to help the fallen Brambleberry instead of pursuing a win.
 
 During his adventures, Wobbles was briefly petrified by a Medusa in a dungeon but was restored by Zinjaro. He has mentioned a dark past, including a comment that his mother once tried to eat him. He also possesses knowledge of dragon lore, specifically remembering "The Signing of the Last Clutch," an ancient pact between humans and dragons.
 

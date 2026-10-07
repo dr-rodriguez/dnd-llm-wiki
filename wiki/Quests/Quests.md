@@ -35,18 +35,18 @@ Following their detour crashing on an island with a volcano and defeating a radi
 - **Key Outcome:** Defeated a radioactive dragon in a volcanic caldera to clear the "rot" affecting local nature spirits.
 - **Key Contacts:** Met **Danyel** (a clone of an ancient scientist) and **Tick/Screeck** (insectoid technical specialists).
 
-### The Guild Mission to Tesselia (January 2025)
+### The Guild Mission to Tesselia (January 2026)
 - **Objective:** See **[[Quests/Tesselia Mission|Tesselia Mission]]**. Initial mission assigned by Lady Poomf to check the status of the **Tesselia Guild** and protect the young monarch, **Queen Tesselia**.
 - **Key Outcome:** The party finally arrived in April 2026 to find the city under siege by automatons. The siege ended on 2026-10-01 when the enemy ships withdrew ([[Sessions/2026/2026-10-01|Source]]).
 
 ## Recurring & Secondary Goals
 - **Sofia AI:** Investigate the ancient **Sofia AI** and its relationship with the royal line of Tesselia.
-- **Zinjaro's Worship:** Zinjaro seeks to worship **Sol'Ar** through life's pleasures and the fulfillment of his divine "sun-touched" role.
+- **Zinjaro's Worship:** Zinjaro seeks to worship **[[Characters/NPC/Sol'Ar|Sol'Ar]]** through life's pleasures and the fulfillment of his divine "sun-touched" role.
 - **Maxim's Origins:** Explore Maxim's history as a changeling and his connection to the ancient **Anwey** infiltrators.
-- **The Severance:** A new faction back in [[Locations/Locations#Moren|Moren]] aiming to seize the floating mountain holding the magic college. Reported by [[Characters/NPC/Maxwella|Maxwella]] in August 2026; see [[Lore/Factions and Organizations#The Severance|The Severance]].
+- **The Severance:** A new faction back in [[Locations/Moren|Moren]] aiming to seize the floating mountain holding the magic college. Reported by [[Characters/NPC/Maxwella|Maxwella]] in August 2026; see [[Lore/Factions and Organizations#The Severance|The Severance]].
 
 ## Sources
-- [[Sessions/2025/2025-01-15|Session: 2025-01-15]] (Tesselia Mission briefing)
+- [[Sessions/2026/2026-01-15|Session: 2026-01-15]] (Tesselia Mission briefing)
 - [[Sessions/2025/2025-10-02|Session: 2025-10-02]] (Drakenweld Excursion)
 - [[Sessions/2026/2026-04-09|Session: 2026-04-09]] (Arrival at the Siege of Tesselia)
 - [[Sessions/2026/2026-04-11|Session: 2026-04-11]] (Guild briefing on the invasion)

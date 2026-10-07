@@ -8,7 +8,7 @@ As an AI assistant, you are focused on navigating, maintaining, and updating thi
 - `wiki/`: LLM-generated markdown files (summaries, entity pages, concept maps). You own and update these files.
   - `wiki/Sessions/YYYY/`: Session summaries, organized into year-based subdirectories mirroring `raw/` (e.g., `wiki/Sessions/2024/2024-01-04.md`).
   - `wiki/Quests/`: Quest overview (`Quests.md`) and detailed quest/mission pages.
-  - `wiki/Locations/`: Locations hub (`Locations.md`).
+  - `wiki/Locations/`: Locations hub (`Locations.md`) plus one page per major location (e.g. `Tesselia.md`). Link those as `[[Locations/Tesselia|Tesselia]]`; minor locations stay as rows in the hub table.
   - `wiki/Lore/`: Lore hub (`Lore.md`) plus one note per topic (Ancient History, Major Projects, Deities and Religions, Locations of Interest, Technology, Factions and Organizations, Bestiary). Link entries as `[[Technology#Slave Drives|Slave Drives]]`.
   - `wiki/Characters/`: The `Characters.md` roster table, plus one page per character split by type: `wiki/Characters/PC/` for player characters and `wiki/Characters/NPC/` for notable NPCs (including `B-Team.md`, a group page). Minor NPCs live only as rows in `Characters.md`.
   - `wiki/Sessions/`: Year subfolders hold session notes; loose files here (`Extra Notes.md`, `Level Up Notes-Ideas.md`) are out-of-game reference notes.

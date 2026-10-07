@@ -17,9 +17,9 @@ tags:
 | Type | NPC (Enemy) |
 | Species | Cybernetic robot |
 | Class | [[Lore/Technology#Interrogator Units\|Interrogator Unit]] |
-| Location | Freight airship, bound for [[Locations/Locations#Tower Isle\|Tower Isle]] |
+| Location | Freight airship, bound for [[Locations/Tower Isle\|Tower Isle]] |
 
-Madasin is one of the two female cybernetic **[[Lore/Technology#Interrogator Units|interrogator units]]** aboard the freight airship at the [[Locations/Locations#Tesselia|Tesselia]] docks. Her partner is **Riley**. They held Maggie of [[Characters/NPC/B-Team|B-Team]] and tortured her for the location of the Tesselia bunker. Madasin then held the elevator against the party in one of the campaign's hardest fights.
+Madasin is one of the two female cybernetic **[[Lore/Technology#Interrogator Units|interrogator units]]** aboard the freight airship at the [[Locations/Tesselia|Tesselia]] docks. Her partner is **Riley**. They held Maggie of [[Characters/NPC/B-Team|B-Team]] and tortured her for the location of the Tesselia bunker. Madasin then held the elevator against the party in one of the campaign's hardest fights.
 
 ## Backstory / Events
 - **September 3, 2026:** Found with Riley torturing Maggie. Madasin, posted north, held a **gun to Maggie's head**. When [[Characters/PC/Maximus Arkelius|Maxim]] offered to take Maggie's place "for [[Characters/NPC/Odin AI|Odin]]", the pair accepted. They are **forbidden to use the "brain drain"**, so they scanned him with a **memory-reading circlet** instead, and Madasin **released Maggie's bonds**. After the ship took off she was waiting **right outside the elevator**. She taunted the party that they could have run, and combat began. [[Sessions/2026/2026-09-03|Session]]

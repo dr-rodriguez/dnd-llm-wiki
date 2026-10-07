@@ -17,7 +17,7 @@ tags:
 | Type | NPC (Ally) |
 | Species | Changeling |
 | Class | Noble |
-| Location | [[Locations/Locations#Tesselia\|Tesselia]] |
+| Location | [[Locations/Tesselia\|Tesselia]] |
 
 Lady Angela Nevermore (first heard as "Analia") is a Tesselian noblewoman who plotted against the Regent [[Characters/NPC/Ashton Whitemore|Ashton Whitemore]], helped kill him, and has since served as **Regent Advisor** to [[Characters/NPC/Queen Tesselia|Queen Tesselia]]. She is a long-lived **changeling** of the fey, magical kind, not a genetic changeling like the [[Lore/Ancient History#The Anwey (or Anway)|Anwey]]. She knew the Queen's mother and seems to have made her a promise. She knows the "secret codes" of [[Characters/NPC/Sofia AI|Sofia AI]]'s facility under the castle. Her base is **The Raven's Den**, an old gambling den turned parlor.
 
