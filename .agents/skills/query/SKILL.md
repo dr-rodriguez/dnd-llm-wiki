@@ -1,24 +1,26 @@
 ---
 name: query
-description: Use this skill to answer user questions using the knowledge stored in the wiki.
+description: Answer questions about the D&D campaign (characters, NPCs, places, lore, quests, what happened when) from the wiki, citing the sessions the answer comes from, and save answers that pull many sources together as new wiki pages. Use when the user asks things like "who is Madasin", "what do we know about The Mountain", "what has Aolis done since Tesselia", or "when did we meet Sofia".
 ---
 
-# Query Skill
+# Query
 
-**Description:** Use this skill to answer user questions using the knowledge stored in the wiki.
+## 1. Search
+- Start from the page that should own the answer: `wiki/index.md`, then the character, location, quest or lore page. Lore entries live in topic notes under `wiki/Lore/`.
+- Use the frontmatter to narrow searches (properties are listed in `AGENTS.md`): `type: character` with `character-type: "PC"` for party questions, session `date:` for time spans.
+- For "when" and "what happened" questions, follow the entity page's dated events and its Sources into the session notes.
+- Optional: if the qmd MCP tools are available, the `dnd-wiki` collection supports keyword and semantic search, which helps with fuzzy questions ("the robot that wanted a body"). Grep and Glob work fine without it.
+- Fall back to `raw/` only when the wiki is silent or looks wrong. If raw disagrees with the wiki, say so and suggest a lint.
 
-## Workflow
-1. **Search the Wiki:** Use search tools to find relevant information within the `wiki/` directory based on the user's question. `wiki/index.md` is a good starting point. Notes are classified by the `type` frontmatter property (see Note Types and Properties in `AGENTS.md`):
-   - Use the type to narrow the search, e.g. `grep -l "^type: character" -r wiki` for characters.
-   - Use `character-type: "PC"` / `player:` for questions about the party.
-   - Use `year:` / `date:` for questions about a time span.
-   - Folders follow the type: `wiki/Characters/PC/` and `wiki/Characters/NPC/`, `wiki/Locations/`, `wiki/Lore/` (topic notes), `wiki/Quests/`, `wiki/Sessions/YYYY/`.
-   - If the synthesized wiki pages are insufficient, consult the original documents in `raw/`.
-2. **Synthesize Answer:** Formulate a comprehensive answer using *only* the information found in the wiki and its sources.
-   - **Link Formatting:** When responding to the user, transform Obsidian-style links (e.g., `[[path/to/page#heading|Display Text]]` or `[[page]]`) into bold or italic text for clarity (e.g., **Display Text** or *page*).
-   - **Internal Citations:** Ensure that any new wiki pages created during the 'Compound Knowledge' step still use standard Obsidian-style links for wiki-compatibility.
-3. **Evaluate Answer Value:** Determine if the generated answer represents a new synthesis of information that isn't explicitly captured in a single existing page.
-4. **Compound Knowledge:** If the answer is of high value or introduces a new conceptual grouping:
-   - Create a new page containing this synthesized answer. Classify it with a `type` and put it in that type's folder, with the required frontmatter properties. A cross-cutting synthesis usually fits `lore` (as a new topic note under `wiki/Lore/`, listed in `wiki/Lore/Lore.md`) or `quest`.
-   - Update `wiki/index.md` with the new page.
-5. **Log Activity (only if a page was created):** Do **not** log ordinary queries — a question answered from existing wiki content needs no row in `wiki/log.md`. Only if the previous step created a new wiki page, append a new row to the table in `wiki/log.md` recording the query, the date, and the page that was generated. Use the `replace` tool to append the new row to ensure the table structure and UTF-8 encoding are maintained.
+## 2. Answer
+- Use only what the wiki and raw notes say. If something is unknown or the notes conflict, say so.
+- Cite the session dates the answer rests on (e.g. "(2026-09-24)").
+- Write names as plain or bold text, not `[[wiki links]]`, since links don't render in chat.
+
+## 3. Compound knowledge
+If the answer pulls together several pages into something no single page holds (a timeline, a relationship history, a cross-cutting theme), it's worth saving:
+- Create the page with the correct `type`, folder and frontmatter (`AGENTS.md`). A cross-cutting synthesis usually fits a new `lore` topic note (listed in `wiki/Lore/Lore.md`) or a `quest` page. Use normal wiki links and cite session notes.
+- Add it to `wiki/index.md`.
+- Append a row to `wiki/log.md` with the question and the page created (use the Edit tool so the file stays UTF-8).
+
+Ordinary questions answered from existing pages need no log row.

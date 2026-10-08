@@ -1,31 +1,39 @@
 ---
 name: lint
-description: Use this skill to perform periodic health checks on the wiki to maintain its consistency and quality.
+description: Health-check the D&D wiki and fix what it finds — broken or ambiguous links, orphan pages, missing index entries, wrong frontmatter types or properties, un-ingested raw notes, contradictions between pages and claims that drift from the raw notes. Use when the user says "lint", "check the wiki", "health check", "find broken links", or asks whether the wiki is consistent.
 ---
 
-# Lint Skill
+# Lint
 
-**Description:** Use this skill to perform periodic health checks on the wiki to maintain its consistency and quality.
+The rules being checked live in `AGENTS.md` (note types, properties, linking, provenance). Lint has a mechanical pass (scripted) and a judgment pass (reading).
 
-## Workflow
-1. **Scan the Wiki:** Review the pages within the `wiki/` directory.
-2. **Cross-Reference Sources:** Compare key claims in the wiki against the archived documents in `raw/` to ensure accuracy.
-3. **Identify Issues:** Look for the following problems:
-   - **Contradictions:** Information on one page that conflicts with another.
-   - **Stale Claims:** Information that may be outdated or inconsistent with the source material.
-   - **Orphan Pages:** Pages that are not linked to from `wiki/index.md` or any other pages.
-   - **Missing Provenance:** Identify any pages that lack source citations. Session notes cite `raw/`; all other pages should cite wiki session notes (`wiki/Sessions/YYYY/...`) and flag any `[[raw/...]]` link that has a wiki equivalent.
-   - **Data Gaps:** Missing information that should be logically present based on existing context.
-   - **Classification and Properties:** Check every note against the Note Types and Properties table in `AGENTS.md`:
-     - Every note except `index.md` / `log.md` has frontmatter with a valid `type`: `character`, `location`, `lore`, `quest`, `session-note` or `reference`.
-     - The type matches the note's folder. A note in the wrong folder should be moved, and its links fixed.
-     - `session-note` pages have `year` and `date` that match the file name.
-     - `character` pages have `name`, `species`, `class`, `character-type`, `player`, `link`. Values agree with the page's attribute table and the raw Characters CSV.
-     - Quick check: `grep -L "^type:" -r wiki --include=*.md` lists notes missing a type (ignore `index.md` and `log.md`).
-   - **Tables:** `wiki/Tables/` still holds `Characters.base`, `Quests.base`, `Lore.base` and `Sessions.base`, and their filters use the current type names.
-   - **Mangled Links:** Search for `]]]`, which marks a link damaged by a bad link update; restore the eaten character before it.
-4. **Resolve Issues:**
-   - Fix broken links and integrate orphan pages.
-   - Update or flag contradictory and stale information.
-   - Suggest areas for future ingestion to fill data gaps.
-5. **Log Activity:** Append a new row to the table in `wiki/log.md` recording the date of the linting operation and a summary of the issues fixed. Use the `replace` tool to append the new row to ensure the table structure and UTF-8 encoding are maintained.
+## 1. Mechanical pass
+Run:
+
+```bash
+python3 .agents/skills/lint/lint_wiki.py
+```
+
+It checks, across all of `wiki/`:
+- frontmatter: valid `type`, `type` first, type matches folder; session `year`/`date`/H1 match the file name; character properties present and `character-type` matches the PC/NPC folder; tags are PascalCase
+- links: unresolved, ambiguous (same name in `raw/` and `wiki/`), `wiki/`-prefixed, mangled `]]]`; non-session pages citing dated `raw/` files instead of the session note
+- coverage: orphan pages, pages missing from `wiki/index.md`, raw session files with no wiki note, wiki session notes with no raw file
+- the four bases in `wiki/Tables/` exist and filter on valid types
+
+`ERROR` lines must be fixed. `WARN` lines should be fixed unless there's a reason not to (say why in the log). `wiki/log.md` is skipped for link checks, since it quotes old and example links.
+
+**Known `INFO`:** about 260 `#Section` links point at bullet or table entries in hub pages (Lore topics, `Locations.md`), not headings, so Obsidian opens the page top. This is accepted for now. Don't mass-convert entries to headings without asking. `--anchors` lists them.
+
+## 2. Judgment pass
+The script can't judge content. Pick a scope rather than reading the whole wiki: by default, the sessions ingested since the last lint row in `wiki/log.md`, plus the character, quest, location and lore pages they link to. Do a full sweep only when the user asks.
+- **Accuracy:** spot-check claims in those pages against the matching `raw/` files.
+- **Contradictions:** the same fact stated differently on two pages (species, who did what, dates, status like alive/dead).
+- **Stale claims:** roster rows, quest status or location descriptions that later sessions have overtaken.
+- **Structure drift:** events bullets out of date order, stray links in the middle of lists, unsorted `## Sources`.
+- **Data gaps:** entities mentioned in several sessions with no page or roster row.
+
+## 3. Fix and report
+- Fix clear-cut issues directly. If a fix would touch many pages (more than about 10) or changes meaning, list the planned changes and ask first.
+- Re-run the script until it reports 0 errors.
+- Append one row to `wiki/log.md` (date, `(Lint)`, what was fixed and what was flagged but left). Use the Edit tool, not shell redirection, so the file stays UTF-8.
+- Tell the user what you fixed, what you flagged, and any raw notes worth ingesting.

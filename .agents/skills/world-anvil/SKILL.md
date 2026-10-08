@@ -1,11 +1,11 @@
 ---
 name: world-anvil
-description: Use this skill to convert any wiki page or section (sessions, characters, lore, quests, locations, tables) into World Anvil BBCode that can be copy-pasted into a World Anvil article.
+description: Convert a wiki page or a single entry (session note, character, lore entry, quest, location, roster table) into World Anvil BBCode, printed in a code block ready to paste into a World Anvil article. Output only, never edits files. Use when the user says "World Anvil", "BBCode", "WA", or "convert/export <page> for World Anvil", e.g. "world anvil 2026-10-01" or "BBCode for Lore The Mountain".
 ---
 
-# World Anvil Skill
+# World Anvil
 
-**Description:** Convert content from `wiki/` into BBCode for World Anvil. Output only; never edit wiki or raw files.
+Output only; never edit wiki or raw files.
 
 ## Workflow
 1. **Resolve the source** from the user's argument:
@@ -23,7 +23,7 @@ description: Use this skill to convert any wiki page or section (sessions, chara
    - Cross-links to other World Anvil articles use `@[Article Name](article)`; names were left as plain text because the article titles are unknown.
 
 ## Conversion Rules (all page types)
-- **Drop:** YAML frontmatter, `## Sources` / `## References` sections, and every provenance link, whether `[[raw/...]]` or a session citation like `[[Sessions/YYYY/YYYY-MM-DD|Session]]` (including `[Source]` labels, and the surrounding sentence-final punctuation spacing should stay clean).
+- **Drop:** YAML frontmatter, `## Sources` / `## References` sections, and every provenance link, whether `[[raw/...]]` or a session citation like `[[Sessions/YYYY/YYYY-MM-DD|Session]]`, including `[Source]` labels. Leave no stray spaces before punctuation where a citation was removed.
 - **Wiki links:** `[[target|Label]]` → `Label`; `[[target]]` → last path segment without `#anchor`. Remove parenthetical or sentence-level "See [[...]]" cross-references entirely.
 - **Headings:** `#` → `[h1]`, `##` → `[h2]`, `###` → `[h3]`, `####` → `[h4]`. Close each tag.
 - **Emphasis:** `**x**` → `[b]x[/b]`, `*x*` → `[i]x[/i]`. Preserve existing emphasis exactly; add none. If link removal leaves bold around plain text, result is `[b]Label[/b]`.
@@ -32,7 +32,7 @@ description: Use this skill to convert any wiki page or section (sessions, chara
 - **Checklists** (`- [ ]` / `- [x]`): use `[li]` and prefix the text with `☐ ` or `☑ `.
 - **Tables:** `[table]`, header row as `[tr][th]..[/th][/tr]`, body rows as `[tr][td]..[/td][/tr]`, one row per line, `[/table]`. Unescape `\|` inside cells. Drop empty trailing columns. Skip the `---` separator row.
 - **Paragraphs:** plain text separated by a blank line.
-- **Long single-line entries** (Lore note style): keep the entry as one paragraph unless it has dated sentences that clearly separate eras (`On 2026-09-03 ...`); in that case, keep them in one paragraph anyway. Do not restructure or summarize.
+- **Long single-line entries** (Lore note style): keep the entry as one paragraph, even when it has dated sentences (`On 2026-09-03 ...`). Do not restructure or summarize.
 - **Single entry output:** when converting one entry, use its name as `[h1]` (or `[h2]` if the user says it is part of a larger article) followed by its text.
 - Do not change wording, add facts, reorder content, or escape quotes/apostrophes.
 - One blank line between block elements; none inside lists.
@@ -41,7 +41,7 @@ description: Use this skill to convert any wiki page or section (sessions, chara
 Choose the rules below from the note's `type` frontmatter property: `session-note`, `character`, `lore`, `quest`, `location`, `reference`. Index pages are hubs of their type (e.g. `Characters.md`, `Lore.md`).
 - **Character frontmatter:** the frontmatter is dropped. If the page has no attribute table but the frontmatter has `species`, `class`, `character-type` or `player`, emit a small `[table]` of those values (skip empty ones) right after `[h1]`.
 - **Sessions:** intro paragraph, then `[h2]` sections, `[ul]`/`[ol]` lists. Title is `[h1]Session: YYYY-MM-DD[/h1]`.
-- **Character pages:** keep section order (Appearance, Backstory, Key Events, Personality, ...). Key Events entries are bold-dated bullets; keep them as `[li]`. Drop trailing `[Session]` links.
+- **Character pages:** keep the page's own section order (headings vary: `Backstory / Events`, `Backstory`, `Key Events`, `Appearance`, ...). Dated event bullets (`- **October 1, 2026:** ...`) stay as `[li]`. Drop trailing `[Session]` links and any stray session-link bullets inside the events list.
 - **Lore / Quests / Locations / Characters index pages:** these are big; if the user gave no entry, ask which entry or section they want rather than converting the whole file. Convert the whole file only if they say so.
 
 ## Output Template

@@ -1,50 +1,40 @@
 ---
 name: ingest
-description: Use this skill when a new source document is added to the `raw/` folder, and you need to integrate its knowledge into the wiki. `raw/` is the permanent, immutable source of truth for these documents.
+description: Turn new D&D session notes in `raw/` into wiki pages. Writes the session note, updates the character, quest, lore and location pages it touches, then the index and log. Use when the user says "ingest", "ingest 2026-10-08", "add/process the new session notes", or mentions a new file in `raw/`, or when raw session files have no wiki note yet.
 ---
 
-# Ingest Skill
+# Ingest
 
-**Description:** Use this skill when a new source document is added to the `raw/` folder, and you need to integrate its knowledge into the wiki. `raw/` is the permanent, immutable source of truth for these documents.
+Follow `AGENTS.md` for note types, frontmatter properties, link format and provenance. This skill covers the workflow only.
 
-## Workflow
-1. **Read the Source:** Carefully read the new document in the `raw/` directory.
-2. **Sanitize Content:** If the source document contains corrupted character sequences (often due to encoding issues), replace them with their correct equivalents:
-   - `â€™` → `'`
-   - `â€œ` → `"`
-   - `â€` → `"`
-   - `â€“` → `–`
-   - `â€”` → `—`
-   - `â€¦` → `...`
-   - `â¡` → `!`
-   - `Ã¢â‚¬â„¢` → `'`
-   - `Ã¢â‚¬Å“` → `"`
-   - `Ã¢â‚¬Â` → `"`
-   - `Ã¢â‚¬â€œ` → `–`
-   - `Ã¢â‚¬â€` → `—`
-   - `Â¾` → `¾`
-   - `Â½` → `½`
-   - `Â¼` → `¼`
-3. **Identify Key Information:** Extract the main entities, concepts, claims, and takeaways from the document.
-4. **Plan Updates:** Identify which existing pages in the `wiki/` directory need to be updated with this new information. If new concepts are introduced, plan to create new pages for them.
-5. **Execute Updates:** 
-   - Update existing wiki pages to integrate the new knowledge.
-   - Create new wiki pages as necessary. **Classify each new page first**: pick its `type` from the table in `AGENTS.md` (Note Types and Properties), then put it in that type's folder:
-     - `session-note` → `wiki/Sessions/YYYY/YYYY-MM-DD.md` (link as `[[Sessions/YYYY/YYYY-MM-DD|YYYY-MM-DD]]`).
-     - `character` → `wiki/Characters/PC/<Name>.md` or `wiki/Characters/NPC/<Name>.md` (by `character-type`), with the attribute table (Type, Species, Class, Player). Also add a row to `wiki/Characters/Characters.md`.
-     - `quest` → `wiki/Quests/`. Also update `wiki/Quests/Quests.md`.
-     - `lore` → a new entry in the matching topic note under `wiki/Lore/`. If no topic fits, create a new topic note and list it in `wiki/Lore/Lore.md`.
-     - `location` → a new row/entry in `wiki/Locations/Locations.md`.
-     - `reference` → loose out-of-game notes in `wiki/Sessions/` (rare).
-     - Images go in `wiki/Images/`.
-   - **Properties:** Every new page starts with frontmatter: `type` first, then the type's extra properties, then `tags`.
-     - Session notes: `year` (number) and `date` (`YYYY-MM-DD`, from the raw file name).
-     - Character pages: `name`, `species`, `class`, `character-type` (`PC`/`NPC`), `player` (PCs only), `link` (leave empty).
-     - When an ingest changes a character's species, class or player, update both the attribute table and the frontmatter.
-     - Never remove `type` from an existing page. The Base tables in `wiki/Tables/` depend on it.
-   - **Internal Linking:** Ensure every major character, location, and lore concept is linked to its wiki page (e.g., `[[Characters/PC/Soren|Soren]]`) the first time it is mentioned in a session note or update.
-   - **Tagging:** Add a `tags` field to the YAML frontmatter (after `type` and its properties). Tags should be character and location names mentioned in the document. Tags MUST be single words in PascalCase with no spaces or special characters (e.g., `MaggieNorth`, `LordlingsBordello`).
-   - **Provenance:** Every update or new page MUST cite its source. Only session notes (and the loose reference notes in `wiki/Sessions/`) link to `raw/` (e.g., `[[raw/2024/2024-01-01.md|Source]]`). Every other page (characters, lore, quests, locations) cites the wiki session note instead (e.g., `[[Sessions/2024/2024-01-01|Session: 2024-01-01]]`), and links `raw/` only when no wiki page covers that source (e.g., the CSVs).
-   - Ensure all information is cross-referenced correctly.
-6. **Update Index:** If you created new pages, add them to `wiki/index.md`. The Session Logs list is in reverse chronological order: insert a new session note at the top and move the *(Latest Session)* marker to it.
-7. **Log Activity:** Append a new row to the table in `wiki/log.md` detailing the file ingested, the date, and a brief summary of the changes made to the wiki. Use the `replace` tool to append the new row to ensure the table structure and UTF-8 encoding are maintained.
+## 1. Find what to ingest
+- If the user names a date or file, use that.
+- Otherwise, list raw session files with no wiki note: run `python3 .agents/skills/lint/lint_wiki.py` and look for `not ingested` errors.
+- Several new files: ingest them oldest first, one at a time, so each session note can link the previous one.
+
+## 2. Read the source
+- Read the raw file in full. If an image is embedded (`![[file.png]]`), make sure the file is in `wiki/Images/` and keep the embed where it matters.
+- Read the previous session note, so the lead paragraph picks up where it left off and names stay consistent.
+- Fix any encoding mojibake in what you write (`â€™` → `'`, `â€œ`/`â€` → `"`, `â€”` → `—`, `â€“` → `–`, `â€¦` → `...`). Never edit `raw/`.
+- If the notes correct an earlier session (e.g. "it wasn't a bomb"), fix that session note too and mention the correction (see the template).
+
+## 3. Write the session note
+Create `wiki/Sessions/YYYY/YYYY-MM-DD.md` from [session-template.md](session-template.md). Tags are the PascalCase names of the characters and locations in the session.
+
+## 4. Update the pages the session touches
+Go through every character, location, lore topic and quest the session mentions. For each:
+
+- **Characters** (`wiki/Characters/PC/`, `wiki/Characters/NPC/`): add a dated bullet to the page's events list (under `Backstory / Events` or `Key Events`, whichever the page uses), e.g. `- **October 1, 2026:** ...`, in date order. Add the session to `## Sources` in date order. If species, class or player changed, update both the attribute table and the frontmatter.
+  - New notable NPC: create a page in `wiki/Characters/NPC/` and add a row to `wiki/Characters/Characters.md`. Minor NPCs get only a roster row.
+- **Quests** (`wiki/Quests/`): record progress, new tasks or completion on the quest page and in `Quests.md`. New missions get a task in `Quests.md`; give one its own page only if it spans several sessions.
+- **Locations** (`wiki/Locations/`): major locations have their own page (`Tesselia.md`, `Drakenweld.md`, ...); add what happened there. New major location: create a page and link it from `Locations.md`. Minor locations stay as rows in the `Locations.md` table.
+- **Lore** (`wiki/Lore/`): add or extend the entry in the matching topic note (Technology, Bestiary, Factions and Organizations, ...). If no topic fits, create a topic note and list it in `Lore.md`.
+
+Every addition cites the session note (`[[Sessions/YYYY/YYYY-MM-DD|Session: YYYY-MM-DD]]`), never `raw/`. Link major entities on first mention in each page you touch.
+
+## 5. Index and log
+- `wiki/index.md`: add each new page. The Session Logs list is newest first: insert the new session at the top and move the *(Latest Session)* marker to it.
+- `wiki/log.md`: append one row to the table (date, file ingested, short summary of pages created and updated). Use the Edit tool, not shell redirection, so the file stays UTF-8.
+
+## 6. Check
+Run `python3 .agents/skills/lint/lint_wiki.py` and fix any errors or warnings your changes introduced (unresolved links, orphans, missing index entries, wrong properties). Pre-existing `INFO` items can be left alone.
