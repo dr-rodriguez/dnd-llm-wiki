@@ -30,7 +30,7 @@ Key events:
 - **Equipment:** He was gifted the **Frost Iron Blade** by Alisha in September 2025.
 - **Diplomacy and Language:** Despite a "terrible" persuasion attempt once, he successfully used his knowledge of the Primordial dialect (Ingan) to communicate with entities in the depths of a constructed corridor.
 - **May 14, 2026:** Helped [[Characters/PC/Aolis|Aolis]] free his hand from a [[Lore/Bestiary#Sticky Slime|Sticky Slime]]. Later, he rushed into a room humming with magic, falling over crates but initiating the party's investigation of the tower's dual anchor points.
-- **May 21, 2026:** Took significant damage from swarms of [[Lore/Bestiary#Cranium Rats|cranium rats]] during a tower battle. When encountering a mysterious [[Lore/Bestiary#Yellow Cloak (Figure)|figure in a yellow cloak]], he heard its discordant voices as the sound of a crackling fire.
+- **May 21, 2026:** Took significant damage from swarms of [[Lore/Bestiary#Cranium Rats|cranium rats]] during a tower battle. When encountering a mysterious [[Lore/Bestiary#Scion in Yellow|figure in a yellow cloak]], he heard its discordant voices as the sound of a crackling fire.
 - **May 28, 2026:** Resisted an attempt by the [[Lore/Bestiary#Scion in Yellow|Scion in Yellow]] to cast *Dominate Person*. During the chaotic battle in the Transcendent plane, he successfully took out a summoned **Blue Slaad**.
 - **June 11, 2026:** While wandering the halls of [[Characters/NPC/Sofia AI|Sofia AI]]'s facility, received a set of potions from [[Characters/NPC/Angela Nevermore|Nevermore]] to distribute to the party as advance payment for the next mission (clearing Anti-Air gun sites): a **Superior Healing Potion** for everyone, plus one additional potion each (Ogra gets **Potion of Resistance**).
 - **June 25, 2026:** Took heavy damage during the robot fight at the Anti-Air gun church site, but delivered the killing blow to the last robot, ending the combat.
@@ -45,9 +45,11 @@ Key events:
 - **September 3, 2026:** Worked at [[Characters/PC/Villhelm Emberstoke|Villhelm]]'s keyless manacles for a long while without success — the **[[Characters/NPC/Overseer (VI)|Overseer]]** eventually removed them. **Walked into a target-practice chassis's line of sight and was hit by flames.** **Charged in raging** on hearing Maggie scream; his **tree roots failed to hold** one of the [[Lore/Technology#Interrogator Units|interrogators]], who broke straight through them. **Carried Maggie out** of the room afterward.
 - **September 10, 2026:** **Raged and charged straight into [[Characters/NPC/Madasin|Madasin]]'s riot control gas** while the rest of the party was blinded by it. She **attached a mind-control device to him**, turning him on [[Characters/PC/Zinjaro|Zinjaro]] — he swung to hit and topple the cleric, **missed**, then **recovered and apologized**.
 - **September 24, 2026:** **Cut [[Characters/NPC/Madasin|Madasin]] in half**, ending the airship fight. Carried off a fine rug for [[Characters/PC/Zinjaro|Zinjaro]]. Passed out after **16 drinks** at the Tesselia Guild Hall. [[Sessions/2026/2026-09-24|Session]]
+- **October 8, 2026:** On first watch, took the **bloody saddlebag** (**30 gold**, rations, supplies) from a riderless, fully saddled horse that wandered into camp from the northeast. [[Sessions/2026/2026-10-08|Session]]
 
 - [[Sessions/2026/2026-08-20|Session: 2026-08-20]]
 ## Sources
+- [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-10|Session: 2026-09-10]]
 - [[Sessions/2026/2026-09-24|Session: 2026-09-24]]
 - [[Sessions/2026/2026-09-03|Session: 2026-09-03]]

@@ -49,6 +49,7 @@ From [[Locations/Port Altarall|Port Altarall]] it is a two-day sail across The D
 - The attack was [[Characters/NPC/Odin AI|Odin AI]]'s attempt to take Sofia's core. His airships kept up a **Saturation Bombardment**. [[Sessions/2026/2026-06-04|Session: 2026-06-04]], [[Sessions/2026/2026-06-11|Session: 2026-06-11]]
 - The party cleared the Anti-Air gun sites (including a church site) from June to July 2026, and boarded the freight airship at the docks from August to September 2026. See [[Quests/Quests|Quests]]. [[Sessions/2026/2026-06-18|Session: 2026-06-18]], [[Sessions/2026/2026-07-23|Session: 2026-07-23]]
 - The siege **ended on 2026-10-01** when all the enemy ships withdrew. [[Sessions/2026/2026-10-01|Session: 2026-10-01]]
+- After the siege, supplies are low and Tesselia is **no longer a Tier 1 capital**: basic supplies remain, but **potions are limited** and **no magic items** are for sale (2026-10-08). [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 
 ## Sources
 - [[Sessions/2023/2023-11-30|Session: 2023-11-30]]
@@ -71,4 +72,5 @@ From [[Locations/Port Altarall|Port Altarall]] it is a two-day sail across The D
 - [[Sessions/2026/2026-09-03|Session: 2026-09-03]]
 - [[Sessions/2026/2026-09-24|Session: 2026-09-24]]
 - [[Sessions/2026/2026-10-01|Session: 2026-10-01]]
+- [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[raw/DnD5e Sofia Campaign 2023 Characters_Locations - Locations.csv|Locations CSV]]

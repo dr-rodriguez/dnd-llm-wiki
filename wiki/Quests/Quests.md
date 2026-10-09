@@ -26,7 +26,7 @@ Following their detour crashing on an island with a volcano and defeating a radi
 - [ ] **Restore the Overseer:** On 2026-09-24 the immobile, failing **[[Characters/NPC/Overseer (VI)|Overseer]]** gave [[Characters/PC/Maximus Arkelius|Maxim]] its **auxiliary Tier 4 core housing** (holding a small core). It was clutching a **~15 lb new core** meant for it once the party finds the **tools to install it in a new body**. It then went unresponsive. The party **took the new core but left the body** aboard the ship.
 - [x] **Report to Sofia AI:** After a long rest at the guild hall, the party spoke with [[Characters/NPC/Sofia AI|Sofia AI]] on 2026-10-01 via a projecting metallic spider and briefed her on the ship and the Overseer. [[Sessions/2026/2026-10-01|Source]]
 - [ ] **Locate the Technocrats:** The [[Characters/NPC/Overseer (VI)|Overseer]] had CCTV footage of the party's insectoid friends but wouldn't say where; the party has asked [[Characters/NPC/Sofia AI|Sofia AI]] for help finding them.
-- [ ] **Scout The Mountain:** On 2026-10-01 the Queen asked the party to scout **[[Lore/Locations of Interest#The Mountain|The Mountain]]**, an ancient entity worshiped by subterranean creatures that is **rising again** as new cults form. Goals: (1) learn whether the **cults are empowering it**, (2) **thin out the cults**, (3) **remove an adult dragon** that has stolen things and drawn attention. The party may keep any **hoard**; reward **500 platinum**. [[Characters/PC/Villhelm Emberstoke|Villhelm]] thinks the dragon can be talked to; [[Characters/PC/Maximus Arkelius|Maxim]] doubts it. [[Sessions/2026/2026-10-01|Source]]
+- [ ] **Scout The Mountain:** On 2026-10-01 the Queen asked the party to scout **[[Lore/Locations of Interest#The Mountain|The Mountain]]**, an ancient entity worshiped by subterranean creatures that is **rising again** as new cults form. Goals: (1) learn whether the **cults are empowering it**, (2) **thin out the cults**, (3) **remove an adult dragon** that has stolen things and drawn attention. The party may keep any **hoard**; reward **500 platinum**. [[Characters/PC/Villhelm Emberstoke|Villhelm]] thinks the dragon can be talked to; [[Characters/PC/Maximus Arkelius|Maxim]] doubts it. [[Sessions/2026/2026-10-01|Source]] On 2026-10-08 the party set out **on foot** (mid spring) toward **Wheat Burrow** and **Lumber Camp**, which lies on the way and has been having problems. The GM clarified that **The Mountain is a large primordial creature**. On the road they beat a gnoll ambush and killed an **[[Lore/Bestiary#Alp|Alp]]** and a **[[Lore/Bestiary#Treacle|treacle]]**. [[Sessions/2026/2026-10-08|Source]]
 
 ## Past Major Objectives
 
@@ -46,6 +46,7 @@ Following their detour crashing on an island with a volcano and defeating a radi
 - **The Severance:** A new faction back in [[Locations/Moren|Moren]] aiming to seize the floating mountain holding the magic college. Reported by [[Characters/NPC/Maxwella|Maxwella]] in August 2026; see [[Lore/Factions and Organizations#The Severance|The Severance]].
 
 ## Sources
+- [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-01-15|Session: 2026-01-15]] (Tesselia Mission briefing)
 - [[Sessions/2025/2025-10-02|Session: 2025-10-02]] (Drakenweld Excursion)
 - [[Sessions/2026/2026-04-09|Session: 2026-04-09]] (Arrival at the Siege of Tesselia)

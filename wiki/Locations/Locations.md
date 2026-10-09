@@ -52,6 +52,9 @@ type: location
 | [[Locations/Tower Isle\|Tower Isle]] | Island | | Location of Project Horizon |
 | Strange Island | Island | | Home to Nixie |
 | Mysterious Shop | Shop | [[Locations/Tesselia\|Tesselia]] | Pristine shop run by the Yellow Man; contains symbols of the Outer Planes and a secret sitting room/bedroom. |
+| Wheat Burrow | | | On the way to Lumber Camp from [[Locations/Tesselia\|Tesselia]] [[Sessions/2026/2026-10-08\|Source]] |
+| Lumber Camp | Camp | | On the way to [[Lore/Locations of Interest#The Mountain\|The Mountain]]; has been having problems [[Sessions/2026/2026-10-08\|Source]] |
 
 ## Sources
+- [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[raw/DnD5e Sofia Campaign 2023 Characters_Locations - Locations.csv|Locations CSV]]

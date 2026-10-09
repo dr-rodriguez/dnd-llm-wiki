@@ -56,8 +56,10 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 
 - [[Sessions/2026/2026-08-20|Session: 2026-08-20]]
 - **October 1, 2026:** Recalled **[[Lore/Locations of Interest#The Mountain|The Mountain]]** from folklore as an ancient entity worshiped by subterranean creatures. [[Sessions/2026/2026-10-01|Session]]
+- **October 8, 2026:** On the road to [[Lore/Locations of Interest#The Mountain|The Mountain]], cast **Goodberry** as magical bananas for the party (and a goat). Cast **True Seeing** and saw the goat was an **[[Lore/Bestiary#Alp|Alp]]**, a fey that inflicts nightmares on travelers, and urged the party to kill it. [[Sessions/2026/2026-10-08|Session]]
 
 ## Sources
+- [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-10|Session: 2026-09-10]]
 - [[Sessions/2026/2026-09-24|Session: 2026-09-24]]
 - [[Sessions/2026/2026-10-01|Session: 2026-10-01]]
