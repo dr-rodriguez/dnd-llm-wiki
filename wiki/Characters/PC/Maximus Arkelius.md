@@ -45,8 +45,10 @@ During his adventures, Maxim formed a close bond with [[Characters/PC/Aolis|Aoli
 - [[Sessions/2026/2026-08-20|Session: 2026-08-20]]
 - **October 1, 2026:** Was caught in his underwear by [[Characters/NPC/Maxwella|Maxwella]], who refused to dress him. Recognized [[Characters/NPC/Angela Nevermore|Nevermore]]'s device as an **anti-espionage device**. Learned from [[Characters/NPC/Sofia AI|Sofia AI]] that the [[Characters/NPC/Overseer (VI)|Overseer]] is a **Gen 3**, ancient even in his time, and that the new core is a **Gen 4**. Doubted that scouting [[Lore/Locations of Interest#The Mountain|The Mountain]] is as pressing as the Odin situation, and doubts the dragon can be talked to. [[Sessions/2026/2026-10-01|Session]]
 - **October 8, 2026:** Set up a **tent** for the party on the road to [[Lore/Locations of Interest#The Mountain|The Mountain]]. Woke on second watch in time to see [[Characters/PC/Aolis|Aolis]] kill the [[Lore/Bestiary#Treacle|treacle]] that drained [[Characters/PC/Brambleberry|Bramble]] (who was wearing his old pants). [[Sessions/2026/2026-10-08|Session]]
+- **October 22, 2026:** Took the riderless **Clydesdale draft horse** and offered [[Characters/PC/Aolis|Aolis]] a ride. Tried the camp's **bitter coffee** and reeled. Heard the **orcs** moving through the woods near Lumber Camp and led the chase; leaned toward hiding, but the party saved the two halflings. [[Sessions/2026/2026-10-22|Session]]
 
 ## Sources
+- [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-10|Session: 2026-09-10]]
 - [[Sessions/2026/2026-09-24|Session: 2026-09-24]]

@@ -39,8 +39,10 @@ Throughout her adventures, Brambleberry has demonstrated both roguish and ranger
 - **September 10, 2026:** Badly hurt by [[Characters/NPC/Madasin|Madasin]]'s **blade dance** in the gas cloud, healed to full by [[B-Team]]'s **seeking needles**, then struck again once Madasin gained Haste. **Went down unconscious** late in the fight — the third of the party to fall.
 - **September 24, 2026:** Revived by Mass Cure Wounds, knocked down again by [[Characters/NPC/Madasin|Madasin]]'s blade dance, and revived once more with Healing Word. Argued against [[Characters/PC/Zinjaro|Zinjaro]] stealing a rug from the airship. Passed out after **5 drinks** at the Tesselia Guild Hall. [[Sessions/2026/2026-09-24|Session]]
 - **October 8, 2026:** The party decided against buying a cart for her to pull. Spotted the hatted goat following the party (later revealed as an **[[Lore/Bestiary#Alp|Alp]]**) and tried to talk to it. On second watch a "rabbit" (a **[[Lore/Bestiary#Treacle|treacle]]**) chewed through her pants (Maxim's old ones) and **drained her blood**; she **passed out with 2 levels of exhaustion**, and the wound resisted closing until [[Characters/PC/Aolis|Aolis]] bound it. A long rest brought her back down to **1 level of exhaustion**. [[Sessions/2026/2026-10-08|Session]]
+- **October 22, 2026:** Still had **2 levels of exhaustion** after resting (she started with 3) and got no ride on the horse. At Lumber Camp drank bitter **coffee**, and [[Characters/PC/Zinjaro|Zinjaro]]'s **Greater Restoration** cleared her remaining exhaustion. Helped rescue two halflings from **21 orcs**. [[Sessions/2026/2026-10-22|Session]]
 
 ## Sources
+- [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-10|Session: 2026-09-10]]
 - [[Sessions/2026/2026-09-24|Session: 2026-09-24]]

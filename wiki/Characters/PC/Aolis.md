@@ -48,8 +48,10 @@ Aolis arrived at the Adventurer's Guild via boat alongside [[Characters/PC/Zinja
 - [[Sessions/2026/2026-08-20|Session: 2026-08-20]]
 - **October 1, 2026:** Shared a room with [[Characters/PC/Maximus Arkelius|Maxim]]; [[Characters/NPC/Maxwella|Maxwella]] suggested he **whip Maxim** to get him up earlier. Asked [[Characters/NPC/Angela Nevermore|Nevermore]] and Maggie why the siege ended, and about [[Characters/NPC/Amber Lyre|Amber]] (stable). [[Sessions/2026/2026-10-01|Session]]
 - **October 8, 2026:** Was the only one able to **pet the hatted goat**; once [[Characters/PC/Zinjaro|Zinjaro]] identified it as an **[[Lore/Bestiary#Alp|Alp]]**, reluctantly **killed it with Chill Touch** and buried it. On second watch, noticed too late that a "rabbit" (a **[[Lore/Bestiary#Treacle|treacle]]**) was draining [[Characters/PC/Brambleberry|Bramble]]; killed it with two spell attacks and bound her wound. It had eaten some of his **Sentinel's Flask**. [[Sessions/2026/2026-10-08|Session]]
+- **October 22, 2026:** Offered a ride on [[Characters/PC/Maximus Arkelius|Maxim]]'s draft horse. In the woods outside Lumber Camp, fought **21 orcs** holding two halflings, and stood in place with [[Characters/PC/Zinjaro|Zinjaro]] while the rescued halflings used **circle magic** to summon a rainstorm and douse the fires. [[Sessions/2026/2026-10-22|Session]]
 
 ## Sources
+- [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-10|Session: 2026-09-10]]
 - [[Sessions/2026/2026-09-24|Session: 2026-09-24]]

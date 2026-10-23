@@ -57,8 +57,10 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - [[Sessions/2026/2026-08-20|Session: 2026-08-20]]
 - **October 1, 2026:** Recalled **[[Lore/Locations of Interest#The Mountain|The Mountain]]** from folklore as an ancient entity worshiped by subterranean creatures. [[Sessions/2026/2026-10-01|Session]]
 - **October 8, 2026:** On the road to [[Lore/Locations of Interest#The Mountain|The Mountain]], cast **Goodberry** as magical bananas for the party (and a goat). Cast **True Seeing** and saw the goat was an **[[Lore/Bestiary#Alp|Alp]]**, a fey that inflicts nightmares on travelers, and urged the party to kill it. [[Sessions/2026/2026-10-08|Session]]
+- **October 22, 2026:** Wanted to drink the **crimson wine** from an abandoned cart; it was handed over at **Lumber Camp** and he was sad. Bought **mushroom powder (25 gp)**, cast **Greater Restoration** on [[Characters/PC/Brambleberry|Bramble]], then cast **Wall of Fire** to stop **21 orcs** carrying two halflings. Helped the halflings' **circle magic** raise a rainstorm to put out the fires. [[Sessions/2026/2026-10-22|Session]]
 
 ## Sources
+- [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-10|Session: 2026-09-10]]
 - [[Sessions/2026/2026-09-24|Session: 2026-09-24]]
