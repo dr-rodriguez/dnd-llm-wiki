@@ -58,8 +58,10 @@ He practices a unique, hedonistic interpretation of his faith, believing that en
 - **October 1, 2026:** Recalled **[[Lore/Locations of Interest#The Mountain|The Mountain]]** from folklore as an ancient entity worshiped by subterranean creatures. [[Sessions/2026/2026-10-01|Session]]
 - **October 8, 2026:** On the road to [[Lore/Locations of Interest#The Mountain|The Mountain]], cast **Goodberry** as magical bananas for the party (and a goat). Cast **True Seeing** and saw the goat was an **[[Lore/Bestiary#Alp|Alp]]**, a fey that inflicts nightmares on travelers, and urged the party to kill it. [[Sessions/2026/2026-10-08|Session]]
 - **October 22, 2026:** Wanted to drink the **crimson wine** from an abandoned cart; it was handed over at **Lumber Camp** and he was sad. Bought **mushroom powder (25 gp)**, cast **Greater Restoration** on [[Characters/PC/Brambleberry|Bramble]], then cast **Wall of Fire** to stop **21 orcs** carrying two halflings. Helped the halflings' **circle magic** raise a rainstorm to put out the fires. [[Sessions/2026/2026-10-22|Session]]
+- **November 5, 2026:** Crept toward the cult encampment and cast **Thaumaturgy** to whisper ominously; it failed and a hobgoblin spotted him. Was hit by **Heat Metal** (broken by [[Characters/PC/Villhelm Emberstoke|Villhelm]]). Cast **Shield of Faith** on [[Characters/PC/Aolis|Aolis]] and used **The Solar Gift** to cast **Daylight** over the fight. Was the only one to **resist the Horrified condition** from the ritual. [[Sessions/2026/2026-11-05|Session]]
 
 ## Sources
+- [[Sessions/2026/2026-11-05|Session: 2026-11-05]]
 - [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-10|Session: 2026-09-10]]

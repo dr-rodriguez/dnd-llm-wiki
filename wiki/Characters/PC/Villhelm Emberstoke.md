@@ -38,8 +38,10 @@ Villhelm joined the party in April 2026 at the **Adventurer's Guild Hall** in **
 - [[Sessions/2026/2026-08-20|Session: 2026-08-20]]
 - **October 1, 2026:** Is convinced the party can **talk to the adult dragon** near [[Lore/Locations of Interest#The Mountain|The Mountain]]. [[Sessions/2026/2026-10-01|Session]]
 - **October 8, 2026:** Tried to pet the hatted goat (an **[[Lore/Bestiary#Alp|Alp]]**) and **scared it** instead. [[Sessions/2026/2026-10-08|Session]]
+- **November 5, 2026:** At the cult encampment, **broke the concentration** of a Heat Metal caster with punches, helped [[Characters/PC/Brambleberry|Bramble]] attack the goliath **Rivermaw Stormborn** and **finished him off**, then became **Horrified** when the ritual summoned an aeorian nullifier and two adult kruthik. [[Sessions/2026/2026-11-05|Session]]
 
 ## Sources
+- [[Sessions/2026/2026-11-05|Session: 2026-11-05]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-10|Session: 2026-09-10]]
 - [[Sessions/2026/2026-09-24|Session: 2026-09-24]]

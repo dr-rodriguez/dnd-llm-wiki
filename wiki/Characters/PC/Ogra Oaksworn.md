@@ -47,9 +47,11 @@ Key events:
 - **September 24, 2026:** **Cut [[Characters/NPC/Madasin|Madasin]] in half**, ending the airship fight. Carried off a fine rug for [[Characters/PC/Zinjaro|Zinjaro]]. Passed out after **16 drinks** at the Tesselia Guild Hall. [[Sessions/2026/2026-09-24|Session]]
 - **October 8, 2026:** On first watch, took the **bloody saddlebag** (**30 gold**, rations, supplies) from a riderless, fully saddled horse that wandered into camp from the northeast. [[Sessions/2026/2026-10-08|Session]]
 - **October 22, 2026:** Opened an abandoned cart's **barrel of crimson wine** and carried it to **Lumber Camp**, where it was returned (the camp's missing third cart). Approached the fleeing **orcs**, and a shackled halfling ran to him during the rescue. [[Sessions/2026/2026-10-22|Session]]
+- **November 5, 2026:** Killed **two hobgoblins** with the **frost iron sword**, pulled [[Characters/PC/Aolis|Aolis]] out of the goliath Rivermaw's grapple with **vines**, and became **Horrified** after the ritual. [[Sessions/2026/2026-11-05|Session]]
 
 - [[Sessions/2026/2026-08-20|Session: 2026-08-20]]
 ## Sources
+- [[Sessions/2026/2026-11-05|Session: 2026-11-05]]
 - [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-10|Session: 2026-09-10]]

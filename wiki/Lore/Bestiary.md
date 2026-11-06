@@ -29,8 +29,14 @@ Part of [[Lore/Lore|Lore]].
 
   ![[Alp.png|300]]
 * **Treacle**: A blood-drinking creature that looks like a **small rabbit with an injured leg**. One crept to the party's campfire in October 2026, ate rations and some Sentinel's Flask, then chewed through [[Characters/PC/Brambleberry|Bramble]]'s pants and **drained her blood** until she passed out with **2 levels of exhaustion**; its wound **resisted closing**. When hurt it **lunges around**. [[Characters/PC/Aolis|Aolis]] killed it. The players did not recognize it; the name comes from the GM. [[Sessions/2026/2026-10-08|Source]]
+* **Cult Encampment Creatures**: At the cult camp on 2026-11-05 the party fought **gnolls, hobgoblins, goblins and duergar**, plus an **ashari firetamer** who chanted and **transformed into a fire elemental**. A ritual that killed several goblins then summoned an **aeorian nullifier** and **two adult kruthik**, giving [[Characters/PC/Ogra Oaksworn|Ogra]], [[Characters/PC/Brambleberry|Bramble]] and [[Characters/PC/Villhelm Emberstoke|Villhelm]] the **Horrified** condition ([[Characters/PC/Zinjaro|Zinjaro]] resisted). [[Sessions/2026/2026-11-05|Source]]
+
+  ![[fire elemental.png|300]]
+  ![[aeorian nullifier.png|300]]
+  ![[adult kruthik.png|300]]
 
 ## Sources
+- [[Sessions/2026/2026-11-05|Session: 2026-11-05]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-03|Session: 2026-09-03]]
 - [[Sessions/2026/2026-08-27|Session: 2026-08-27]]

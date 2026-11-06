@@ -54,6 +54,7 @@ type: location
 | Mysterious Shop | Shop | [[Locations/Tesselia\|Tesselia]] | Pristine shop run by the Yellow Man; contains symbols of the Outer Planes and a secret sitting room/bedroom. |
 | Wheat Burrow | | | On the way to Lumber Camp from [[Locations/Tesselia\|Tesselia]] [[Sessions/2026/2026-10-08\|Source]] |
 | Lumber Camp | Camp | | On the way to [[Lore/Locations of Interest#The Mountain\|The Mountain]]; has been having problems [[Sessions/2026/2026-10-08\|Source]]; reached 2026-10-22: a common house (tankard and fork sign), a hadozee asked the party to deal with **goblinoids**, reptilian creatures and a male drow; coffee and mushroom powder sold there [[Sessions/2026/2026-10-22\|Source]] |
+| Cult Encampment | Camp | | Dark camp of yurts around a campfire, held by gnolls, hobgoblins, goblins and duergar; a drow mage and the goliath Rivermaw Stormborn were there; a ritual summoned an aeorian nullifier and two adult kruthik [[Sessions/2026/2026-11-05\|Source]] |
 
 ## Sources
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
