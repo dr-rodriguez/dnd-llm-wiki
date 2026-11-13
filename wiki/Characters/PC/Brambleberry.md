@@ -41,8 +41,10 @@ Throughout her adventures, Brambleberry has demonstrated both roguish and ranger
 - **October 8, 2026:** The party decided against buying a cart for her to pull. Spotted the hatted goat following the party (later revealed as an **[[Lore/Bestiary#Alp|Alp]]**) and tried to talk to it. On second watch a "rabbit" (a **[[Lore/Bestiary#Treacle|treacle]]**) chewed through her pants (Maxim's old ones) and **drained her blood**; she **passed out with 2 levels of exhaustion**, and the wound resisted closing until [[Characters/PC/Aolis|Aolis]] bound it. A long rest brought her back down to **1 level of exhaustion**. [[Sessions/2026/2026-10-08|Session]]
 - **October 22, 2026:** Still had **2 levels of exhaustion** after resting (she started with 3) and got no ride on the horse. At Lumber Camp drank bitter **coffee**, and [[Characters/PC/Zinjaro|Zinjaro]]'s **Greater Restoration** cleared her remaining exhaustion. Helped rescue two halflings from **21 orcs**. [[Sessions/2026/2026-10-22|Session]]
 - **November 5, 2026:** Overheard cultists talking of **"ascension"** and **lizardmen near the river**. Fought with **psychic daggers**, **killed the fire elemental**, and attacked the goliath **Rivermaw Stormborn**. Became **Horrified** after the ritual summoned an aeorian nullifier and two adult kruthik. [[Sessions/2026/2026-11-05|Session]]
+- **November 12, 2026:** While Horrified, **slashed randomly and hit Villhelm**. Later **killed a kruthik** with **psychic daggers**, then was **pounced and knocked prone** by the aeorian absorber and struck repeatedly by the nullifier.
 
 ## Sources
+- [[Sessions/2026/2026-11-12|Session: 2026-11-12]]
 - [[Sessions/2026/2026-11-05|Session: 2026-11-05]]
 - [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]

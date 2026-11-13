@@ -23,7 +23,10 @@ Part of [[Lore/Lore|Lore]].
 * **Yellow Madness**: A phenomenon or charm effect caused by a mysterious yellow book. It causes an intense compulsion to possess the book and can lead to madness, evidenced by ramblings in yellow ink. In May 2026, the book spoke to [[Characters/PC/Maximus Arkelius|Maxim]], displaying phrases such as "**Ad Astra**" (To the stars) and "**Mors Imperii**" (Death of the empire).
 * **The Prophecy**: A figure in a yellow cloak delivered a prophecy in May 2026: *"In morte imperii deus noster de caelo descendet"* (In the death of the empire, our god will descend from space).
 
+* **Cult Encampment Altars**: At the cult camp, [[Characters/PC/Zinjaro|Zinjaro]] found altars to three different religions: a **nondescript blood god**, a god of **balance** (scales of justice iconography), and a **draconic** deity. They seem to **give traits to the summoned creatures**. They may be **lesser deities**; Zinjaro recognizes none. [[Sessions/2026/2026-11-12|Source]]
+
 ## Sources
+- [[Sessions/2026/2026-11-12|Session: 2026-11-12]]
 - [[Sessions/2026/2026-08-06|Session: 2026-08-06]]
 - [[Sessions/2026/2026-07-23|Session: 2026-07-23]]
 - [[Sessions/2026/2026-07-16|Session: 2026-07-16]]

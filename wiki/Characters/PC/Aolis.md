@@ -50,8 +50,10 @@ Aolis arrived at the Adventurer's Guild via boat alongside [[Characters/PC/Zinja
 - **October 8, 2026:** Was the only one able to **pet the hatted goat**; once [[Characters/PC/Zinjaro|Zinjaro]] identified it as an **[[Lore/Bestiary#Alp|Alp]]**, reluctantly **killed it with Chill Touch** and buried it. On second watch, noticed too late that a "rabbit" (a **[[Lore/Bestiary#Treacle|treacle]]**) was draining [[Characters/PC/Brambleberry|Bramble]]; killed it with two spell attacks and bound her wound. It had eaten some of his **Sentinel's Flask**. [[Sessions/2026/2026-10-08|Session]]
 - **October 22, 2026:** Offered a ride on [[Characters/PC/Maximus Arkelius|Maxim]]'s draft horse. In the woods outside Lumber Camp, fought **21 orcs** holding two halflings, and stood in place with [[Characters/PC/Zinjaro|Zinjaro]] while the rescued halflings used **circle magic** to summon a rainstorm and douse the fires. [[Sessions/2026/2026-10-22|Session]]
 - **November 5, 2026:** At the cult encampment, used **Inflict Wounds** on a gnoll, then rushed toward a **drow mage** he **recognized as the retainer of his next-oldest sister** ([[Characters/Characters|Madeleine]]). Summoned his **Hound of Ill Omen**, was **grappled by the goliath Rivermaw Stormborn** at the drow's nod, shielded with **Shield of Faith** by [[Characters/PC/Zinjaro|Zinjaro]], and pulled to safety by [[Characters/PC/Ogra Oaksworn|Ogra]]'s vines. [[Sessions/2026/2026-11-05|Session]]
+- **November 12, 2026:** His **Circle of Death** did nothing to the **aeorian nullifier** (immune to necrotic); he and Maxim then focused spells on the chanting channelers. His **Hound of Ill Omen** ran away frightened by the Horrified effect.
 
 ## Sources
+- [[Sessions/2026/2026-11-12|Session: 2026-11-12]]
 - [[Sessions/2026/2026-11-05|Session: 2026-11-05]]
 - [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]

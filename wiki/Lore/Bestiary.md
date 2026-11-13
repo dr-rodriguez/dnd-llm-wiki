@@ -35,7 +35,12 @@ Part of [[Lore/Lore|Lore]].
   ![[aeorian nullifier.png|300]]
   ![[adult kruthik.png|300]]
 
+* **Aeorian Creatures**: Summoned at the cult camp ([[Sessions/2026/2026-11-05|2026-11-05]], [[Sessions/2026/2026-11-12|2026-11-12]]). The **aeorian nullifier** is the **bane of magic users**: it can **resist and deny magical effects** (it **Counterspelled** [[Characters/PC/Zinjaro|Zinjaro]]'s Flame Pillar), is **immune to necrotic**, and its **Horrid Gnashing** forces saves on anyone within **20 feet** (the Horrified effect); Zinjaro's **Aura of Purity** protected allies from it. It rushes in to attack up close. The **aeorian absorber** was summoned by chanting channelers; it **pounces** to knock targets prone and its **Tail Ray absorbs half of a spell's damage and redirects it to the caster**. [[Characters/PC/Ogra Oaksworn|Ogra]] killed both. [[Sessions/2026/2026-11-12|Source]]
+
+  ![[aeorian absorber.png|300]]
+
 ## Sources
+- [[Sessions/2026/2026-11-12|Session: 2026-11-12]]
 - [[Sessions/2026/2026-11-05|Session: 2026-11-05]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]
 - [[Sessions/2026/2026-09-03|Session: 2026-09-03]]
