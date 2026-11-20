@@ -42,9 +42,11 @@ Throughout her adventures, Brambleberry has demonstrated both roguish and ranger
 - **October 22, 2026:** Still had **2 levels of exhaustion** after resting (she started with 3) and got no ride on the horse. At Lumber Camp drank bitter **coffee**, and [[Characters/PC/Zinjaro|Zinjaro]]'s **Greater Restoration** cleared her remaining exhaustion. Helped rescue two halflings from **21 orcs**. [[Sessions/2026/2026-10-22|Session]]
 - **November 5, 2026:** Overheard cultists talking of **"ascension"** and **lizardmen near the river**. Fought with **psychic daggers**, **killed the fire elemental**, and attacked the goliath **Rivermaw Stormborn**. Became **Horrified** after the ritual summoned an aeorian nullifier and two adult kruthik. [[Sessions/2026/2026-11-05|Session]]
 - **November 12, 2026:** While Horrified, **slashed randomly and hit Villhelm**. Later **killed a kruthik** with **psychic daggers**, then was **pounced and knocked prone** by the aeorian absorber and struck repeatedly by the nullifier.
+- **November 19, 2026:** **Unlocked the heat-warped silver box** from the drow mage's remains (it took a few hours), at Aolis's request not opening it.
 
 ## Sources
 - [[Sessions/2026/2026-11-12|Session: 2026-11-12]]
+- [[Sessions/2026/2026-11-19|Session: 2026-11-19]]
 - [[Sessions/2026/2026-11-05|Session: 2026-11-05]]
 - [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]

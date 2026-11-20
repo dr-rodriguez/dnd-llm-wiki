@@ -28,6 +28,7 @@ Sol'Ar (also written "Solar") is the god of **revelry and the sun**, and patron 
 - **September 18, 2025:** Zinjaro's **Shard of Solar** summoned daylight that broke the Hydra's terror. Afterwards **Sol'Ar's avatar appeared, visible to everyone**. To prove himself he made Maxim incredibly drunk. Luna appeared beside him, and the boat split into Solar's partying side and Luna's somber side. He left calling the three-foot Zinjaro "Big Guy". [[Sessions/2025/2025-09-18|Session]]
 - **October 2025:** Danyel described **the Net**, a wall separating the world from the "Planar". Zinjaro wondered if it was the wall Sol'Ar had mentioned. [[Sessions/2025/2025-10-02|Session]], [[Sessions/2025/2025-10-09|Session]]
 - **2026:** Zinjaro credited Sol'Ar for some unripe green bananas, and took a fire salamander he saw to be Sol'Ar. In August he cast *Conjure Celestial*, summoning Sol'Ar's light as a moving cylinder that healed allies and harmed enemies. In September a bartender cut him off at 26 drinks on spotting his Sol'Ar symbol. [[Sessions/2026/2026-02-12|Session]], [[Sessions/2026/2026-03-12|Session]], [[Sessions/2026/2026-08-20|Session]], [[Sessions/2026/2026-09-24|Session]]
+- **November 19, 2026:** Zinjaro's **Temple of the Gods** spell raised an **Aztec-style temple dedicated to him** from the night, with **bananas, wine and glowing sunlight**, as a protected long-rest area. [[Sessions/2026/2026-11-19|Session: 2026-11-19]]
 
 ## Sources
 - [[Sessions/2025/2025-05-08|Session: 2025-05-08]]
@@ -41,4 +42,5 @@ Sol'Ar (also written "Solar") is the god of **revelry and the sun**, and patron 
 - [[Sessions/2026/2026-03-12|Session: 2026-03-12]]
 - [[Sessions/2026/2026-08-20|Session: 2026-08-20]]
 - [[Sessions/2026/2026-09-24|Session: 2026-09-24]]
+- [[Sessions/2026/2026-11-19|Session: 2026-11-19]]
 - [[Sessions/Extra Notes|Extra Notes]]

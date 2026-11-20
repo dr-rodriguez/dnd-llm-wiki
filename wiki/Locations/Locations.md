@@ -53,8 +53,9 @@ type: location
 | Strange Island | Island | | Home to Nixie |
 | Mysterious Shop | Shop | [[Locations/Tesselia\|Tesselia]] | Pristine shop run by the Yellow Man; contains symbols of the Outer Planes and a secret sitting room/bedroom. |
 | Wheat Burrow | | | On the way to Lumber Camp from [[Locations/Tesselia\|Tesselia]] [[Sessions/2026/2026-10-08\|Source]] |
-| Lumber Camp | Camp | | On the way to [[Lore/Locations of Interest#The Mountain\|The Mountain]]; has been having problems [[Sessions/2026/2026-10-08\|Source]]; reached 2026-10-22: a common house (tankard and fork sign), a hadozee asked the party to deal with **goblinoids**, reptilian creatures and a male drow; coffee and mushroom powder sold there [[Sessions/2026/2026-10-22\|Source]] |
+| Lumber Camp | Camp | | On the way to [[Lore/Locations of Interest#The Mountain\|The Mountain]]; has been having problems [[Sessions/2026/2026-10-08\|Source]]; reached 2026-10-22: a common house (tankard and fork sign), a hadozee asked the party to deal with **goblinoids**, reptilian creatures and a male drow; coffee and mushroom powder sold there [[Sessions/2026/2026-10-22\|Source]]; 2026-11-19: the party reported the cult situation to the hadozee and ate at the tavern, followed by a goose [[Sessions/2026/2026-11-19\|Source]] |
 | Cult Encampment | Camp | | Dark camp of yurts around a campfire, held by gnolls, hobgoblins, goblins and duergar; a drow mage and the goliath Rivermaw Stormborn were there; a ritual summoned an aeorian nullifier and two adult kruthik [[Sessions/2026/2026-11-05\|Source]]; 2026-11-12: party killed the nullifier, an aeorian absorber and the drow mage; found altars to a blood god, a balance deity and a draconic deity, plus a pit of bodies [[Sessions/2026/2026-11-12\|Source]] |
+| Raided Mining Camp | Camp | | Encampment by the mountains that looks like a raided mining camp; a mine shaft on the far side goes deeper into the mountain; a locked room with two slimes lured Aolis in via a goose [[Sessions/2026/2026-11-19\|Source]] |
 
 ## Sources
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]

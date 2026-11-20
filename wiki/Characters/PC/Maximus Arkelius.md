@@ -48,9 +48,11 @@ During his adventures, Maxim formed a close bond with [[Characters/PC/Aolis|Aoli
 - **October 22, 2026:** Took the riderless **Clydesdale draft horse** and offered [[Characters/PC/Aolis|Aolis]] a ride. Tried the camp's **bitter coffee** and reeled. Heard the **orcs** moving through the woods near Lumber Camp and led the chase; leaned toward hiding, but the party saved the two halflings. [[Sessions/2026/2026-10-22|Session]]
 - **November 5, 2026:** Crept toward the cult camp, **Fireballed** a group of gnolls (setting a **yurt** alight), then Fireballed toward the distant chanting, revealing a drow mage. Cast **Hold Person** on the goliath Rivermaw Stormborn. [[Sessions/2026/2026-11-05|Session]]
 - **November 12, 2026:** **Fireballed** the enemy crowd, **killing the drow mage**. His **Cone of Cold** hit the nullifier, absorber and two lizardfolk, but the absorber's **Tail Ray** absorbed half and **redirected it to him**. Gave an unconscious lizardfolk a sip of the **Sentinel flask**; it healed him and he immediately attacked.
+- **November 19, 2026:** Could not read the **coded letter**. Spotted the **goose** on the road and **5 wolves** at sunset, and **killed the wolves with magic** after rolling a 1 on the wolf-encounter d100.
 
 ## Sources
 - [[Sessions/2026/2026-11-12|Session: 2026-11-12]]
+- [[Sessions/2026/2026-11-19|Session: 2026-11-19]]
 - [[Sessions/2026/2026-11-05|Session: 2026-11-05]]
 - [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]

@@ -51,9 +51,11 @@ Aolis arrived at the Adventurer's Guild via boat alongside [[Characters/PC/Zinja
 - **October 22, 2026:** Offered a ride on [[Characters/PC/Maximus Arkelius|Maxim]]'s draft horse. In the woods outside Lumber Camp, fought **21 orcs** holding two halflings, and stood in place with [[Characters/PC/Zinjaro|Zinjaro]] while the rescued halflings used **circle magic** to summon a rainstorm and douse the fires. [[Sessions/2026/2026-10-22|Session]]
 - **November 5, 2026:** At the cult encampment, used **Inflict Wounds** on a gnoll, then rushed toward a **drow mage** he **recognized as the retainer of his next-oldest sister** ([[Characters/Characters|Madeleine]]). Summoned his **Hound of Ill Omen**, was **grappled by the goliath Rivermaw Stormborn** at the drow's nod, shielded with **Shield of Faith** by [[Characters/PC/Zinjaro|Zinjaro]], and pulled to safety by [[Characters/PC/Ogra Oaksworn|Ogra]]'s vines. [[Sessions/2026/2026-11-05|Session]]
 - **November 12, 2026:** His **Circle of Death** did nothing to the **aeorian nullifier** (immune to necrotic); he and Maxim then focused spells on the chanting channelers. His **Hound of Ill Omen** ran away frightened by the Horrified effect.
+- **November 19, 2026:** Searched the **drow mage's remains** and found a **coded letter** and a **heat-warped silver box**; he could **read the cipher** (Maxim could not) and learned it came from an **agent of the court** whose operations in Northern Andore mention a woman "in the region" (possibly him) and the name **Essa**. Told Bramble to unlock the box but not open it. Was **bitten by the goose** after touching its beak, and later **followed it into a locked room with two slimes** at the raided mining camp.
 
 ## Sources
 - [[Sessions/2026/2026-11-12|Session: 2026-11-12]]
+- [[Sessions/2026/2026-11-19|Session: 2026-11-19]]
 - [[Sessions/2026/2026-11-05|Session: 2026-11-05]]
 - [[Sessions/2026/2026-10-22|Session: 2026-10-22]]
 - [[Sessions/2026/2026-10-08|Session: 2026-10-08]]

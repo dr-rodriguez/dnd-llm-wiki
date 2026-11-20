@@ -10,8 +10,10 @@ Part of [[Lore/Lore|Lore]].
 * **The Past and Future, Running Free**: See the entry under [[Lore/Technology|Technology]] — an organization or creed signing an embezzlement ledger recovered near Tesselia, also found on a book carried by [[Characters/NPC/Amber Lyre|Amber Lyre]].
 * **The Overseer (VI)**: See [[Characters/NPC/Overseer (VI)|The Overseer]] — a body of [[Lore/Technology#Slave Drives|Slave Drives]] claiming independence from all prior factions.
 * **Technocrats**: The "Technocrats of the Ministrate", an insectoid race on [[Locations/Tower Isle|Tower Isle]], the island in the central sea. They control its government, which is split into oligarchic dictators by region. They act as a trading kingdom and are known as hoarders; 300mm guns with a 20+ mile range keep non-Technocrats away. The party's insectoid friends (Tick, Nock and Screeck) are of this folk, and in July 2026 the [[Characters/NPC/Overseer (VI)|Overseer]] held CCTV footage of them. [[Sessions/2024/2024-07-11|Source]], [[Sessions/2024/2024-08-01|Source]], [[Sessions/2026/2026-02-19|Source]], [[Sessions/2026/2026-07-23|Source]]
+* **Outrider Parties**: Groups that use **coded documents**. A coded letter from an **agent of the court** was found on the drow mage's remains. Outrider parties are either **"gathering"** (taking people, i.e. slavers) or **"agents of the court"** (specific tasks). The letter describes **ongoing operations in Northern Andore** that use the dragon's appearance and the Mountain's "infestation" as **cover**, says **"we know she is in the region, we have not laid eyes on her"**, and is signed with three names (**Essa** and two in another language) in three scripts. [[Sessions/2026/2026-11-19|Source]]
 
 ## Sources
+- [[Sessions/2026/2026-11-19|Session: 2026-11-19]]
 - [[Sessions/2026/2026-08-06|Session: 2026-08-06]]
 - [[Sessions/2026/2026-07-23|Session: 2026-07-23]]
 - [[Sessions/2026/2026-07-16|Session: 2026-07-16]]

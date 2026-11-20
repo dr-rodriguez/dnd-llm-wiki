@@ -72,7 +72,8 @@ Welcome to the DnD Campaign Wiki. This page catalogs all entities, concepts, and
 ### Session Logs
 All campaign sessions are logged in the `wiki/Sessions/` directory (one subfolder per year). Complete list in reverse chronological order (latest first):
 
-- [[Sessions/2026/2026-11-12|2026-11-12]] *(Latest Session)*
+- [[Sessions/2026/2026-11-19|2026-11-19]] *(Latest Session)*
+- [[Sessions/2026/2026-11-12|2026-11-12]]
 - [[Sessions/2026/2026-11-05|2026-11-05]]
 - [[Sessions/2026/2026-10-22|2026-10-22]]
 - [[Sessions/2026/2026-10-08|2026-10-08]]
